@@ -1,0 +1,5 @@
+## Private Data and Anonymous or Pseudo-Anonymous Data?
+
+For private blockchains, it is straightforward to see that all data that is stored on private blockchains is private and creates 100% anonymity for its users.  The only entity or person that has access to information stored on the blockchain is the blockchain operator.  This is comparable to how a bank operates.  The bank knows everything about all of its customers and the customers only know about themselves - the non-bank customers do not know a thing.
+
+On a public blockchain, people can join and operate a blockchain node on which all information of that blockchain is stored.  While private blockchains get their security from putting their blockchain nodes in secure buildings operated by trusted people a public blockchain achieves its security from having a large number of nodes that have the same data replicated over and over.  A consensus algorithm is required in order to accept new data (new blocks) to the chain.

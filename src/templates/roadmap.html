@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+<head>
+	<link rel="stylesheet" href="/static/webix.min.css?v=7.3.1" type="text/css"   charset="utf-8">
+	<script src="/static/webix.min.js?v=7.3.1" type="text/javascript" charset="utf-8"></script>
+	<title>TimeLine::Types</title>
+	<style>
+		.Available .webix_timeline_value{
+			color:#55CD97;
+		}
+		.Taken .webix_timeline_value{
+			color:#1CA1C1;
+		}
+		.Broken .webix_timeline_value{
+			color:#FF5C4C;
+		}
+		.Deprecated .webix_timeline_value{
+			color:#94A1B3;
+		}
+		.Fixed .webix_timeline_value{
+			color:orange;
+		}
+		.Broken line, .Fixed line{
+			stroke-dasharray: 5;
+		}
+	</style>
+</head>
+<body>
+	<script type="text/javascript">
+
+	var color = function(obj){
+		if(obj.color == "green") return "#55CD97";
+		if(obj.color == "blue") return "#1CA1C1";
+		if(obj.color == "red") return "#FF5C4C";
+		if(obj.color == "gray") return "orange";
+		if(obj.color == "orange") return "#94A1B3";
+	};
+
+	var t1 = {  
+		view:"timeline",  width:1000,
+		type:{
+			height:120,
+			lineColor:color
+		},
+		scheme:{
+			$init:function(obj){
+				obj.$css = obj.value;
+				obj.details = obj.details
+			}
+		},
+		// data:webix.copy(data2)
+	};
+
+	t1.type.type = "alternate";
+
+	webix.ready(function(){
+		fetch('/wiki/{{data}}').then(response => 
+			{return response.json()}).then(data => 
+				{
+					t1.data=data["steps"]
+					// console.log(t1.data);
+					webix.ui({
+						padding:0, margin:0, type:"space",
+						cols:[
+							{ rows:[
+								// {template:"Roadmap:", type:"header", css:"webix_transparent"}, t1					
+								t1	
+							]}
+						]
+					});
+				});
+	});
+
+	</script>
+</body>
+</html>

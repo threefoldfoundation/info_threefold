@@ -1,0 +1,7 @@
+## Drivers for Edge Computing
+
+Some latency sensitive applications require fast response times in order to work properly. A good example is self-driving cars. It is obvious that a lot of decisions in autonomous vehicles have to be made instantaneously, the decision on how to react to the unexpected while driving with high speed can not afford to be slowed down by packets travelling long distances to be processed. Eliminating additional hops and any further points of failure increases the reliability of the system. Moving compute as far out as possible to the edge is the logical choice.
+
+In a more generic way  more real world situations are relying on an IT component to be involved in some form of decision making where time is of essence.  The current IT setup is that we have highly concentrated IT setups in data centers connected by fast networks to the rest of the world. This setup is rapidly becoming obsolete as we need to have the fastest possible response for everyday activities which cannot sustain the time delay caused by (long) network connections.  Having actual data processing and storage facilities close to these real world situations is the next evolution of IT capacity.
+
+These thousands of situation are mostly in the IoT area but also other killer applications like streaming would greatly benefit from being served from the edge rather than a distant central location.

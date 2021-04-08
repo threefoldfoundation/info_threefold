@@ -1,0 +1,3 @@
+# The combination of people and blockchains is really powerful 
+
+People are best placed to create decentralised business models combining the strengths of blockchain with complementary measures to compensate for the weaknesses of the technology. Blockchains are not replacing people. Blockchain technology is just a tool, enhancing people's ability to organise themselves around decentralised initiatives that require no central body to govern or control. A powerful tool, but a tool.

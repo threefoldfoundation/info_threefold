@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/galleria/1.6.1/galleria.min.js"></script>
+    <style>
+        .galleria{ width: 800px; height: 500px; background: #000 }
+    </style>
+
+</head>
+
+<body>
+
+    <script>
+        (function() {
+            Galleria.loadTheme('https://cdnjs.cloudflare.com/ajax/libs/galleria/1.6.1/themes/azur/galleria.azur.min.js');
+            Galleria.run('.galleria');
+            Galleria.configure({
+                imageCrop: true,
+                transition: 'pulse',
+                // _showProgress: true,
+                // _showFullscreen: true,
+                // _showPopout: true,
+            });
+        }());
+    </script>
+
+    <div id="gallery" class="galleria">
+        <img src="korenlei_22.jpg" data-highres="korenlei_22.jpg" />
+        <img src="korenlei_old.jpeg" data-highres="korenlei_old.jpeg" />
+    </div>
+
+</body>
+</html>

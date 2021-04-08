@@ -1,0 +1,15 @@
+[[steps]]
+value="test2"
+color = "red"
+details = '<a href="https://app.quicktype.io/">link text</a>'
+data = '2017-08-01'
+
+[[steps]]
+color = "gray"
+value="test"
+details = """
+        <a href='https://app.quicktype.io/'>link text</a>
+        some details<BR>
+        
+        """
+data = '2017-09-01'

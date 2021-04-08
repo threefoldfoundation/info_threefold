@@ -1,0 +1,1 @@
+[Setup a Zero-OS Farm with Zero-Boot](https://docs.grid.tf/threefold/info/raw/branch/master/howto/zero_boot_hardware.md ':include :type=markdown')

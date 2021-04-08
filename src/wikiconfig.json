@@ -1,0 +1,10 @@
+{
+  "name": "info_threefold",
+  "depends": ["https://github.com/threefoldtech/info_tftech", "https://github.com/threefoldfoundation/legal", "https://github.com/threefoldfoundation/info_gridmanual"],
+  "replace": [],
+  "filechanges": [],
+  "error_ignore":[
+    "simulator_reality_checks","simulator_sidebar","simulator_nodebatches"
+  ]
+
+}
