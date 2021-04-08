@@ -19,6 +19,8 @@ Every month, 1/48 of the tokens unlock. But once the price goes above a certain 
 
 Vesting starts May 2021 (Month 1)
 
+> *TFT price used to release the vested tokens is calculated by the pricing oracle. The pricing orcale uses the average price over the last month as pulled from multiple decentralized exchanges who have a public api to do so. We* **DO NOT** *use the price as shown on one single exchange or other pricing venues such as: Coingecko, Coinmarketcap, etc.*
+
 ## Accelerated Vesting Table
 
 ![](img/vesting_scheme.png)
