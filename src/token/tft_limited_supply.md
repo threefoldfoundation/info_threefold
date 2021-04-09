@@ -61,7 +61,7 @@ TFT holders (e.g. as a result of farming) might not want to sell their tokens at
 
 Expectations are proven that when the price increases, valuation can enter a hype cycle that feeds into itself. This would lead to an economic bubble.
 
-> We do not believe in hype or speculation as mechanisms to drive ThreeFold or TFT value! While this can lead to big speculative gains for some, others loose from it. ThreeFold does not support speculative bubbles and the worsening in global inequalities that can occur as a consequence. We believe in a fair evaluation of TFT derived from the natural economic demand of the TF Grid.
+> We do not believe in hype or speculation as mechanisms to drive ThreeFold or TFT value! While this can lead to big speculative gains for some, others loose from it. ThreeFold does not support speculative bubbles and the worsening in global inequalities that can occur as a consequence. We believe in a fair valuation of TFT derived from the natural economic demand of the TF Grid.
 
 ## Vesting Pools
 

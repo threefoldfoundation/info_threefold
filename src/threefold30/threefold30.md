@@ -3,7 +3,7 @@
 # ThreeFold 3.0 Launch
 
 
-ThreeFold 3.0 is our final step in our go to market approach. 
+ThreeFold 3.0 is our final step in our go-to-market approach. 
 
 We have spent the last 5 years building ThreeFold working towards this magical moment.
 
@@ -18,8 +18,8 @@ What is going to happen during the 3.0 launch:
 	- **launching marketcap < 20 million USD**
     	- vesting of +75% of all tokens (see [token_overview](token_overview))
 - TF Cloud 3.0 = Public Launch
-	- **Edge Virtual Datacenter**, run your kubernetes workloads anywhere in the world on the TFgrid, compatible with all tools and full docker/kubernetes/... ecosystem. Compatible with major frameworks like Ansible & Helm.
-	- **Quantum Safe Filesystem**: store PB's of data at incredible cost & reliability, compatible with IPFS & HyperCore / Hyper Drive for P2P usecases. Any Storage app can be put on top. This is the most reliable and global scalable **filesystem** ever invented.
+	- **Edge Virtual Datacenter**, run your Kubernetes workloads anywhere in the world on the ThreeFold_Grid, compatible with all tools and full Docker/Kubernetes/... ecosystem. Compatible with major frameworks like Ansible & Helm.
+	- **Quantum Safe Filesystem**: store petabytes of data at incredible cost & reliability, compatible with IPFS & HyperCore / Hyper Drive for P2P usecases. Any Storage app can be put on top. This is the most reliable and global scalable **filesystem** ever invented.
 - TF Marketplace 3.0
 	- marketplace of 30+ existing solutions running on top of our grid, some huge like Owncloud who will push as well, see https://marketplace.threefold.io
 - TF Digital Twin 1.0 Launch
