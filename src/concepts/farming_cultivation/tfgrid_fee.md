@@ -1,11 +1,10 @@
-## TFGrid Support Fee
+## TFGrid Farming Contribution
 
-Note that the ThreeFold Foundation's sole purpose is to ensure the expansion of the ThreeFold_Grid and its ecosystem according to its vision and values. 
+Note that the ThreeFold Foundation's sole purpose is to ensure the expansion of the ThreeFold_Grid and its ecosystem according to its vision and values.
 
 To fund these activities, a part of each TFT Farming (mining) is going to the ThreeFold Foundation to finance the ThreeFold_Grid's expansion and to fund projects that are believed to bring a positive human or planet impact.
 
-
-The ThreeFold Foundation uses these proceeds to 
+The ThreeFold Foundation uses these proceeds to
 
 - fund operational costs for TFFoundation (promotion of grid, marketing, development, engineering)
 - sponsor community projects

@@ -2,19 +2,20 @@
 
 # Certified Farming vs. Do It Yourself
 
-Certified farming is not available yet. Later this year (2021) it will be made available to farmers. Certified Farming needs to comply to stronger levels of SLAs (Service Level Agreements). 
+Certified farming will be available H2 2021, we are in the process of signing agreements between certified farmers & ThreeFold Tech / ThreeFold Foundation.
 
-| Farmer Type              | Certified     | Do It Yourself            |
-| ------------------------ | ------------- | ------------------------- |
-| Server Hardware          | Certified     | any INTEL or AMD server   |
-| SLA Contract with TF Tech | Yes           | No                        |
-| TFGrid_Fee     | Yes           | Yes                        |
-| TFTech Support           | Yes           | No                        |
-| Capacity Pricing         | set by Farmer | set by Foundation (fixed) |
-| Fee to TFT Tech          | yes           | no                        |
-
+| Farmer Type                    | Certified | Do It Yourself          |
+| ------------------------------ | --------- | ----------------------- |
+| Server Hardware                | Certified | any INTEL or AMD server |
+| Higher SLA Levels (uptime)     | Yes       | No                      |
+| Support Contract with TF Tech  | Yes       | No                      |
+| Service Points = Support Model | Yes       | No                      |
+| TFGrid_Fee                     | Yes       | Yes                     |
+| TFTech Support                 | Yes       | No                      |
+| Capacity Pricing Extra         | Yes       | No                      |
 
 Factors the TFGrid Reputation_engine will look at:
+
 - Bandwidth
 - Utilization
 - Uptime
