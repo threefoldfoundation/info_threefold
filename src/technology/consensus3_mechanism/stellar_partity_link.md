@@ -1,5 +1,5 @@
 
-## Link Between Stellar & parity
+## Link Between Stellar & Parity
 
 
 ```mermaid
@@ -39,7 +39,7 @@ graph TB
 
 ```
 
-Above diagram shows how our consensus engine can deal with parity and stellar blockchain at same time.
+Above diagram shows how our consensus engine can deal with Parity and Stellar blockchain at same time.
 
 This is a very novel approach which allows us many possibilities for the future.
 
