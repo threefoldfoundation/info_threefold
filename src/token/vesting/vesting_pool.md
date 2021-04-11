@@ -4,11 +4,9 @@
 
 ThreeFold has implemented a vesting pool over 48 months.
 
-Most of the farming done before March 2021 has been put into this vesting pool.
-
 ## ThreeFold Vesting 
 
-Every month, 1/48 of the tokens unlock. But once the price goes above a certain amount, more tokens unlock. See table below.
+The vesting pool was designed so that tokens get unlocked according to two factors; time (month) and the token value. Every month, 1/48 of the tokens unlock. Also, once the price goes above a certain amount, more tokens unlock. See the table below.
 
 | description                          |          |
 | ------------------------------------ | -------- |
@@ -17,7 +15,7 @@ Every month, 1/48 of the tokens unlock. But once the price goes above a certain 
 | Start accelerated unlock from        | 0.15 USD |
 | Full unlock from (100% acceleration) | 0.85 USD |
 
-Vesting starts May 2021 (Month 1)
+The Vesting mechanism was launched in April 2021 and the unlocking of tokens will start in May 2021 (Month 1).
 
 > *TFT price used to release the vested tokens is calculated by the pricing oracle. The pricing orcale uses the average price over the last month as pulled from multiple decentralized exchanges who have a public api to do so. We* **DO NOT** *use the price as shown on one single exchange or other pricing venues such as: Coingecko, Coinmarketcap, etc.*
 
