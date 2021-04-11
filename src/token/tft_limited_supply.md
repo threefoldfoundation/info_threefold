@@ -2,7 +2,6 @@
 
 # Limited Token Supply
 
-
 ## Circulation: There is a maximum of 4 Billion TFTs
 
 While the ThreeFold_Grid can expand infinitely, a maximum of 4 Billion TFTs can be in circulation. This should, with time, stabilize the value of TFT and incentivize its stakeholders.
@@ -17,12 +16,12 @@ We believe that the TFT distribution is fair and should lead to the promotion an
 
 With a maximum amount of 4 billion tokens in circulation:
 
-* 75% is reserved for farming where tokens will be created as a result of farming rewards.
-* 3% is to fund community driven projects on the grid. 
-* 5% is used to promote the growth of the grid.
-* 4% is attributed to a liquidity pool and for ecosystem contributions.
-* 7% was used for technology & team acquisition
-* 6% is for the contributors, founders & team. 
+- 75% is reserved for farming where tokens will be created as a result of farming rewards.
+- 3% is to fund community driven projects on the grid.
+- 5% is used to promote the growth of the grid.
+- 4% is attributed to a liquidity pool and for ecosystem contributions.
+- 7% was used for technology & team acquisition
+- 6% is for the contributors, founders & team.
 
 Dive deeper into how the Threefold Tokens are distributed [see here](token_overview).
 
@@ -36,7 +35,8 @@ The commercial capability of a 3Node is at least 6 times superior than the total
 
 ## Natural Economic Demand
 
-The ThreeFold_Grid will attract individuals and communities to build, host and use applications and tools on it due to its many benefits:  
+The ThreeFold_Grid will attract individuals and communities to build, host and use applications and tools on it due to its many benefits:
+
 - 100% ownership of their data, no more intermediaries.
 - Superior reliability through peer-to-peer (decentralized) hosting
 - Guaranteed and transparent execution of software through the [Smart Contract for IT](tftech:smart_contract_for_it).
@@ -55,7 +55,7 @@ The [Grid Valuation](grid_valuation) page shows how the ThreeFold_Grid could gro
 
 > Note that we can't and won't make price predictions on TFT valuation and that all calculations made here are purely hypothetical.
 
-## Stability vs Hype: the hoarding nature of TFT 
+## Stability vs Hype: the hoarding nature of TFT
 
 TFT holders (e.g. as a result of farming) might not want to sell their tokens at this point because they expect a further increase in value. This may result in less liquidity within the TFT economy.
 
@@ -68,6 +68,5 @@ Expectations are proven that when the price increases, valuation can enter a hyp
 In March/April 2021 existing token holders decided to vest their tokens according this this scheme. This was done as a sign of ongoing confidence in the project.
 
 See more about Vesting Pool [here](vesting_pool).
-
 
 !!!alias token_limited_supply,tft_limited_supply,token_supply,token_liquidity

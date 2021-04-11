@@ -1,6 +1,6 @@
 # ThreeFold Token Overview
 
-![](img/token_overview_april6.png)
+![](img/token_overview_april11.png)
 
 > Max: amount of tokens = 4 billion.
 
@@ -9,7 +9,7 @@
     - Zero-OS measured capacity
     - Which needs to be online
     - Better than required SLA (Service Level Agreement).
-  - Rewarded by means of code and verified by TF_Chain (*)
+  - Rewarded by means of code and verified by TF_Chain (\*)
   - Rules as defined by Threefold Foundation but approved by Wisdom_Council
   - Rules are different for certified or DIY capacity
 - 3% for the funding of community driven contribution projects (max 160 million of TFT)
@@ -38,7 +38,7 @@
 
 <!-- Online tool see: https://tokenstats.threefoldtoken.com/ -->
 
-## Tokens Already Rewarded (Minted) 
+## Tokens Already Rewarded (Minted)
 
 ![](img/tokens_liquid_april6.png)
 
@@ -58,7 +58,6 @@ Liquid marketcap in line to token price (april 6 2021 estimate)
 | 0.1 USD          | 16.1 m USD | base price of TFT               |
 | 0.2 USD          | 32.2 m USD | 250% growth compared with today |
 
-
 ## TF Grid is Valuable
 
 - [TFGrid is valuable.](token_grid_value_april2021)
@@ -68,9 +67,8 @@ Liquid marketcap in line to token price (april 6 2021 estimate)
 - [link to the source sheet of the token overview](https://secure.threefold.me/sheet/#/2/sheet/view/4CGJ+yMwEMhDs+66I1rxBJmYETB4j8XDcUqTJ7zOmJk/embed/)
 - We are working on a new reporting tool for TFT which takes the information from the Threefold_Grid explorer. This will be available before end of March 2021.
 - [see how tokens will be farmed in future](tokens_to_farm)
-- All TFTs are the result of farming (after genesis pool) see [ThreeFold History](threefold_history)
+- [ThreeFold Token & Grid History](threefold_history)
 - [overview of the Foundation wallets](threefold_foundation_wallets)
-
 
 ## Disclaimer
 

@@ -21,12 +21,6 @@
   - TF Foundation Dubai has provisioned the TFTv1 & TFTv2 on Stellar blockchain, but has no influence or access to any of the wallets or for that matter the 3Nodes (the boxes providing IT capacity)
   - See below for more info, this was the result of 12 months of work with our community and of-course consensus to do this.
 
-## Since Genesis Pool: Every farmed TFT is the result of farming IT capacity
-
-In more detail, since the genesis pool, every TFT minted/farmed is the result of Zero-OS (our operating system) measuring the hardware resources available and registering that capacity in the TF Explorer. The minting (farming) software then calculate the number of TFT to be minted, which is validated by validation scripts.
-
-See [our decentralization status doc for more info](decentralization_status)
-
 ## We didn't do an initial coin offering (ICO)
 
 We did not issue (print) tokens and go out onto an exchange to offer these tokens to the market. This is referred to as an ICO.
@@ -76,11 +70,10 @@ In Q3 2021 we will/were launching TF Grid 3.0 which has again improvement to the
 
 [TFTA TrustLine](https://stellar.expert/explorer/public/asset/TFTA-GBUT4GP5GJ6B3XW5PXENHQA7TXJI5GOPW3NF4W3ZIW6OOO4ISY6WNLN2)
 
-Accounts that got initial balances migrated them from the previous blockchain, [rivine](https://explorer.threefoldtoken.com/). 
+Accounts that got initial balances migrated them from the previous blockchain, [rivine](https://explorer.threefoldtoken.com/).
 
-To validate this, each migration transaction contain hash of the rivine lock transaction in their memo in hex format. 
+To validate this, each migration transaction contain hash of the rivine lock transaction in their memo in hex format.
 
 [Rivine block explorer](https://explorer.threefoldtoken.com/) can be used for validation purposes.
-
 
 !!!include:legal:tft_not_speculative_note

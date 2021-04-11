@@ -2,7 +2,6 @@
 
 ![](img/tokens_to_farm.png)
 
-- The column farming percentage, explains percentage which needs to go to which pool from farming.
-    - This means 9.88% of farmed tokens need to go to wallets managed by wisdom_council or TF_foundation to come to the distribution as suggested.
+- Explains what has already been done and what still needs to be farmed/minted.
+- This means still 9.88% of tokens need to be created (minted) by wisdom council for non farming
 - Only Technology Acquidition has been full completed.
-

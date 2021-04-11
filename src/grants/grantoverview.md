@@ -12,7 +12,6 @@ In 2021, ThreeFold will in a responsible way try to sell some of the tokens to b
 
 Phase 1, max 20M TFT will be sold in the benefit of projects below, of course not below minimal_price of $0.1.
 
-
 | Project Name                                               | Amount Available | Description                                                                                                                        |
 | :--------------------------------------------------------- | ---------------: | :--------------------------------------------------------------------------------------------------------------------------------- |
 | [TF Foundation](tffoundation)                              |        8,000,000 | Funding the ThreeFold Foundation (marketing, operations team, grid roll out..)                                                     |
@@ -51,8 +50,5 @@ The Wisdom_Council has to unlock the pool required to fulfill below.
 ## Project Delivery Phase 3
 
 TO BE DEFINED, please send all requests for grants to info@threefoldtoken.com
-
-*These TFT are the result of farming see [ThreeFold History](threefold_history)*
-
 
 !!!def alias:TGP,token_grant_program name:'Token Grant Program'
