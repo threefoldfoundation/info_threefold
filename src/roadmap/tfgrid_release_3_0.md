@@ -2,21 +2,27 @@
 
 ![](img/roadmap.png)
 
+We are planning to release TFGrid 3.0 over summer 2021, first as beta.
 
 ## Highlights
-
 
 ### integration with Parity / Polkadot
 
 - smart contract for IT layer on Parity
-- support for staking of TFT
 - colored coins of TFT (have TFT on other blockchains as well)
 - billing/pricing engine integration on Parity
 
 ### planetary network integration
 
-- Seamless integration with ipv4/6 gateway from your mobile
+- Seamless integration with ipv4/6 gateway from your mobile and desktop
 
+### Changes in billing model
+
+Post usage billing makes lide much more easy.
+
+### Zero-OS 3.0
+
+New version of Zero-OS with many updates on network, compute & storage layer.
 
 ## Other Ideas for 3.0 release (not approved yet to be part of 3.0)
 
@@ -33,10 +39,4 @@ The most secure way how to connect external services to your compute & storage w
 - HTTP REST & SSH based front end on top of the 0-Stor
 - Allows anyone to easily store large amounts of data on top of 0-Stor using our distributed storage algorithm.
 
-
-## Timing
-
-Release to public
-
-- Q1 2021
-
+!!!def alias:tf_grid_3,threefold_grid_3
