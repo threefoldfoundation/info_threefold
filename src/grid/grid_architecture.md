@@ -99,7 +99,7 @@ Learn more about Threefold Grid Blockchain [here](consensus3).
 
 *Note: This was last updated March 2021.*
 
-## Further Readings
+## More Info:
 
 - [What is the ThreeFold Token](token_what) - An introduction to ThreeFold Tokens, the medium of exchange on the new Internet.
 - [What is Farming](farming_intro) - An introduction to Farming and how anyone can participate in expanding the ThreeFold Grid.
