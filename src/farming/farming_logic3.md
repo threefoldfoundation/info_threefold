@@ -57,8 +57,7 @@ TFT farmed per month = CPR * CPR_REWARD
 ```
 
 - The TFT farmed = result of compute,storage capacity connected to internet and having good enough uptime
-- The TFT are staked per 3node as arranged by TF_CHAIN.
-- They are only unlocked onde the 3node has 30% of its capacity used, this makes sure there are not too many TFT created.
+- The TFT are staked per 3Node as arranged by TF_CHAIN. DIY Farmers can take tokens out of the staking pool once the 3node has 30% (\*) of its capacity used. Certified farmers can at free will take tokens out of the staking pool (starting Sept 2021).
 - The Farmer gets 100% of farming (minting of TFT), in case of certified farming can be less.
 - The Farmer gets 10% from TF_Cultivation (people buying IT capacity from TFGrid which is network of 3Nodes).
 
