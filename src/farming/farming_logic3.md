@@ -8,9 +8,7 @@ This is done by [TFT Farming](become_a_farmer), ThreeFolds more sustainable equi
 
 The amount of TFT which need to be farmed are calculated once a month by the open source [consensus driven token reward engine](tftech:consensus3).
 
-> Every new Farming box connected to the grid (2 or 3) starting April 2021, will use the Farming Rewards v3 <BR>
-> TFGrid 2.0 explorer will track uptime & connected IT capacity untill TFGrid 3.0 is in production. <BR>
-> The farming rewards are staked per 3Node and only unlocked to farmer once utilization is more than 30% per 3Node.
+!!!include:farming_logic_disclaimer
 
 ## Farming Reward Logic Variables
 
@@ -56,10 +54,10 @@ This is a very simple calculation.
 TFT farmed per month = CPR * CPR_REWARD
 ```
 
-- The TFT farmed = result of compute,storage capacity connected to internet and having good enough uptime
-- The TFT are staked per 3Node as arranged by TF_CHAIN. DIY Farmers can take tokens out of the staking pool once the 3node has 30% (\*) of its capacity used. Certified farmers can at free will take tokens out of the staking pool (starting Sept 2021).
-- The Farmer gets 100% of farming (minting of TFT), in case of certified farming can be less.
-- The Farmer gets 10% from TF_Cultivation (people buying IT capacity from TFGrid which is network of 3Nodes).
+> - The TFT farmed = result of compute,storage capacity connected to internet and having good enough uptime
+> - The TFT are staked per 3Node as arranged by TF_CHAIN. DIY Farmers can take tokens out of the staking pool once the 3node has 30% (\*) of its capacity used. Certified farmers can at free will take tokens out of the staking pool (starting Sept 2021).
+> - The Farmer gets 100% of farming (minting of TFT), in case of certified farming can be less.
+> - The Farmer gets 10% from TF_Cultivation (people buying IT capacity from TFGrid which is network of 3Nodes).
 
 For Certfied farming a contract is made between the farmer and Threefold (or TFTech). This can result in a certain part of the Farming Reward to be given to Threefold or TFTech as a license and/or support fee.
 

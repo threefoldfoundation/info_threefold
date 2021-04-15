@@ -4,13 +4,15 @@ ThreeFold Farming is the process of connecting capacity to the ThreeFold Grid. T
 
 ## What is Farming?
 
+### Simply put: It's process of adding capacity in any form (storage, compute) to the ThreeFold Grid. 
+
 When a farmer connects a 3Node (server) to the ThreeFold_Grid, the total capacity of this server is detected by the ThreeFold's operating system - Zero-OS, and registered on the blockchain database. We call this proof-of-capacity. By keeping the server online, the farmer will be rewarded with [ThreeFold Tokens](token_what) (TFT) by the ThreeFold Foundation. We call this tf_farming.
 
 Once 3Nodes are connected to the internet they become part of to the ThreeFold_Grid. Users can now deploy IT Workloads onto the TF_Grid. This process is known as tf_cultivation.
 
 ## What is 3Node?
 
-A 3Node is a server/ hardware that runs ThreeFold's operating system Zero-OS. 3Nodes are connected to, and provide compute, storage and network to the ThreeFold Grid.
+A 3Node is a bare-metal server that runs ThreeFold's operating system Zero-OS. 3Nodes are connected to, and provide compute, storage and network to the ThreeFold Grid.
 
 ## Proof-of-Capacity
 

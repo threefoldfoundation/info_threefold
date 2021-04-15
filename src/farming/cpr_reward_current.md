@@ -23,3 +23,9 @@ Minimal SLA's need to be achieved before the farming reward can be earned (uptim
 - The Wisdom_council looks at the TFT price and market conditions to make sure there is a proper reward structure for any farmer.
   - Example, it could be logical that as the grid grows the cultivation nr can go up and farming nr can go down.
   - We believe in the power of a "human blockchain" to define the right reward for new farmers.
+
+### CPR Calculations
+
+Calculating your 3Node's CPR can be done through the [Farming Hardware Calculator](farming_hardware_calculator)
+
+!!!include:farming_logic_disclaimer
