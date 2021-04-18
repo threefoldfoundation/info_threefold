@@ -70,11 +70,13 @@ To simulate yourself how farming is rewarded see **[farming calculator](farming_
 
 10% of Cultivation fee goes to farmer (see above).
 
-20-30% of the cultivation fee is being burned by means of the TF_CHAIN in TFGrid 3.0. This means these tokens are destroyed. This makes sure that the amount of tokens being created are low in relation to the value increase of the grid.
+20-40% of the cultivation fee is being burned by means of the TF_CHAIN in TFGrid 3.0. This means these tokens are destroyed. This makes sure that the amount of tokens being created are low in relation to the value increase of the grid.
 
 If a box is used for +80% then there will be more tokens burned than farmed, which means the amount of TFT goes down leading to more scarcity.
 
 The other part of cultivation is used to reward the channel for selling capacity see threefold_channel.
+
+Details see [farming logic 3.0 TFT flows](farming_logic3_tftflow).
 
 !!!include:consensus3_toc
 
