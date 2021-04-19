@@ -25,7 +25,7 @@ A scalable private cloud that comes with a virtual data center solution, a quant
  
 A marketplace of peer-to-peer solutions for communities to scale privately in a truly decentralized way. From web publishing to communication platforms and deploying blockchain nodes, find all the peer-to-peer applications your community may need. 
 
-- Visit TF P2P Cloud website [here](https://marketplace.threefold.io/).
+- Visit TF P2P Cloud website [here](https://threefold.io/marketplace/).
 - Visit TF P2P Cloud wiki [here](https://threefold.io/info/cloud/cloud__evdc_marketplace/).
 
 > Note: TF P2P Marketplace is currently in Beta version. 
