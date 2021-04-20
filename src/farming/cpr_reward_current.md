@@ -26,6 +26,6 @@ Minimal SLA's need to be achieved before the farming reward can be earned (uptim
 
 ### CPR Calculations
 
-Calculating your 3Node's CPR can be done through the [Farming Hardware Calculator](farming_hardware_calculator)
+#### Calculating your 3Node's CPR can be done through the [Farming Hardware Calculator](farming_hardware_calculator)
 
 !!!include:farming_logic_disclaimer
