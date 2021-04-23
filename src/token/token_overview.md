@@ -31,6 +31,9 @@ Total liquid tokens:
 ## Locked tokens
 !!!tokens type:locked-table
 
+## Locked tokens (chart)
+!!!tokens type:locked-chart
+
 ### Account (GDRFR3QGMRO5PG3BMSTFGBMDFXNVAB6HUZZS34S7QODXXFZX7YBNUQOE)
 !!!tokens type:account-info id:GDRFR3QGMRO5PG3BMSTFGBMDFXNVAB6HUZZS34S7QODXXFZX7YBNUQOE
 
