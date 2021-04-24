@@ -1,5 +1,7 @@
 # ThreeFold Token Overview
 
+!!!time
+
 ## TFT
 **Total**:
 !!!tokens type:value id:total-tokens
@@ -28,21 +30,19 @@ Total illiquid foundation tokens:
 Total liquid tokens: 
 !!!tokens type:value id:total-liquid-tokens
 
+<!--
 ## Locked tokens
 !!!tokens type:locked-table
+-->
 
 ## Locked tokens (chart)
 !!!tokens type:locked-chart
 
-### Account (GDRFR3QGMRO5PG3BMSTFGBMDFXNVAB6HUZZS34S7QODXXFZX7YBNUQOE)
-!!!tokens type:account-info id:GDRFR3QGMRO5PG3BMSTFGBMDFXNVAB6HUZZS34S7QODXXFZX7YBNUQOE
+## Current Distribution Values
+!!!tokens type:current-distribution
 
-### Vesting Accounts
-!!!tokens type:account-vesting id:GDRFR3QGMRO5PG3BMSTFGBMDFXNVAB6HUZZS34S7QODXXFZX7YBNUQOE
-
-### Locked Amounts
-!!!tokens type:account-locked id:GDRFR3QGMRO5PG3BMSTFGBMDFXNVAB6HUZZS34S7QODXXFZX7YBNUQOE
-
+## Total Distribution
+!!!tokens type:total-distribution
 
 ![](img/token_overview_april11.png)
 
