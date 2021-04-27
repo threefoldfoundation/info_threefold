@@ -6,16 +6,20 @@
 
 ### Activate your BTC wallet in the ThreeFold Connect App
 
+This is done simlply by clicking the `ACTIVATE` button, agree with the Terms and Conditions, and confirm the activation.
+
 ![](img/btc_activate.jpg ':size=300')
 
 ### Transfer BTC to your wallet
 
-Once activated, your wazllet address is ready to receive BTC. 
+Once activated, your wallet address is ready to hold BTC. The address is the same as the one holding TFT and can be copied into memory by clicking in the upper right corner of the wallet bar. 
 
 ### Exchange BTC into TFT
 
-You can create a TFT buy order, which will be launched on the Stellar DEX. 
-These buy orders will be executed immediately after submission of the order, under the conditions that the price criterium is met. A trade order will lead to buying TFTs against the cheapest available price. So it might be that the price you pay for a TFT might be less than indicated. 
+once you have BTC available in your wallet, you can use it to create a TFT buy order with it, which will be launched on the Stellar DEX. 
+These buy orders will be executed immediately after submission of the order, under the conditions that the price criterium is met. A trade order will lead to buying TFTs against the cheapest available price. Right now it doesn't make sense to decrease the price of the token, as this will lead to a non-fulfilled order and your wallet will 'spin' eternally. 
+Increasing the price can be done without risk, as the cheapest orders on the Stellar DEX are always the first ones to be used for. 
+So it might be very well that the price you pay for a TFT might be less than indicated. 
 
 You can find the buy option in the TFT wallet, option `BUY >`: 
 
@@ -23,9 +27,6 @@ You can find the buy option in the TFT wallet, option `BUY >`:
 
 ![](img/tft_buy_order.jpg ':size=300')
 
-- hold BTC in your ThreeFold Connect wallet, uses stellar_exchange
-- Super easy feature to buy of TFT from BTC, uses stellar_exchange
-- Will allow you to define a maximum price to buy TFT
-- ThreeFold will do what it can to guarantee liquidity on the underlying exchange.
+Confirm your buy order and then wait for execution of it in your wallet. 
 
-> COMING SOON
+ThreeFold will do what it can to guarantee liquidity on the underlying exchange.
