@@ -15,6 +15,7 @@
 
 !!!tokens type:distribution
 
+<!--
 Total locked tokens: 
 !!!tokens type:value id:total-locked-tokens
 
@@ -29,6 +30,7 @@ Total illiquid foundation tokens:
 
 Total liquid tokens: 
 !!!tokens type:value id:total-liquid-tokens
+-->
 
 <!--
 ## Locked tokens
@@ -44,7 +46,7 @@ Total liquid tokens:
 ## Total Distribution
 !!!tokens type:total-distribution
 
-![](img/token_overview_april11.png)
+<!-- ![](img/token_overview_april11.png) -->
 
 > Max: amount of tokens = 4 billion.
 
