@@ -1,5 +1,7 @@
 # ThreeFold Token Overview
 
+!!!time
+
 ## TFT
 **Total**:
 !!!tokens type:value id:total-tokens
@@ -13,6 +15,7 @@
 
 !!!tokens type:distribution
 
+<!--
 Total locked tokens: 
 !!!tokens type:value id:total-locked-tokens
 
@@ -27,21 +30,23 @@ Total illiquid foundation tokens:
 
 Total liquid tokens: 
 !!!tokens type:value id:total-liquid-tokens
+-->
 
+<!--
 ## Locked tokens
 !!!tokens type:locked-table
+-->
 
-### Account (GDRFR3QGMRO5PG3BMSTFGBMDFXNVAB6HUZZS34S7QODXXFZX7YBNUQOE)
-!!!tokens type:account-info id:GDRFR3QGMRO5PG3BMSTFGBMDFXNVAB6HUZZS34S7QODXXFZX7YBNUQOE
+## Locked tokens (chart)
+!!!tokens type:locked-chart
 
-### Vesting Accounts
-!!!tokens type:account-vesting id:GDRFR3QGMRO5PG3BMSTFGBMDFXNVAB6HUZZS34S7QODXXFZX7YBNUQOE
+## Current Distribution Values
+!!!tokens type:current-distribution
 
-### Locked Amounts
-!!!tokens type:account-locked id:GDRFR3QGMRO5PG3BMSTFGBMDFXNVAB6HUZZS34S7QODXXFZX7YBNUQOE
+## Total Distribution
+!!!tokens type:total-distribution
 
-
-![](img/token_overview_april11.png)
+<!-- ![](img/token_overview_april11.png) -->
 
 > Max: amount of tokens = 4 billion.
 
