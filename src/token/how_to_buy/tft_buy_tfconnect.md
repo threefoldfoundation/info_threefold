@@ -1,6 +1,6 @@
 # BUY TFT in ThreeFold Wallet
 
-As from this release,TFT can be directly bought using Bitcoin.
+As from this release, ThreeFold Tokens can be directly bought using Bitcoin (BTC).
 
 ## Steps
 
