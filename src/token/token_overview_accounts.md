@@ -31,8 +31,6 @@ Total liquid tokens:
 ## Locked tokens
 !!!tokens type:locked-table
 
-### Account (GDRFR3QGMRO5PG3BMSTFGBMDFXNVAB6HUZZS34S7QODXXFZX7YBNUQOE)
-!!!tokens type:account-info id:GDRFR3QGMRO5PG3BMSTFGBMDFXNVAB6HUZZS34S7QODXXFZX7YBNUQOE
 
 ### Vesting Accounts
 !!!tokens type:account-vesting id:GDRFR3QGMRO5PG3BMSTFGBMDFXNVAB6HUZZS34S7QODXXFZX7YBNUQOE
