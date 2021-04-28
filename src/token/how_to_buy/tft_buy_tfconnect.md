@@ -13,11 +13,16 @@ This is simply done simply by clicking the `ACTIVATE` button, agree with the Ter
 
 ![](img/btc_activate.jpg ':size=300')
 
-### Transfer BTC to your wallet
+### Deposit BTC
 
-Once activated, your wallet address is ready to hold BTC. The address is the same as the one holding TFT and can be copied into memory by clicking in the upper right corner of the wallet bar in the Info Tab. 
+Once activated, your wallet address is ready to hold BTC. 
+The address is the same as the one holding TFT and can be copied into memory by clicking in the upper right corner of the wallet bar in the Info Tab. 
 
 ![](img/tfconnect_wallet_address.png ':size=300')
+
+An alternative way to copy the content of the address to deposit BTC is by creating a QR code holding the address.
+
+![](img/tfconnect_wallet_btc_deposit.png ':size=300') 
 
 ### Exchange BTC into TFT
 
