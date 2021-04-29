@@ -47,6 +47,6 @@ Once this configuration is done, your TFT wallet is ready.
 
 ### Transfer TFT from BSC to Stellar
 
-TFT can also be transferred back to the Stellar network. You will need to sign from your BSC wallet, using Metamask. Gas fees required for this transaction will be indicated in Metamask.
+TFT can also be transferred back to the Stellar network. You will need to sign from your BSC wallet, using Metamask. Gas fees required for this transaction, to be paid in BNB, will be indicated in Metamask.
 
 ![](img/tft_bridge_withdraw_to_stellar.png ':size=300')
