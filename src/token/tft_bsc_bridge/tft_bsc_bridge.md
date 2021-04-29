@@ -22,10 +22,31 @@ TFT can be transferred between Stellar and BSC through the [Bridge](https://bina
 
 - Add TFT token in Metamask -> custom token -> contract address = ```0x770b0AA8b5B4f140cdA2F4d77205ceBe5f3D3C7e```
 
+Once this configuration is done, your TFT wallet is ready. 
+
+![](img/tft_bsc_metamask.png ':size=300')
+
 ### Transfer TFT from Stellar to BSC
 
-- Go to the [Bridge Web UI](https://binance-chain-bridge-dapp.vercel.app/), sign in with Metamask and select the network you just created
+- Go to the [Bridge Web UI](https://binance-chain-bridge-dapp.vercel.app/), sign in with Metamask and select the network you just created.
+
+![](img/tft_bsc_bridge_ui.png ':size=300')
+
 - Click on `Deposit from Stellar`. 
 - A message will then appear with instructions that both address and memo text need to be exactly as indicated, or it will lead to loss of your tokens. Tick the box and then make the transfer using the indicated address and memo text. For your convenience, a QR code will be generated that can be scanned using the ThreeFold Connect app.
+
+![](img/tft_bridge_transfer.png ':size=300')
+
+
 - Fill in the amount of tokens you wish to transfer from your wallet, and execute the transfer.
-- Short time after, your 
+- Shortly after, your TFTs will be available in your BSC wallet.
+
+![](img/tft_bridge_ui_funded.png ':size=300')
+
+![](img/tft_bsc_metamask_funded.png ':size=300')
+
+### Transfer TFT from BSC to Stellar
+
+TFT can also be transferred back to the Stellar network. You will need to sign from your BSC wallet, using Metamask. Gas fees required for this transaction will be indicated in Metamask.
+
+![](img/tft_bridge_withdraw_to_stellar.png ':size=300')
