@@ -4,7 +4,7 @@
 
 We have created a calculator to allow you to simulate your own return on investment of becoming a farmer of IT/Internet capacity.
 
-Each server (3node which delivers IT capacity) produces x nr of CPR. CPR is a cloud production rate and defines the output capability just like kwatth would do for a solar pannel.
+Each server (3node which delivers IT capacity) produces x nr of CPR. CPR is a cloud production rate and defines the output capability just like the kilowatt-hour (SI symbol: kW⋅h or kW h; commonly written as kWh) is would do for a solar pannel.
 
 A server (3Node) who is connected to the internet and achieves a minimal uptime receives a [CPR_reward](cpr_reward_current).
 
