@@ -40,6 +40,8 @@ Total liquid tokens:
 ## Locked tokens (chart)
 !!!tokens type:locked-chart
 
+[See locked tokens table here](token_locked)
+
 ## Current Distribution Values
 !!!tokens type:current-distribution
 
