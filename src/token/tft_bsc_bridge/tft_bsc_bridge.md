@@ -12,9 +12,9 @@ TFT can be transferred between Stellar and BSC through the [Bridge](https://bina
 
 - Download Metamask [here](https://metamask.io/download.html). Then, install the Metamask extension in your local browser.
 - Create a Metamask account
-- Switch the network to `Binance testnet`. You will have to create a new network with following information):
+- Switch the network to `Binance chain`. You will have to create a new network with following information):
   - Testnet
-  - Network Name: Smart Chain Testnet
+  - Network Name: Smart Chain
   - New RPC URL: https://bsc-dataseed.binance.org/
   - ChainID: 56
   - Symbol: BNB
