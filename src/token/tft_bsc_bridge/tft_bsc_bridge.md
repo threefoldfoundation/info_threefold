@@ -38,7 +38,7 @@ Once this configuration is done, your TFT wallet is ready.
 ![](img/tft_bridge_transfer.png ':size=300')
 
 
-- Fill in the amount of tokens you wish to transfer from your wallet, and execute the transfer.
+- Fill in the amount of tokens you wish to transfer from your wallet, and execute the transfer to the mainnet address ```GBFFWXWBZDILJJAMSINHPJEUJKB3H4UYXRWNB4COYQAF7UUQSWSBUXW5```.
 - Shortly after, your TFTs will be available in your BSC wallet.
 
 ![](img/tft_bridge_ui_funded.png ':size=300')
