@@ -20,8 +20,8 @@ TFT can be transferred between Stellar and BSC through the [Bridge](https://bina
   - Symbol: BNB
   - Block Explorer URL: https://testnet.bscscan.com
 
-- Add TFT token in Metamask -> custom token -> contract address = ```0x770b0AA8b5B4f140cdA2F4d77205ceBe5f3D3C7e```
-
+- Add TFT token in Metamask -> custom token -> contract address = ```0x8f0FB159380176D324542b3a7933F0C2Fd0c2bbf```
+  
 Once this configuration is done, your TFT wallet is ready. 
 
 ![](img/tft_bsc_metamask.png ':size=300')
