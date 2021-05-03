@@ -15,16 +15,18 @@ TFT can be transferred between Stellar and BSC through the [Bridge](https://bina
 - Switch the network to `Binance testnet`. You will have to create a new network with following information):
   - Testnet
   - Network Name: Smart Chain Testnet
-  - New RPC URL: https://data-seed-prebsc-1-s1.binance.org:8545/
-  - ChainID: 97
+  - New RPC URL: https://bsc-dataseed.binance.org/
+  - ChainID: 56
   - Symbol: BNB
-  - Block Explorer URL: https://testnet.bscscan.com
+  - Block Explorer URL: https://bscscan.com
 
 - Add TFT token in Metamask -> custom token -> contract address = ```0x8f0FB159380176D324542b3a7933F0C2Fd0c2bbf```
   
 Once this configuration is done, your TFT wallet is ready. 
 
 ![](img/tft_bsc_metamask.png ':size=300')
+
+More info on the configuration can be found in the [Official Binance guide](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 
 ### Transfer TFT from Stellar to BSC
 
