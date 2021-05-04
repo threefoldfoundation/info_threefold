@@ -38,12 +38,12 @@
 
 ## TFT Marketcap
 
-| descr                                  | value     |
+| Description                            | Value     |
 | -------------------------------------- | --------- |
-| nr liquid tokens (May 5 2021)          | 276m      |
-| nr total tokens                        | 4000m     |
-| TFT marketcap if TFT price is 0.12 USD | 33m USD   |
-| TFT marketcap if TFT price is 0.15 USD | 41.4m USD |
+| Nr Liquid Tokens (May 5 2021)          | 276m      |
+| Nr Total Tokens                        | 4000m     |
+| TFT Marketcap if TFT price is 0.12 USD | 33m USD   |
+| TFT Marketcap if TFT price is 0.15 USD | 41.4m USD |
 
 Calculated May 5 2021
 
@@ -57,7 +57,7 @@ Calculated May 5 2021
 
 !!!include:stats_toc
 - [ThreeFold Token & Grid History](threefold_history)
-- [overview of the Foundation wallets](stats_special_wallets)
+- [Overview of the Foundation wallets](stats_special_wallets)
 
 ## Disclaimer
 
