@@ -13,6 +13,8 @@
 
 !!!tokens type:total-liquid tftprice:0.12
 
+!!!tokens type:total-liquid-chart
+
 > !!!tokens type:total-liquid tftprice:0.12 <BR>
 > TODO: will show chart how many tokens are liquid in relation to the total of 4 Billion <BR>
 > TODO: show marketcap in line with defined price (maybe we can fetch price from internet)
