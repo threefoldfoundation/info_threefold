@@ -1,6 +1,6 @@
 # ThreeFold Token Overview
 
-## TFT
+> Overview for TFT already farmed genesispool included.
 
 **Total**:
 !!!tokens type:value id:total-tokens
@@ -8,7 +8,7 @@
 **Accounts:**
 !!!tokens type:value id:total-accounts
 
-**Maximum Tokens:** 4 Billion
+**Maximum Tokens:** **4 Billion**
 
 ## Tokens distribution
 
@@ -23,24 +23,23 @@ Total vested tokens:
 Total liquid foundation tokens: 
 !!!tokens type:value id:total-liquid-foundation-tokens
 
-Total illiquid foundation tokens: 
+Total illiquid wisdom council and foundation tokens: 
 !!!tokens type:value id:total-illiquid-foundation-tokens
 
 Total liquid tokens: 
 !!!tokens type:value id:total-liquid-tokens
 
+> Vested accounts unlock following [vesting scheme as defined here](vesting_overview).
+
 ## Locked tokens
-!!!tokens type:locked-table
 
-<!-- =======
-### Account (GDRFR3QGMRO5PG3BMSTFGBMDFXNVAB6HUZZS34S7QODXXFZX7YBNUQOE)
-!!!tokens type:account-info id:GDRFR3QGMRO5PG3BMSTFGBMDFXNVAB6HUZZS34S7QODXXFZX7YBNUQOE
->>>>>>> 61fcb203bc8a90d89de4d1413e279dac1460664a -->
 
-### Vesting Accounts
-!!!tokens type:account-vesting id:GDRFR3QGMRO5PG3BMSTFGBMDFXNVAB6HUZZS34S7QODXXFZX7YBNUQOE
+!!!tokens type:locked-chart
 
-### Locked Amounts
-!!!tokens type:account-locked id:GDRFR3QGMRO5PG3BMSTFGBMDFXNVAB6HUZZS34S7QODXXFZX7YBNUQOE
+> Details see [here](tokens_locked)
 
+
+### Token Information
+
+!!!include:stats_toc
 

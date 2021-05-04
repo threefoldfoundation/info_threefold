@@ -1,54 +1,6 @@
 # ThreeFold Token Overview
 
-!!!time
-
-## TFT
-**Total**:
-!!!tokens type:value id:total-tokens
-
-**Accounts:**
-!!!tokens type:value id:total-accounts
-
-**Maximum Tokens:** 4 Billion
-
-## Tokens distribution
-
-!!!tokens type:distribution
-
-<!--
-Total locked tokens: 
-!!!tokens type:value id:total-locked-tokens
-
-Total vested tokens: 
-!!!tokens type:value id:total-vested-tokens
-
-Total liquid foundation tokens: 
-!!!tokens type:value id:total-liquid-foundation-tokens
-
-Total illiquid foundation tokens: 
-!!!tokens type:value id:total-illiquid-foundation-tokens
-
-Total liquid tokens: 
-!!!tokens type:value id:total-liquid-tokens
--->
-
-<!--
-## Locked tokens
-!!!tokens type:locked-table
--->
-
-## Locked tokens (chart)
-!!!tokens type:locked-chart
-
-[See locked tokens table here](token_locked)
-
-## Current Distribution Values
-!!!tokens type:current-distribution
-
-## Total Distribution
-!!!tokens type:total-distribution
-
-<!-- ![](img/token_overview_april11.png) -->
+![](img/token_overview_april11.png)
 
 > Max: amount of tokens = 4 billion.
 
@@ -82,41 +34,30 @@ Total liquid tokens:
   - Part of vesting pool
   - Distribution needs approval from Wisdom_Council
 
-> Overview made on april 2021 and in preparation of ThreeFold 3.0 Launch.
+> for Detailed Info see: [Stats Token Overview, info from TFT blockchain](stats_token_overview)
 
-<!-- Online tool see: https://tokenstats.threefoldtoken.com/ -->
+## TFT Marketcap
 
-## Tokens Already Rewarded (Minted)
+| descr                                  | value     |
+| -------------------------------------- | --------- |
+| nr liquid tokens (May 5 2021)          | 276m      |
+| nr total tokens                        | 4000m     |
+| TFT marketcap if TFT price is 0.12 USD | 33m USD   |
+| TFT marketcap if TFT price is 0.15 USD | 41.4m USD |
 
-![](img/tokens_liquid_april6.png)
+Calculated May 5 2021
 
-> This shows less than 4% will be liquid at [ThreeFold 3.0 Launch](threefold30).
 
-> WE ARE STILL IN PROCESS TO VEST TOKENS (APRIL 2021)
-> See [this spreadsheet for most up to date info](https://secure.threefold.me/sheet/#/2/sheet/view/4CGJ+yMwEMhDs+66I1rxBJmYETB4j8XDcUqTJ7zOmJk/embed/).
+> Less than 7% will be liquid at [ThreeFold 3.0 Launch](threefold30).
 
-## MarketCap
+> WE ARE STILL IN PROCESS TO VEST TOKENS (MAY 2021)
 
-Liquid marketcap in line to token price (april 6 2021 estimate)
-
-| TFT price in USD | marketcap  | description                     |
-| ---------------- | ---------- | ------------------------------- |
-| 0.06 USD         | 9.7 m USD  | discounted price, low liquidity |
-| 0.08 USD         | 12.9 m USD | price april 6 2021              |
-| 0.1 USD          | 16.1 m USD | base price of TFT               |
-| 0.2 USD          | 32.2 m USD | 250% growth compared with today |
-
-## TF Grid is Valuable
-
-- [TFGrid is valuable.](token_grid_value_april2021)
 
 ## Remarks
 
-- [link to the source sheet of the token overview](https://secure.threefold.me/sheet/#/2/sheet/view/4CGJ+yMwEMhDs+66I1rxBJmYETB4j8XDcUqTJ7zOmJk/embed/)
-- We are working on a new reporting tool for TFT which takes the information from the Threefold_Grid explorer. This will be available before end of March 2021.
-- [see how tokens will be farmed in future](tokens_to_farm)
+!!!include:stats_toc
 - [ThreeFold Token & Grid History](threefold_history)
-- [overview of the Foundation wallets](threefold_foundation_wallets)
+- [overview of the Foundation wallets](stats_special_wallets)
 
 ## Disclaimer
 
