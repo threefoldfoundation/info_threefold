@@ -78,6 +78,6 @@ TFT can also be transferred back to the Stellar network. You will need to sign f
 ![](img/tft_bridge_withdraw_to_stellar.png ':size=300')
 ---> 
 
-### Transfer TFT from Stellar to BSC
+### Transfer TFT from BSC to Stellar
 
 COMING SOON
