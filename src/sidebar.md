@@ -27,8 +27,6 @@
   - [New to Tokens](newtotokens)
   - [ThreeFold Wallets](threefold_wallets)
   - [Token Overview](token_overview)
-  - [Special Wallets](token_special)
-  - [Special Accounts](token_overview_accounts)
   - [Vesting](vesting_overview)
 - [Use ThreeFold](use_tfgrid)
 - [Technology](grid_tech_intro)
