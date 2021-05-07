@@ -16,4 +16,5 @@ This is done by TFT_Farming, ThreeFolds more sustainable equivalent of cryptocur
   - all 3nodes connected to TFGrid starting April 2021
   - all 3nodes from before who voluntary decided to switch farming model (certified or not)
 
+
 !!!def name:'Farming Logic' alias:farming_logic,farming_logic_2,farming_logic_3,minting_logic,minting_logic_2

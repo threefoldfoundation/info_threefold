@@ -18,6 +18,8 @@ Certified farming will be available H2 2021, we are in the process of signing ag
 
 > Note: Farmers who are interested to become certified need to sign a contract with TF Tech in which the certification criteria is set. Once the contract is signed, the farm will be measured against the certification criteria which shows exactly if the certification remains certified or not according to the Reputation_engine.
 
+!!!include:farming_logic_disclaimer
+
 !!!include:farming_steps
 
 !!!include:more_info_rewards

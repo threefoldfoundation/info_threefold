@@ -11,5 +11,7 @@ In this section, you will learn about ThreeFold Farming, how it works, the logic
 - [Become a Farmer](become_a_farmer) - A guide across the different farming options.
 - [Certified Farming](certified_farming) - An introduction of how certified farming compares to do-it-yourself farming.
 - [Farming Business Model](farming_calculator) - A business model simulation to understand the ins and outs of farming.
+- [Hardware Calculations](farming_hardware_calculator) - Calculating the [CPR](cpr) of any 3Node
+- [Farming Calculations](farming_calculator) - Calculate how much your tokens your 3Node would farm (you need the CPR for this)
 
 !!!include:farming_steps

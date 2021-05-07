@@ -8,7 +8,7 @@ Each server (3node which delivers IT capacity) produces x nr of CPR. CPR is a cl
 
 A server (3Node) who is connected to the internet and achieves a minimal uptime receives a [CPR_reward](cpr_reward_current).
 
-[Farming logic3 document](farming_logic3) describes how many CPR your server will receive as CPR_reward.
+[Farming logic3 document](farming_logic3) describes how many TFT your server will receive as CPR_reward.
 
 You don't have to be an expert to become a ThreeFold Farmer. Our autonomous system does all the heavy lifting for you.
 
@@ -21,14 +21,8 @@ Thanks to our sales model you also do not have to sell the capacity of your serv
 
 - CPR = Cloud Production rate, which is a nr which can be calculated per server (3node).
   - CPR expresses the capability of a server in relation to production of IT (compute/storage) capacity.
-- CPR_Reward = is the reward for being a farmer and is staked on the 3Node untill 30% utilization of the capacity has been achieved.
-  - The TF_Council looks over thie CPR reward and adjusts it over time in line with TFGrid growth and token price. Once rewarded to a farmer the CPR Reward does not change.
-
-## Expected Return
-
-Possible return on investment is between 2x and 10x depending growth of TFGrid and utilization of the cloud in your region.
-
-> ThreeFold cannot make any guarantee. Its up to you to simulate your own situation.
+- CPR_Reward = is the reward for being a farmer and is staked on the 3Node until 30% utilization of the capacity has been achieved.
+  - The TF_Council looks over the CPR reward and adjusts it over time in line with TFGrid growth and token price. Once rewarded to a farmer the CPR Reward does not change.
 
 ## Risks
 
@@ -50,8 +44,6 @@ Possible return on investment is between 2x and 10x depending growth of TFGrid a
 - [reward example for do it yourself farmer if price goes to 1 USD](farming_calculator_diy)
 
 !!!include:cpr_reward_current
-
-see [Farming Rewards Calculator to calculate how much CPR your 3node can deliver](https://secure.threefold.me/sheet/#/2/sheet/view/nUm5YaP4SnZ3ag4OjLvB-hKXBff2Oltk+th+3rt6h2g/)
 
 !!!include:more_info_rewards
 

@@ -10,7 +10,7 @@ The following calculator allows you to configure your own hardware and do a simu
 
 ![](img/farming_calc.png)
 
-see [Hardware Calculator](https://secure.threefold.me/sheet/#/2/sheet/view/UyFs5dFBQWnyswB3RNMQO5Ojh-PkvBDdMTqvQs2IqpI/)
+## see [Hardware Calculator](https://secure.threefold.me/sheet/#/2/sheet/view/UyFs5dFBQWnyswB3RNMQO5Ojh-PkvBDdMTqvQs2IqpI/)
 
 ## How to work with the calculator.
 
