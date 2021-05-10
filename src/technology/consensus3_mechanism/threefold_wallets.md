@@ -47,13 +47,15 @@ Get your Interstellar wallet [here](https://interstellar.exchange/)
 
 ### Trust Wallet
 
-![alt](img/trust_wallet_logo.jpg)
+![alt](img/trustwallet_logo.png ':size=200')
 
 TRUST is a trusted and secure crypto wallet for cryptoassets on different blockchain networks. It is available on iOS and Android.
 
 Get your Trust wallet [here](https://trustwallet.com/).
 
 ### Metamask Wallet
+
+![alt](img/metamask_logo.png ':size=200')
 
 Metamask is a wallet available as a Chrome add-on for cryptoassets on different blockchain networks. 
 
