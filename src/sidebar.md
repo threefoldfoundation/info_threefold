@@ -25,7 +25,7 @@
   - [New to Tokens](newtotokens)
   - [ThreeFold Wallets](threefold_wallets)
   - [Buy and Sell TFT](how_to_buy_and_sell)
-  - [Stellar-BSC Bridge](tft_bsc_bridge)
+  - [TFT Multichain](tft_bsc_bridge)
   - [Token Overview](token_overview)
   - [Vesting](vesting_overview)
 - [Use ThreeFold](use_tfgrid)

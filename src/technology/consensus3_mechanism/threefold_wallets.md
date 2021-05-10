@@ -21,7 +21,7 @@ Any wallet that can hold Stellar based tokens can also hold TFT. Here's a few op
 
 ### Solar Wallet
 
-![alt](img/solar_wallet_logo.jpg)
+![alt](img/solar_wallet_logo.jpg ':size=300')
 
 Secure, open, and 100% free, this Stellar wallet features multi-signature accounts, asset management, and more. It is available on: Web, Iphone, Android, Mac, Windows and Linux.
 
@@ -29,7 +29,7 @@ Get your Solar wallet [here](https://solarwallet.io/).
 
 ### Lobstr Wallet
 
-![alt](img/lobstr_wallet_logo.jpg)
+![alt](img/lobstr_wallet_logo.jpg ':size=300')
 
 LOBSTR is a leading platform for managing Stellar Lumens and other assets issued on the Stellar network. With over 700 positive reviews LOBSTR is one of the most popular and trusted wallet solution for Stellar. It is available on: Web, Iphone and Android.
 
@@ -37,17 +37,17 @@ Get your Lobstr wallet [here](https://lobstr.co/).
 
 ### Interstellar Wallet/Exchange
 
-![alt](img/interstellar_wallet_logo.jpg)
+![alt](img/interstellar_wallet_logo.jpg ':size=300')
 
 Interstellar Wallet is a secure non-custodial wallet that enables you to control your private keys, and all your sensitive data is encrypted with the highest levels of security. Interstellar is the only app that supports multiple wallets which can be backed-up and restored easily.It is available on: Web, Iphone, Android, Mac, Windows.
 
 Get your Interstellar wallet [here](https://interstellar.exchange/)
 
-## Wallets on Binance Smart Chain
+## Wallets for Binance Smart Chain
 
 ### Trust Wallet
 
-![alt](img/trustwallet_logo.png ':size=200')
+![alt](img/trustwallet_logo.png ':size=300')
 
 TRUST is a trusted and secure crypto wallet for cryptoassets on different blockchain networks. It is available on iOS and Android.
 
@@ -55,7 +55,7 @@ Get your Trust wallet [here](https://trustwallet.com/).
 
 ### Metamask Wallet
 
-![alt](img/metamask_logo.png ':size=200')
+![alt](img/metamask_logo.png ':size=300')
 
 Metamask is a wallet available as a Chrome add-on for cryptoassets on different blockchain networks. 
 
