@@ -26,6 +26,7 @@
   - [Buy and Sell TFT](how_to_buy_and_sell)
   - [New to Tokens](newtotokens)
   - [ThreeFold Wallets](threefold_wallets)
+    - [Exchange BTC to TFT](threefold_wallets_btc) 
   - [Token Overview](token_overview)
   - [Vesting](vesting_overview)
 - [Use ThreeFold](use_tfgrid)
