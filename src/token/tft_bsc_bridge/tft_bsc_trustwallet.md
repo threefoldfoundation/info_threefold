@@ -17,7 +17,7 @@
   - Symbol: TFT
   - Decimals: 7
 
-![](img/trustwallet_tft_.jpg ':size=300')
+![](img/trustwallet_tft_config.jpg ':size=300')
   
 Once this configuration is done, your TFT wallet is ready. 
 
