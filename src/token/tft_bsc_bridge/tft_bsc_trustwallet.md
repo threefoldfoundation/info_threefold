@@ -21,4 +21,4 @@
   
 Once this configuration is done, your TFT wallet is ready. 
 
-![](img/trustwallet_tft_added_.jpg ':size=300')
+![](img/trustwallet_tft_added.jpg ':size=300')
