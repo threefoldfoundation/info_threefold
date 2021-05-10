@@ -4,7 +4,7 @@
 - Configure your Trustwallet and write down the recovery phrase
 - In the overview, add TFT by clicking on the icon on the upper right corner
 
-![](img/trustwallet_overview.jpg ':size=300)
+![](img/trustwallet_overview.jpg ':size=300')
 
 - Click on `Add Custom Token` 
 

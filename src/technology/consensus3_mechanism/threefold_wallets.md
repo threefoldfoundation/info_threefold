@@ -57,7 +57,7 @@ Get your Trust wallet [here](https://trustwallet.com/).
 
 ![alt](img/metamask_logo.png ':size=300')
 
-Metamask is a wallet available as a Chrome add-on for cryptoassets on different blockchain networks. 
+Metamask is a wallet available as a Chrome add-on for cryptoassets on different blockchain networks. It is also available for iOS and Android. 
 
 Get your Metamask wallet [here](https://metamask.io/).
 
