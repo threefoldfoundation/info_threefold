@@ -1,4 +1,4 @@
-### Set up TFT in TrustWallet
+# Set up TFT in TrustWallet
 
 - Download Trustwallet on [iOS](https://apps.apple.com/app/apple-store/id1288339409?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp&referrer=utm_source%3Dwebsite). 
 - Configure your Trustwallet and write down the recovery phrase
