@@ -9,9 +9,9 @@ As from this release, ThreeFold Tokens can be directly bought using Bitcoin (BTC
 
 This is simply done simply by clicking the `ACTIVATE` button, agree with the Terms and Conditions, and confirm the activation on the next screen.
 
-![](img/tfconnect_btc_add.png ':size=300')
+![](img/tfc_btc_activate.jpg ':size=300')
 
-![](img/btc_activate.jpg ':size=300')
+![](img/tfc_btc_t_and_c.jpg ':size=300')
 
 ### Deposit BTC
 
@@ -22,7 +22,7 @@ The address is the same as the one holding TFT and can be copied into memory by 
 
 An alternative way to copy the content of the address to deposit BTC is by creating a QR code holding the address.
 
-![](img/tfconnect_wallet_btc_deposit.png ':size=300') 
+![](img/tfc_btc_deposit.jpg ':size=300') 
 
 ### Exchange BTC into TFT
 
@@ -33,11 +33,13 @@ So it might be very well that the price you pay for a TFT might be less than ind
 
 You can find the buy option in the TFT wallet, option `BUY >`: 
 
-![](img/btc_deposit.jpg ':size=300')
+![](img/tfc_btc_wallet_overview.jpg ':size=300')
 
-![](img/tft_buy_order.jpg ':size=300')
+![](img/tfc_btc_trade.jpg ':size=300')
 
 Confirm your buy order and then wait for execution of it in your wallet.
+
+![](img/tfc_btc_trade_exec.jpg ':size=300')
 
 ThreeFold will do what it can to guarantee liquidity on the underlying exchange.
 
