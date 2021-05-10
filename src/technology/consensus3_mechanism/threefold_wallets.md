@@ -15,9 +15,9 @@ The ThreeFold Connect app is the official Threefold app that comes with a wallet
 
 Learn more about the Threefold Connect App [here](threefold_connect).
 
-## Alternative XLM Wallets
+## Alternative Stellar Wallets
 
-Any wallet that can hold XLM based tokens can also hold TFT. Here's a few options for you to consider:
+Any wallet that can hold Stellar based tokens can also hold TFT. Here's a few options for you to consider:
 
 ### Solar Wallet
 
@@ -43,4 +43,21 @@ Interstellar Wallet is a secure non-custodial wallet that enables you to control
 
 Get your Interstellar wallet [here](https://interstellar.exchange/)
 
+## Wallets on Binance Smart Chain
+
+### Trust Wallet
+
+![alt](img/trust_wallet_logo.jpg)
+
+TRUST is a trusted and secure crypto wallet for cryptoassets on different blockchain networks. It is available on iOS and Android.
+
+Get your Trust wallet [here](https://trustwallet.com/).
+
+### Metamask Wallet
+
+Metamask is a wallet available as a Chrome add-on for cryptoassets on different blockchain networks. 
+
+Get your Metamask wallet [here](https://metamask.io/).
+
 !!!include:tft_safe
+
