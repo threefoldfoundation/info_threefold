@@ -14,11 +14,9 @@ Please find instructions [here](tft_bsc_metamask).
 
 ## Transfer TFT between Stellar and BSC
 
-For now, the transfer is only open to technically skilled people, as there is some encoding and decoding involved in the process.
-
 Please find instructions [here](https://github.com/threefoldfoundation/tft/blob/main/bsc/bridges/stellar/transfers.md).
 
-A User Interface will be released soon to make using the Stellar-BSC Bridge for TFT more user-friendly.
+A user interface will be released soon.
 
 <!--- 
 
