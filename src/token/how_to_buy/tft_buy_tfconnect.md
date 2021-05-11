@@ -7,7 +7,7 @@ As from this release, ThreeFold Tokens can be directly bought using Bitcoin (BTC
 ### Activate your BTC wallet in the ThreeFold Connect App
 
 
-This is simply done simply by clicking the `ACTIVATE` button, agree with the Terms and Conditions, and confirm the activation on the next screen.
+This is simply done by clicking the `ACTIVATE` button, agree with the Terms and Conditions, and confirm the activation on the next screen.
 
 ![](img/tfc_btc_activate.jpg ':size=300')
 
