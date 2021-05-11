@@ -1,8 +1,10 @@
 ## Transfer BTC to another account
 
-At this point in time, [Cryptoanchor](https://cryptoanchor.io/), issuer of the BTC trustline on the Stellar network, doesn't support the sponsored transfer of tokens yet, like it is implemented in the ThreeFold Connect app.
+At this point in time, [Cryptoanchor](https://cryptoanchor.io/), the issuer of the BTC trustline on the Stellar network, doesn't support sponsored transfers of tokens as implemented in the ThreeFold Connect app.
 
-BTCs can be withdrawn however to another wallet using interstellar (the tool owned by the issuer of BTC on Stellar). Here is how to do it:
+BTCs can be withdrawn to another wallet using Interstellar (DEX owned by the issuer of BTC on the Stellar network). 
+
+Here is how to do it:
 
 - First go to detailed info, and press show secret.
 - Copy this secret, you will need it later.
