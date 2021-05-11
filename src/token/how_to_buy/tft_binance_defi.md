@@ -19,13 +19,29 @@ Binance Smart Chain (BSC) is a blockchain network built for running smart contra
 2. You will need BNB in that wallet to cover transaction fees. Low amounts are sufficient, as the average transaction on BSC does not exceed 50 ct USD.
 3. Go to [Exchange PancakeSwap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x8f0fb159380176d324542b3a7933f0c2fd0c2bbf) and wait for TFT to appear. This may take a few seconds.
 > Again, please note it is very important to use the official contract address: **0x8f0fb159380176d324542b3a7933f0c2fd0c2bbf**. Do not use links or contract addresses from unverified sources!!
-4. That's it! You can now swap any BSC token that has liquidity for TFT.
+4. Click through the security warning.
+
+<br/>
+
+![security](img/security_warning.png)
+
+<br/>
+
+5. That's it! You can now swap any BSC token that has liquidity for TFT.
+
+<br/>
+
+![exchange](img/exchange.png)
 
 <br/>
 
 Thanks to **PancakeSwap** its easy for people to find liquidity if they want to buy/sell their TFT.
 The price get's adjusted in accordance to available liquidity.
 
+<br/>
+
 ![](img/pancakeswap.png)
+
+<br/>
 
 > For more info see https://www.binance.org/en/smartChain

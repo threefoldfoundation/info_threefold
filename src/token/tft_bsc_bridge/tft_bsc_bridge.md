@@ -28,6 +28,11 @@ You will need to sign from your BSC wallet, using Metamask. Gas fees required fo
 Please find instructions [here](https://github.com/threefoldfoundation/tft/blob/main/bsc/bridges/stellar/transfers.md).
 
 
+### Provide liquidity on BSC via Pancakeswap
+
+Please find instructions [here](liquidity_provider).
+
+
 <!--- 
 ### Transfer TFT from Stellar to BSC
 
