@@ -12,7 +12,7 @@ Click the `ACTIVATE` button, agree with the Terms and Conditions, and confirm th
 
 ![](img/tfc_btc_t_and_c.jpg ':size=300')
 
-> __Remark:__ The BTC that can be exchanged with TFT has a trustline on Stellar issued by [CryptoAnchor](https://cryptoanchor.io/). By trading BTC on the Stellar network, you agree to the the terms and conditions of CryptoAnchor around the custody of these BTCs. Threefold is not liable for for the exchange of BTC to TFT and vice versa. 
+> __Remark:__ The BTC that can be exchanged with TFT has a trustline on Stellar issued by [CryptoAnchor](https://cryptoanchor.io/). By trading BTC on the Stellar network, you agree to the the terms and conditions of CryptoAnchor around the custody of these BTCs. Threefold is not liable for the exchange of BTC to TFT and vice versa. 
 
 ### Deposit BTC
 
