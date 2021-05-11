@@ -6,8 +6,7 @@ As from this release, ThreeFold Tokens can be directly bought using Bitcoin (BTC
 
 ### Activate your BTC wallet in the ThreeFold Connect App
 
-
-This is simply done simply by clicking the `ACTIVATE` button, agree with the Terms and Conditions, and confirm the activation on the next screen.
+Click the `ACTIVATE` button, agree with the Terms and Conditions, and confirm the activation on the next screen.
 
 ![](img/tfc_btc_activate.jpg ':size=300')
 
@@ -51,18 +50,5 @@ Once trades have been executed, they appear in the trading history.
 
 ### Transfer BTC to another account
 
-The BTC that are residing in your wallet in the ThreeFold Connect app can be transferred to any other bitcoin wallet. 
-
-At this point in time, [Cryptoanchor](https://cryptoanchor.io/), issuer of the TFT trustline on the Stellar network, doesn't support the sponsored transfer of tokens yet, like it is implemented in the ThreeFold Connect app.
-
-BTCs can be withdrawn however to another wallet using interstellar (the tool owned by the issuer of BTC on Stellar). Here is how to do it:
-
-- First go to detailed info, and press show secret.
-- Copy this secret, you will need it later.
-- Navigate to [Interstellar Exchange](https://interstellar.exchange/app/#/), follow the steps and select “Enter account”
-- Choose a password and login
-- Select “Import” a single wallet, fill in the secret you copied earlier.
-- You will need a very small amount of XLM to execute this transaction ( 0.0001 ). If you don’t have this XLM or don’t know how to get it, please contact support on https://threefold.io/ with your public wallet address provided.
-Click `BTC` and select `Withdraw`.
-- Fill in the amount and Bitcoin address you want to withdraw it to. Keep in mind there is a transaction fee, the site might adjust the amount if you don’t have enough in your account to cover both the amount + fee.
-- Confirm the transaction.
+The BTC that are residing in your wallet in the ThreeFold Connect app can be transferred to any other bitcoin wallet.
+For more info on how to do it, read [here](btc_withdrawal).
