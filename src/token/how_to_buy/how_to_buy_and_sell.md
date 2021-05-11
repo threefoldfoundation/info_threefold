@@ -9,7 +9,7 @@ Find below a table that shows all buying options for TFT. Note that exchanges an
 
 ## NEW: Buy TFT in-app with BTC
 
-The new version of the ThreeFold Connect app allows to buy TFT directly using BTC in the ThreeFold Connect app. Find more instructions [here](tft_buy_tfconnect).
+The new version of the ThreeFold Connect app allows to buy TFT directly using BTC in the ThreeFold Connect app. Find more instructions [here](threefold_connect_btc).
 
 ## Buy TFT using a VISA card
 
