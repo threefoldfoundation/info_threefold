@@ -35,6 +35,8 @@ You can find the buy option in the TFT wallet, option `TRADE BTC TO TFT >`:
 
 ![](img/tfc_btc_wallet.jpg ':size=300')
 
+In this screen, you can launch a trade to exchange BTC into TFT for the requested amount and maximum price.
+
 ![](img/tfc_btc_trade.jpg ':size=300')
 
 Confirm your buy order and then wait for execution of it in your wallet.
@@ -42,6 +44,10 @@ Confirm your buy order and then wait for execution of it in your wallet.
 ![](img/tfc_btc_trade_exec.jpg ':size=300')
 
 ThreeFold will do what it can to guarantee liquidity on the underlying exchange.
+
+Once trades have been executed, they appear in the trading history. 
+
+![](img/tfc_btc_tradeoverview.jpg ':size=300')
 
 ### Transfer BTC to another account
 

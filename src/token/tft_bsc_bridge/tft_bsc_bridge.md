@@ -20,7 +20,7 @@ The only contract address for TFT on the Binance Smart Chain is [0x8f0FB15938017
 A UI is already available [here](https://bridge.bsc.threefold.io/) for withdrawal of TFT to the Stellar Network.
 You will need to sign from your BSC wallet, using Metamask. Gas fees required for this transaction, to be paid in BNB, will be indicated in Metamask.
 
-![](img/tft_bsc_bridge_withdraw.png ':size=300')
+![](img/tft_bsc_bridge_withdraw.png ':size=600')
 
 
 ### Use the Bridge using code
