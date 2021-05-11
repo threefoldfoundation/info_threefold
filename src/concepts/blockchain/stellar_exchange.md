@@ -6,7 +6,6 @@ It very easy to use and allows to trade between different digital currency pairs
 
 Example frontends to stellar exchange
 
-- https://stellarterm.com/
 - https://www.stellarx.com/
 - https://interstellar.exchange/ 
 
