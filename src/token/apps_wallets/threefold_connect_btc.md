@@ -12,6 +12,8 @@ Click the `ACTIVATE` button, agree with the Terms and Conditions, and confirm th
 
 ![](img/tfc_btc_t_and_c.jpg ':size=300')
 
+> __Remark:__ The BTC that can be exchanged with TFT is a token whose trustline on Stellar has been issued by [CryptoAnchor](https://cryptoanchor.io/). By trading BTC on the Stellar network, you accept the terms and conditions of CryptoAnchor around the custody of these BTCs. No Threefold entity has any liability around these BTC. 
+
 ### Deposit BTC
 
 Once activated, your wallet address is ready to hold BTC. 
