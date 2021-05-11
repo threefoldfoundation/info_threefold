@@ -11,6 +11,5 @@ Hercules products are productizations of the ThreeFold technology (as delivered 
 - [Hercules Compute](hercules_compute)
 - [Hercules Network](hercules_network)
 - [Hercules Storage](hercules_storage)
-- [Hercules Blockhost](tftech:hercules_blockhost)
 - [Hercules Coder](hercules_coder)
 - [Hercules Containers](hercules_containers)
