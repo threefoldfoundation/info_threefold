@@ -1,6 +1,15 @@
+# Buy TFT: Exchange BTC to TFT via TF Connect App
 
-## Withdraw BTC
 
+## Deposit BTC into TF Connnect wallet
+
+
+
+## Exchange BTC to TFT
+
+
+
+## Withdraw BTC out of TF Connect Wallet
 - First go to detailed info, and press show secret.
 
 - Copy this secret, you will need it later.

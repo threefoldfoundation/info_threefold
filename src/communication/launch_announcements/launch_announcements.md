@@ -5,6 +5,14 @@
 ### April
 
 - [April 1: ThreeFold Q1 2021 Recap](q12021recap)
+- [April 5: Grid 2.6 is Live on Testnet](grid26testnet)
+- [April 8: ThreeFold Partners With CasperLabs](threefoldcasperlabs)
+- [April 10: Dive Into the ThreeFold Universe](tfuniverseintro)
+- [April 12: Grid 2.7 is Live on Testnet](grid27testnet)
+- [April 13: ThreeFold Joins CasperLabs Community Call](tfcaspercommunitycall1)
+- [April 14: Join the ThreeFold Two-Way Chat](threefoldtwoway)
+- [April 16: ThreeFold x CasperLabs Community Call Recording](tfcasperrecording1)
+- [April 18: Be the Internet – Become a Farmer!](becomeafarmer1)
 
 ### March
 
