@@ -10,7 +10,7 @@ Developers and users have many reasons for choosing the ThreeFold's peer-to-peer
 - No one can block you or deny you access to the service.
 - Payments are built-in via the native token, the ThreeFold Token (TFT).
 - ThreeFold integrated with the most widely used protocols and systems meaning you can pretty much program anything.
-- Transactions and workloads can scale limitlessly as it is truly decentralized. They do not have to be processed by any intermediaries as they get propagated throughout the network directly to the intended recipient.
+- Transactions and workloads can scale limitlessly as it is truly decentralized. They do not have to be processed by any intermediaries as they get propagated end-to-end throughout the network directly to the intended recipients.
 - Building applications and infrastructures on the ThreeFold Grid is more affordable than on web 2.0 and web 3.0. 
 - The "zero people" approach to the ThreeFold Grid enables to bring incredible security features. With it's end-to-end model between users and servers, there are no back-doors, and by not using TCP/IP, there are no incoming connections from the web2.0 Internet.
 - By it's peer-to-peer nature, storing and exchanging information and value on the ThreeFold Grid requires 50% to 99% less energy than on web 2.0.  
@@ -34,12 +34,6 @@ In the table below, we list some of the major advantages and disadvantages of ce
 | Participation in the network is controlled by the central authority.                                                                                                                                                   | Anyone can participate in the network; there are no “gatekeepers.”                                                                                                                                                               | Anyone can participate in the network and it is very affordable.                                                                                                                                |
 
 Note that these are general patterns that may not hold true in every network. Furthermore, in reality the degree to which a network is centralized/decentralized lies on a spectrum; no network is entirely centralized or entirely decentralized. Peer-to-peer networks enable participants to become the central point of their digital life and to organize the environment around them as they wish. In other words, it provides the freedom to all actors to organize in the most suitable way across the centralization/decentralization spectrum. The infrastructure however remains truly decentralized. 
-
-
-## Further readings
-
-- Decentralization manifesto
-
 
 ## More Info: 
 

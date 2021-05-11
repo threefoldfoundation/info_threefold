@@ -6,7 +6,11 @@ We have created a calculator to allow you to simulate your own return on investm
 
 Each server (3node which delivers IT capacity) produces x nr of CPR. CPR is a cloud production rate and defines the output capability just like the kilowatt-hour (SI symbol: kW⋅h or kW h; commonly written as kWh) is would do for a solar pannel.
 
-A server (3Node) who is connected to the internet and achieves a minimal uptime receives a [CPR_reward](cpr_reward_current).
+
+- CPR = Cloud Production rate, which is a nr which can be calculated per server (3node). 
+  - CPR expresses the capability of a server in relation to production of IT (compute/storage) capacity.
+- CPR_Reward = is the reward for being a farmer and is staked on the 3Node until 30% utilization of the capacity has been achieved. 
+  - The TF_Council looks over this CPR reward and adjusts it over time in line with TFGrid growth and token price. Once rewarded to a farmer the CPR Reward does not change.
 
 [Farming logic3 document](farming_logic3) describes how many TFT your server will receive as CPR_reward.
 
@@ -14,8 +18,8 @@ You don't have to be an expert to become a ThreeFold Farmer. Our autonomous syst
 
 Thanks to our sales model you also do not have to sell the capacity of your server(s), the threefold_channel approach takes care of this.
 
-> The farming model described & calculated is for TF Grid 3.0 and for all nodes attached to the network since April 2021.<BR>
-> The farming rewards are staked per 3Node and only unlocked to farmer once utilization is more than 30% per 3Node.
+The big disruption ThreeFold brings is that we commodify this model, you don't have to be a cloud expert. Our autonomous system does all the heavy lifting for you. 
+
 
 ## The Used Terms
 

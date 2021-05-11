@@ -7,15 +7,15 @@ Binance Smart Chain (BSC) is a blockchain network built for running smart contra
 ### Advantages
 
 - Lots of liquidity
-- Automatic price governance, thanks to DeFi technology like **PancakeSwap**
+- Automatic price governance, thanks to DEFI technology like [Pancake Swap](https://pancakeswap.finance/)
 - Low transaction fees
 - Fast
 
 ## ​​​​​How to get TFT on PancakeSwap
 
 1. You need to have a wallet configured for Binance Smart Chain, either via MetaMask (browser extension and mobile app) or on Trust Wallet (mobile only).
-- Instructions to set up Metamask for BSC: [here](https://github.com/threefoldfoundation/info_threefold/blob/development_token/src/token/tft_bsc_bridge/tft_bsc_metamask)
-- Instructions to set up Trust Wallet for BSC: [here](https://github.com/threefoldfoundation/info_threefold/blob/development_token/src/token/tft_bsc_bridge/tft_bsc_trustwallet)
+- Instructions to set up Metamask for BSC: [here](tft_bsc_metamask)
+- Instructions to set up Trust Wallet for BSC: [here](tft_bsc_trustwallet)
 2. You will need BNB in that wallet to cover transaction fees. Low amounts are sufficient, as the average transaction on BSC does not exceed 50 ct USD.
 3. Go to [Exchange PancakeSwap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x8f0fb159380176d324542b3a7933f0c2fd0c2bbf) and wait for TFT to appear. This may take a few seconds.
 > Again, please note it is very important to use the official contract address: **0x8f0fb159380176d324542b3a7933f0c2fd0c2bbf**. Do not use links or contract addresses from unverified sources!!
@@ -23,10 +23,9 @@ Binance Smart Chain (BSC) is a blockchain network built for running smart contra
 
 <br/>
 
+Thanks to **PancakeSwap** its easy for people to find liquidity if they want to buy/sell their TFT.
+The price get's adjusted in accordance to available liquidity.
+
 ![](img/pancakeswap.png)
-
-<!-- Thanks to **PancakeSwap** its easy for people to find liquidity if they want to buy/sell their TFT.
-The price get's adjusted in accordance to available liquidity. -->
-
 
 > For more info see https://www.binance.org/en/smartChain

@@ -37,8 +37,7 @@ It delivers 3 primitive functions:
 
 There is no shell, local nor remote attached to Zero-OS. It does not allow for inbound network connections to happen. Also, given its shell-less nature, the people and organizations, called farmers, that run 3nodes cannot issue any commands nor access its features. In that sense, Zero-OS enables a "zero people" (autonomous) Internet, meaning hackers cannot get in, while also eliminating human error from the paradigm. 
 
-Learn more about Zero-OS [here](part2_3node_primitive_workloads)
-Learn more about compute, storage and network on the TF Grid [here](hercules_components).
+Learn more about Zero-OS [here](part2_3node_primitive_workloads).
 
 ### 3Node
 
@@ -99,7 +98,7 @@ Learn more about Threefold Grid Blockchain [here](consensus3).
 
 *Note: This was last updated March 2021.*
 
-## Further Readings
+## More Info:
 
 - [What is the ThreeFold Token](token_what) - An introduction to ThreeFold Tokens, the medium of exchange on the new Internet.
 - [What is Farming](farming_intro) - An introduction to Farming and how anyone can participate in expanding the ThreeFold Grid.
