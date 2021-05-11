@@ -35,8 +35,8 @@ Binance Smart Chain (BSC) is a blockchain network built for running smart contra
 
 <br/>
 
-Thanks to **PancakeSwap** its easy for people to find liquidity if they want to buy/sell their TFT.
-The price get's adjusted in accordance to available liquidity.
+<!-- Thanks to **PancakeSwap** its easy for people to find liquidity if they want to buy/sell their TFT.
+The price get's adjusted in accordance to available liquidity. -->
 
 <br/>
 
