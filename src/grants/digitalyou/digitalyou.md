@@ -48,11 +48,11 @@ Please see: [DigitalTwin test/demo space](https://threebotdemo.jimber.org/)
 
 ### Milestones
 
-| Name                         | Date    | Funding needed (TFT) | Description                                                                 |
-| :--------------------------- | ------- | -------------------- | --------------------------------------------------------------------------- |
-| [Files](digitalyoufiles)     | Q3 2020 | 3,000,000            | Provide functionality to store (personal) files in a secure and private way |
-| [Browser](digitalyoubrowser) | Q3 2020 | 3,000,000            | Personal browser running close to our 3bot                                  |
-| [Meet](digitalyoumeet)       | Q3 2020 | 2,000,000            | Video conferencing tool, alternative to zoom                                |
-| [Office](digitalyouoffice)   | Q3 2020 | 5,000,000            | 100% compatible office suite running on top of your 3bot                    |
-| E-mail                       | Q3 2020 | n/a                  |                                                                             |
-| Calendar                     | Q3 2020 | n/a                  |                                                                             |
+| Name                         | Date | Funding needed (TFT) | Description                                                                 |
+| :--------------------------- | ---- | -------------------- | --------------------------------------------------------------------------- |
+| [Files](digitalyoufiles)     | ...  | ...                  | Provide functionality to store (personal) files in a secure and private way |
+| [Browser](digitalyoubrowser) | ...  | ...                  | Personal browser running close to our 3bot                                  |
+| [Meet](digitalyoumeet)       | ...  | ...                  | Video conferencing tool, alternative to zoom                                |
+| [Office](digitalyouoffice)   | ...  | ...                  | 100% compatible office suite running on top of your 3bot                    |
+| E-mail                       | ...  | ...                  |                                                                             |
+| Calendar                     | ...  | ...                  |                                                                             |

@@ -40,7 +40,7 @@ Architecture
 
 ### Milestones
 
-| Name | Date    | Funding needed (TFT) | Description                                     |
-| :--- | ------- | -------------------- | ----------------------------------------------- |
-| tbd  | Q2 2020 | n/a                  | All basic functionality implemented             |
-| tbd  | Q3 2020 | 3,000,000            | New rendering engine based on opengl in browser |
+| Name | Date | Funding needed (TFT) | Description                                     |
+| :--- | ---- | -------------------- | ----------------------------------------------- |
+| tbd  | tbd  | ...                  | All basic functionality implemented             |
+| tbd  | tbd  | ...                  | New rendering engine based on opengl in browser |
