@@ -12,7 +12,7 @@ Click the `ACTIVATE` button, agree with the Terms and Conditions, and confirm th
 
 ![](img/tfc_btc_t_and_c.jpg ':size=300')
 
-> __Remark:__ The BTC that can be exchanged with TFT has a trustline on Stellar issued by [CryptoAnchor](https://cryptoanchor.io/). By trading BTC on the Stellar network, you agree to the the terms and conditions of CryptoAnchor around the custody of these BTCs. Threefold is not liable for the exchange of BTC to TFT and vice versa. 
+> Note: The BTC that can be exchanged with TFT has a trustline on Stellar issued by [CryptoAnchor](https://cryptoanchor.io/). By trading BTC on the Stellar network, you agree to the the terms and conditions of CryptoAnchor around the custody of these BTCs. Threefold is not liable for the exchange of BTC to TFT and vice versa. 
 
 ### Deposit BTC
 
@@ -27,10 +27,14 @@ An alternative way to copy the content of the address to deposit BTC is by creat
 
 ### Exchange BTC into TFT
 
-Once you have BTC available in your wallet, you can use it to create a TFT buy order with it, which will be launched on the Stellar DEX.
-These buy orders will be executed immediately after submission of the order, under the conditions that the price criterium is met. A trade order will lead to buying TFTs against the cheapest available price. Right now it doesn't make sense to decrease the price of the token, as this will lead to a non-fulfilled order and your wallet will 'spin' eternally.
+Once you have BTC available in your wallet, you can use it to create a TFT buying order, which will be launched on the Stellar DEX.
+
+These buying orders will be executed immediately after submission, under the conditions that the price criteria is met. A trade order will lead to buying TFTs against the cheapest available price. 
+
+> Note: At that point, do not decrease the price of the token, as this will lead to a non-fulfilled order and your wallet will 'spin' eternally.
+
 Increasing the price can be done without risk, as the cheapest orders on the Stellar DEX are always the first ones to be used for.
-So it might be very well that the price you pay for a TFT might be less than indicated.
+It is very probable that the price you pay for a TFT is less than indicated.
 
 You can find the buy option in the TFT wallet, option `TRADE BTC TO TFT >`:
 
@@ -42,11 +46,11 @@ In this screen, you can launch a trade to exchange BTC into TFT for the requeste
 
 Confirm your buy order and then wait for execution of it in your wallet.
 
-The trade is executed in chunks, like a trading bot operates. The size of each trade order is limited, in general the order is split into max 20 pieces.
+The trade is executed in chunks, similarly to how trading bots operate. The size of each trade order is normally limited to a split of max 20 pieces.
 
 ![](img/tfc_btc_trade_exec.jpg ':size=300')
 
-ThreeFold will do what it can to guarantee liquidity on the underlying exchange.
+ThreeFold's ecosystem will try guarantee liquidity on the underlying exchange.
 
 Once trades have been executed, they appear in the trading history. 
 
