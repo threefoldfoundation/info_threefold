@@ -49,7 +49,7 @@ This would translate to a 50 billion USD (10% market share) demand to utilize th
 
 The TF Grid can be expanded indefinitely and independent farmers are incentivized to contribute to this expansion according to market demand.
 
-The amount of TFT in circulation in the market is, however, limited to a maximum of [4 billion TFT](token_liquidity).
+The amount of TFT in circulation in the market is, however, limited to a maximum of 4 billion TFT.
 
 ![](img/token_issuance_economy1.png)
 

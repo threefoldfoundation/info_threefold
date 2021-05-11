@@ -21,17 +21,6 @@ ThreeFold Foundation is a proud member of the [the Alliance for a Conscious Inte
 
 - [TF Foundation's team](http://threefold.io/public/#/team)
 
-### Funding
+### Spending
 
-- Funding needed for next milestones as described below: 35,000,000 TFT
-
-### Milestones
-
-Roadmap and investment plan for the ThreeFold_Grid.
-
-| Name                     | Date    | Funding needed (TFT) | Description                                                                                                                                                                                                                          |
-| :----------------------- | ------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Promotion Phase I        | Q3 2020 | 12,000,000           | Grow the grid to 30-40 countries and promote ThreeFold developer audiences in the blockchain and cloud space with a minimum of 15 blockchain projects utilizing the grid as well as 15 cloud based initiatives by the end of Q3 2020 |
-| The TF Grid enhancements | Q3 2020 | 10,000,000           | Further improvements of the TF Grid                                                                                                                                                                                                  |
-| The TF Grid UI           | Q3 2020 | 1,000,000            | Easy to use interface to provision IT workloads on the TF Grid                                                                                                                                                                       |
-| Promotion Phase II       | Q4 2020 | 12,000,000           | Grow the grid to 60-80 countries and promote ThreeFold developer audiences in the blockchain and cloud space with a minimum of 30 blockchain projects utilizing the grid as well as 30 cloud based initiatives by the end of Q4 2020 |
+- May 7: 4m TFT went to our team in Brasil to expand the Digital Twin and ThreeFold Token/Grid marketing in south America. The proceeds will be sold as vested tokens (in vesting scheme) as such minimal impact on liquidity (available tokens).

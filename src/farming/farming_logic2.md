@@ -18,7 +18,7 @@ The performance/capability of this hardware is attributed with Cloud_Units that 
 
 ### 2. Grid Specs
 
-* [Tokens are limited in supply](token_liquidity)
+* Tokens are limited in supply
     - For that minting is calculated using a "Farming Difficulty" parameter.
     - The difficulty factor determining how fast TFT’s are created through farming).
     - Farming difficulty follows the logic of diminishing returns, meaning that over time, less and less TFT are earned in relation to the size of the grid. 

@@ -33,14 +33,14 @@ The vision is to create an independent and private file storage facility to safe
 
 ### Milestones
 
-| Name         | Date   | Funding needed (TFT) | Description |
-|:-------------|--------|--------|-------------|
-| V0.9.0 | Q2 2020 | n/a | all basic functionality integrated |
-| V0.9.1 | Q2 2020 | n/a | sync |
-| V0.9.2 | Q2 2020 | n/a | granular security |
-| V1.0 | Q3 2020 | 1,000,000 | fuse layer, mount as filesystem |
-| V1.1 | Q3 2020 | 1,000,000 | streaming interface (video/audio) |
-| V1.2 | Q3 2020 | 1,000,000 | integration with 3bot office |
-| V1.3 |  tbd | tbd | integration with the TF ZeroStor |
+| Name   | Date | Funding needed (TFT) | Description                        |
+| :----- | ---- | -------------------- | ---------------------------------- |
+| V0.9.0 | tbd  | tbd                  | all basic functionality integrated |
+| V0.9.1 | tbd  | tbd                  | sync                               |
+| V0.9.2 | tbd  | tbd                  | granular security                  |
+| V1.0   | tbd  | tbd                  | fuse layer, mount as filesystem    |
+| V1.1   | tbd  | tbd                  | streaming interface (video/audio)  |
+| V1.2   | tbd  | tbd                  | integration with digital twin      |
+| V1.3   | tbd  | tbd                  | integration with the TF ZeroStor   |
 
 
