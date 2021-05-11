@@ -40,6 +40,8 @@ In this screen, you can launch a trade to exchange BTC into TFT for the requeste
 
 Confirm your buy order and then wait for execution of it in your wallet.
 
+The trade is executed in chunks, like a trading bot operates. The size of each trade order is limited, in general the order is split into max 20 pieces.
+
 ![](img/tfc_btc_trade_exec.jpg ':size=300')
 
 ThreeFold will do what it can to guarantee liquidity on the underlying exchange.
