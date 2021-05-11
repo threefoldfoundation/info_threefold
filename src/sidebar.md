@@ -22,7 +22,6 @@
   - [What is TFT](token_what)
   - [Features](token_features)
   - [Valuation](grid_valuation)
-  - [Liquidity](token_liquidity)
   - [New to Tokens](newtotokens)
   - [ThreeFold Wallets](threefold_wallets)
     - [ThreeFold Connect App](threefold_connect)

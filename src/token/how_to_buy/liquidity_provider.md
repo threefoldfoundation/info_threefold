@@ -1,6 +1,6 @@
 ![liquidity](img/pancakeswap_cake.jpg)
 
-<br/>
+<br/> 
 
 ## How to become a Liquidity Provider in the TFT pools on PancakeSwap and earn Trading rewards.
 

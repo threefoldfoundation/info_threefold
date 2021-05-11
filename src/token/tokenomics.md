@@ -18,11 +18,11 @@ The amount of TFTs that are created by farmers depends on three variables:
 Learn more about the variables [here](farming_logic3).
 
 Tokens are burned as result of cultivation which leads to nr of tokens to be limited.
-See farming_simulator for more info.
+See [farming simulator](farming_simulator) for more info.
 
-## Limited Supply & Liquidity Drivers
+<!-- ## Limited Supply & Liquidity Drivers
 
-See [Limited Supply & Liquidity Drivers](token_liquidity)
+See [Limited Supply & Liquidity Drivers](token_liquidity) -->
 
 ## TF Grid is valuable
 
