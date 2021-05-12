@@ -13,7 +13,7 @@ The only contract address for TFT on the Binance Smart Chain is [0x8f0FB15938017
 - Set up Metamask for BSC: Please find instructions [here](tft_bsc_metamask).
 - Set up Trust Wallet for BSC: Please find instructions [here](tft_bsc_trustwallet).
 
-## Bridge for TFT between Stellar and BSC
+## Bridge TFT between Stellar and BSC
 
 ### Withdraw TFT to Stellar Network
 
@@ -47,7 +47,7 @@ The only contract address for TFT on the Binance Smart Chain is [0x8f0FB15938017
 Your TFT should arrive shortly in your indicated Stellar wallet. 
 
 
-### Use the Bridge using code
+### Bridge TFT from Stellar to BSC via command line
 
 Please find instructions [here](https://github.com/threefoldfoundation/tft/blob/main/bsc/bridges/stellar/transfers.md).
 
