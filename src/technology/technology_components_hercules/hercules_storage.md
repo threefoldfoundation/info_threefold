@@ -1,15 +1,18 @@
-# Hercules Storage
+# Quantum Safe Storage System
+
+This is also called Hercules Storage.
 
 ![](img/storage1.png)
 
 
-## What is Hercules Storage?
+## What is Quantum Safe Storage System?
 
-Hercules storage is decentralized and distributed private storage environments at the edge or in core data centers in full scale-out mode. There is no scale limit to this storage platform. The external interface is an S3 interface but developers can also use the more lower level interface.
+Quantum Safe Storage System is decentralized and distributed private storage environments at the edge or in core data centers in full scale-out mode. There is no scale limit to this storage platform. The external interface is a filesystem which allows every user to host any storage application
+.
 
 #### 3-tier architecture
 
-- the *front end* of the storage system represent the S3 interface (protocol) to applications to store data objects.  
+- the *front end* of the storage system = a filesystem which can be mounted on any linux operating system (planned OSX and Windows).
 - the *middle layer* is called 0-store and accepts the input from the front end. This layer is driven by a "storage policy" which configures the  efficiency, redundancy and performance characteristics of the storage solution and can be configured to meet any combination of those characteristics. A unique storage distribution mechanism is being used to provide better redundancy at +3x less overhead.
 - the backend of the storage system is a very efficient "storage" database (0-db) that manages (a slice) physical storage devices and exposes an API to that disk on the network. 
 
@@ -23,7 +26,7 @@ To maximize performance, all of the components can be run in close proximity of 
 
 ## Features
 
-*   Simple Storage Service (S3) compatible
+*   Any storage application can be hosted on this system.
 *   Full integration with zero-os overlay networking layer (efficient and encrypted network)
 *   Supports deployments at the edge or in large scale datacenters (optimize performance and/or reliability)
 *   Integrated with a scalable & capable monitoring system (Prometheus based), deployed by default
@@ -34,15 +37,20 @@ To maximize performance, all of the components can be run in close proximity of 
 
 ### Unlimited Scalability
 
-![](img/storage2.png)
+![](img/storage_scaleout.png)
 
-The system is a pure scale-out storage system, it can scale to unlimited size, there is simply no bottleneck inside this system. Each S3 system is independent and uses our ThreeFold Space Codec to store the data distributed over typically 20 3nodes. Only 20% overhead is required to come to reliability which allows losing any 4 nodes at the same time per S3 storage system (this can easily be changed to even more redundancy).
+The system is a pure scale-out storage system, it can scale to unlimited size, there is simply no bottleneck inside this system. Each storage front end system is independent and uses our Hercules Space Algo to store the data distributed over typically 20 3nodes.
 
-### Private (not multi-tenant)
+For content delivery many more nodes can be used.
+
+
+### S3 Storage Grid
+
+This system can be used to create a S3 storage cloud:
 
 ![](img/storage3.png)
 
-Each architecture on the TF Grid has its own private overlay [network](hercules_network) which makes the storage solution a single tenant solution by design.  On top of that, each S3 deployment has 1 master and (optional) 1 slave S3 front end server which can be operated in a private setting when there is no Web Gateway used to connect it to the public internet, or the S3 interface can be exposed on the public internet by using the [Web Gateway](hercules_network).
+The grid uses own private overlay [network](hercules_network) which makes the storage solution a single tenant solution by design.  On top of that, each S3 deployment has 1 master and (optional) 1 slave S3 front end server which can be operated in a private setting when there is no Web Gateway used to connect it to the public internet, or the S3 interface can be exposed on the public internet by using the [Web Gateway](hercules_network).
 
 To deploy and manage an S3 cluster the enduser uses their 3bot (or a child of their 3bot) to manage the S3 instance (cluster). All required encryption keys and storage policies are managed by the private 3bot. It is a complete private and this single tenant solution. For good reliability and performance of the S3 instance we recommend to use a storage policy that includes at least 20 3nodes (disks) per S3 cluster.  A well defined storage policy leads to good performance, excellent reliability and low overhead.  A much used policy is 16+4 where the original object is represented by 16 equations derived from the original data object and then 4 more equtions are created for redundancy purposes.  This creates 20% overhead (4 out of 20) but delivers a solution that can sustain failure of 4 simultaneous disks (or in the case that 20 3nodes are used a failure or 4 simultaneous 3nodes) without loosing access to the original data.
 
@@ -53,7 +61,7 @@ This design leads to ultimate security, privacy, performance, scale and flexibil
 
 ### 100% Self Healing Possibility (v2.1)
 
-In v2.1 we have added 100% self healing capability which means that any automation software can interact and e.g. failover when required between master & slave front ends. 
+In v2.8 we have added 100% self healing capability which means that any automation software can interact and e.g. failover when required between master & slave front ends. 
 
 ## Storage Efficiency
 
@@ -81,15 +89,13 @@ It's also a much more safe system.
 
 ### Reliable / Secure
 
-*   [Hercules Space Algorithm](hercules_space_algo)): 
+*   [Hercules Space Algorithm](hercules_space_algo): 
     *   only 20% overhead for the ability to lose any 4 location/nodes
     *   hacker needs to hack 20 locations at once, need to know encryption keys & space algorithm
 *   [Hercules Protect](hercules_protect): 
     *   no hacking surface to the Zero-Nodes, integrate silicon route of trust
 *   Hercules Network: 
     *   encrypted overlay network connects the storage to users when required
-*   [Hercules Filesystem](hercules_filesystem): 
-    *   dedupe, zero-install, hacker proof deployment of all required components
 *   [Hercules Web Gateway](hercules_web_gateway): 
     *   the intelligent connection between web (internet) and storage services
 *   Hercules Audit (oem): on request, all file changes audited in blockchain
@@ -102,7 +108,7 @@ It's also a much more safe system.
 
 ## Roadmap
 
-### v2.1: Active (all features as described above are available)
+### v2.7: Active (all features as described above are available)
 
 - done
 
@@ -113,3 +119,5 @@ It's also a much more safe system.
 *   Full text indexing capabilities
 *   Full auditing & workflow management for file changes.
 
+
+!!!def alias:qsss,quantum_safe_storage_system,quantum_safe_storage,hercules_storage

@@ -53,7 +53,7 @@
   - [Technology Components](hercules_components)
     - [Hercules Compute](hercules_compute)
     - [Hercules Network](hercules_network)
-    - [Hercules Storage](hercules_storage)
+    - [Quantum Safe Storage System](hercules_storage)
     - [Hercules Containers](hercules_containers)
     - [Hercules Coder](hercules_coder)
     - [Hercules System Administrator](hercules_3bot)

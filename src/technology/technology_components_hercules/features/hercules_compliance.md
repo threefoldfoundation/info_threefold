@@ -7,12 +7,12 @@ Hercules compliance is a feature for Hercules Compute, Storage and Network.  The
 
 Deployed [Hercules containers](hercules_containers) and [compute solutions](hercules_compute) are end to end described in the blockchain database and inspectable.
 
-### Hercules storage compliance
+### Quantum Safe Storage System compliance
 
-Deployed Hercules storage solutions and kubernetes cluster are end to end described in the blockchain database and inspectable.
+Deployed Quantum Safe Storage System solutions and kubernetes cluster are end to end described in the blockchain database and inspectable.
 
 
-For compliance purposes Hercules Storage can be configured to have characteristics like:
+For compliance purposes Quantum Safe Storage System can be configured to have characteristics like:
 
 - Immutability:  Write Once, Read Many-times (WORM)
 - File versioning. Every update to a file leads to a new file version number.  Keep a number of (or all) older versions of the files to have complete traceability of what changed when, where and by whom.

@@ -2,6 +2,7 @@
 
 | category      | ease | link                                               | description                                                         | availability |
 | ------------- | ---- | -------------------------------------------------- | ------------------------------------------------------------------- | ------------ |
+| PUBL EXCHANGE | **** | [Binance Smartchain](tft_binance_defi)             | Most efficient way howt to buy and sell with liquidity providing    |
 | DEX           | **   | [Stellar Exchange](tft_stellar_dex)                | An integrated exchange on Stellar                                   | NOW          |
 | PUBL EXCHANGE | ***  | [Liquid Public Exchange](tft_liquid)               | A comprehensive and secure trading platform                         | NOW          |
 | PUBL EXCHANGE | ***  | [BTC Alpha Public Exchange](tft_btc_alpha)         | A secure and reliable blockchain asset trading platform             | NOW          |

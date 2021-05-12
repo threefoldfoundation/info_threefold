@@ -15,7 +15,7 @@ Jumpscale is the foundation of the autonomous layer. To get to autonomous operat
 - Uses our other components:
   - [Hercules Network](hercules_network)
   - [Hercules Compute](hercules_compute)
-  - [Hercules Storage](hercules_storage)
+  - [Quantum Safe Storage System](hercules_storage)
   - [Hercules Container](hercules_containers)
 
 ## Main Benefits
