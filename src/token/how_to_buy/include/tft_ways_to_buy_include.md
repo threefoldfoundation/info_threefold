@@ -2,7 +2,7 @@
 
 | category      | ease  | link                                               | description                                                         | availability |
 | ------------- | ----- | -------------------------------------------------- | ------------------------------------------------------------------- | ------------ |
-| THREEFOLD     | ***** | [BTC in TF Wallet](threefold_connect_btc)          | BTC to TFT on ThreeFold Wallet (buy TFT)                            | NOW          |
+| THREEFOLD     | ***** | [BTC in TF Wallet](threefold_connect_btc)          | BTC to TFT on ThreeFold Wallet (buy only)                           | NOW          |
 | PUBL EXCHANGE | ****  | [Binance Smartchain](tft_binance_defi)             | Most efficient way how to buy and sell with liquidity providing     | NOW          |
 | DEX           | **    | [Stellar Exchange](tft_stellar_dex)                | An integrated exchange on Stellar                                   | NOW          |
 | PUBL EXCHANGE | ***   | [Liquid Public Exchange](tft_liquid)               | A comprehensive and secure trading platform                         | NOW          |
