@@ -1,4 +1,4 @@
-# **BE THE INTERNET**: ThreeFold 3.0
+# **BE THE INTERNET**: Internet 4.0
 
 ## Internet Evolution
 
@@ -6,31 +6,32 @@
 
 ![](img/bad_internet_growth2.png)
 
-Everything is structured as client server.
+Everything is structured as client-server model
 
 ![](img/everything_client_server.png)
 
-- The servers run as applications inside these big datacenters using a lot of energy.
-- Lots of the processes in those servers are being repeated = not efficient.
-- we exist 100x times, super non efficient.
-- This leads to lot of centralization -> insecure and abuse of our data.
-
+- The servers run as applications inside huge datacenters using a lot of energy.
+- Most of the processes in those servers are being repeated = highly inefficient.
+- We exist 100x times, very inefficient.
+- This leads to alot of centralization -> insecure, as well as abuse of our data.
+- This has been also called web 1.0 and web 2.0
 
 ### Blockchain Based 
 
-Blockchain decentralized the server, but in principle its still client - server.
+Blockchain decentralized the server, but in principle it is still client - server model.
 
 ![](img/blockchain_is_clientserver.png)
 
-- Its definately a step in the right direction but the paradigm is the same.
+- It is definitely a step in the right direction but the paradigm is the same.
 - We as users still exist in different systems and have to deal with different applications (protocols).
 - These blockchains can be integrated and through web 2.0 concepts the web application can interact with multiple blockchains at the same time.
+- This has been also called web 3.0
 
 ![](img/blockchain_based_distr_computer.png)
 
-The browser now became our operating system running on javascript. All applications run in our browser and interact with multiple blockchains.
+The browser has now become our operating system running on javascript. All applications run in our browser and interact with multiple blockchains.
 
-This shows how actually nothing really got changed, the paradigm is the same. The server got distributed out using different mechanism which can be co-owned by more people and be linked to a better consensus paradigm (which often is not the case).
+This shows how actually nothing has really changed, the paradigm is the same. The server got distributed out using different mechanism which can be co-owned by more people and be linked to a better consensus paradigm (which often is not the case).
 
 
 #### some issues with this approach
@@ -59,10 +60,11 @@ It still client server where we (the user) are part of a big machine.
 - Maybe (eventually) more easy than having to code all from scratch, more primitive constructs available.
 - The language they use and how they get to redundancy is very cool.
 - They have a lot of money, they should be able to create awareness.
+- Their servers run as "canisters" in autonomous mode, giving a lot of power to the developer.
 
 #### Disadvantages
 
-- Slow, they are talking ms to get info, seconds for updating data.
+- Slow, they are talking ms to get info, seconds for updating data. In a datacenter context this is very slow. DFinity has been designed to operate on internet scale but makes it slow for more higher performance situations.
 - Limited in features, it will take long time to change everything and cost massive amount of investment to get everyone to change their programming habits.
 - No good storage paradigms, potentially needs other blockchain technologies to complement leading to performance loss and more complexity.
 - Protocol driven architectures lead to less security, hackers have more visibility than a true peer2peer system with no blockchain.
@@ -70,7 +72,7 @@ It still client server where we (the user) are part of a big machine.
 
 ## The ThreeFold Vision
 
-![](img/internet_steps.png)
+![](img/internet_evolution.png)
 
 - you in the center of your digital life
 - blockchain only needed for specific functions (money, identity, smart contracts, ...)
@@ -80,7 +82,7 @@ It still client server where we (the user) are part of a big machine.
 
 ### From Client Server to Peer2Peer
 
-Peer2peer is much more decentralized as client server.
+Peer2peer is the most decentralized way how to experience our digital life.
 
 ![](img/peer2peer_new.png)
 
@@ -108,7 +110,7 @@ Peer2peer is much more decentralized as client server.
 - experiences to be created using standard web technologies (html, javascript).
 - the digital twin delivers the web interface to your (secure) browser.
 
-![](img/digital_twin_working.png)
+![](img/digital_twin_to_browser.png)
 
 - no need for information to travel to central datancenters, all communication is fast and private between digital twins. No more client-server.
 - all logic of your digital life is 100% private to you running in your twin.
@@ -117,6 +119,10 @@ Peer2peer is much more decentralized as client server.
 - no blockchain required for your digital life = more privacy, performance, green
   - expception: blockchain is needed for digital currencies and as phonebook for digital twins identity.
 
+![](img/digital_twin_experiences.png)
+
+- super easy for any web developer to create experiences.
+- the most efficient way how to provide for your future digital life.
 
 
 ### The ThreeFold Grid Provides the IT energy
@@ -149,7 +155,7 @@ Needs to be super simple, just like how a solar panel generates electricity.
 - your data is spread over the TFGrid in such a way that not even a quantum computer can hack it. 
 - The data is 100% owned by you and zero-knowledge proof to the the TFGrid.
 
-### ThreeFold learned from Nature
+### ThreeFold grid inspired by nature.
 
 ![](img/nature_twin.png)
 
