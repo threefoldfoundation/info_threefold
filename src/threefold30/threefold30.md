@@ -1,86 +1,192 @@
-![](img/tf30.png)
+# **BE THE INTERNET**: ThreeFold 3.0
 
-# ThreeFold 3.0 Launch
+## Internet Evolution
 
+### Classic Internet
 
-ThreeFold 3.0 is our final step in our go-to-market approach. 
+![](img/bad_internet_growth2.png)
 
-We have spent the last 5 years building ThreeFold working towards this magical moment.
+Everything is structured as client server.
 
-What is going to happen during the 3.0 launch:
+![](img/everything_client_server.png)
 
-- TF Grid 3.0 = Public Launch
-	- farming of capacity for the Cloud 3.0 as well as Digital Twin 
-	- smartest ever billing & capacity tracking system for IT capacity
-		- 100% Peer2Peer, no centralization, workload definitions are private
-		- ultra flexibility for anyone using & selling IT capacity = smart combination of Parity & Stellar
-		- smart contract for IT using Parity Blockchain
-	- **launching marketcap < 20 million USD**
-    	- vesting of +75% of all tokens (see [token_overview](token_overview))
-- TF Cloud 3.0 = Public Launch
-	- **Edge Virtual Datacenter**, run your Kubernetes workloads anywhere in the world on the ThreeFold_Grid, compatible with all tools and full Docker/Kubernetes/... ecosystem. Compatible with major frameworks like Ansible & Helm.
-	- **Quantum Safe Filesystem**: store petabytes of data at incredible cost & reliability, compatible with IPFS & HyperCore / Hyper Drive for P2P usecases. Any Storage app can be put on top. This is the most reliable and global scalable **filesystem** ever invented.
-- TF Marketplace 3.0
-	- marketplace of 30+ existing solutions running on top of our grid, some huge like Owncloud who will push as well, see https://marketplace.threefold.io
-- TF Digital Twin 1.0 Launch
-	- the first credible sovereign own your data digital avatar in the world
-	- will have **dropbox, whatsapp, office, zoom alternative** inside.
-	- will have multicurrency digital currency wallet + trading bot
-	- **digital twin for life** program = first 100k users can buy the Twin for life time usage for only 100 USD, will be a token by itself. Price will go up 10 USD per 100k, Max 1m users can ever have this.
-- **ACI** = Alliance for Conscious Internet = incredible partners will launch with us and make publicity
-	- Solidaridad will sell & promote "yellow" farming boxes
-	- Spinn: Coffee Token + Digital Twin Hosted on Coffee Machine in every household !!!
-	- quite some blockchain parters, Digibyte is one of them
-	- ... to be completed ... 
-- **Education & Positive Climate Change Program**
-	- purpose: lower carbon output with 10% on a global scale
-	- give students access to internet & education tools
-	- partnership with with TAG (2.5m users, 4000 teachers) & Solidaridad & ...
-	- want to raise +20m USD to enable +20m users with access to education and as purpose **to educate how to deal differently with climate**
-	- carbon credits will be used as economic incentive
-
-> every feature mentioned above can be demonstrated today 
-
-## Communication & Promotion
-
-- we are hiring a top notch marketing agency for global launch
-- we are working with top & reputable marketmakers over multiple (de)centralized exchanges
-
-## The TFT is valuable
-
-- The Use Cases 
-	- cloud = a blue ocean (means +- unlimited demand)
-	- digital twin, unlimited growth & possibilities
-	- education platform to slow climate change
-- We are not talk
-	- all technology pieces are there and can be tested
-	- we just lack adequate funding to make this global and huge
-- Valuable
-	- The value of the P2P global cloud we are building = many Billions
-	- The value of our joint digital lives is unlimited: Trillions
-- Tokenomics
-	- Max nr of TFT tokens = 4 Billion.
-	- The TFT is the exclusive medium to buy/sell required IT capacity for these use cases
-	- The TFT marketcap will be <20m USD at launch, so clearly lots of room for growth
-- Ecosystem
-	- We have great partners and together we are building this internet & ecosystem around digital twin
-
-The TFGrid is the largest decentralised edge cloud in the world. There are 14,000 CPU cores and 80,000,000 GB storage available to be purchased on the TFGrid at this point. 
-
-Once there are not enough TFT available (by design) the price of TFT should rise because each TFT represents future IT capacity and the internet represents a market of unlimited size ('blue ocean market').
-
-## Pricing of our P2P cloud is crazy
+- The servers run as applications inside these big datacenters using a lot of energy.
+- Lots of the processes in those servers are being repeated = not efficient.
+- we exist 100x times, super non efficient.
+- This leads to lot of centralization -> insecure and abuse of our data.
 
 
-Today on the Grid TFTs buy you following IT capacity:
+### Blockchain Based 
 
-![](img/pricing_tf3.png)
+Blockchain decentralized the server, but in principle its still client - server.
 
-- A CU = 4 GB memory + 2 Virtual CPU compute capacity
-- A SU = 1TB net usable storage (archive)
+![](img/blockchain_is_clientserver.png)
 
-[The prices for capacity on the ThreeFold Grid are extremely competitive, see here](cloud:tfgrid_pricing)
+- Its definately a step in the right direction but the paradigm is the same.
+- We as users still exist in different systems and have to deal with different applications (protocols).
+- These blockchains can be integrated and through web 2.0 concepts the web application can interact with multiple blockchains at the same time.
+
+![](img/blockchain_based_distr_computer.png)
+
+The browser now became our operating system running on javascript. All applications run in our browser and interact with multiple blockchains.
+
+This shows how actually nothing really got changed, the paradigm is the same. The server got distributed out using different mechanism which can be co-owned by more people and be linked to a better consensus paradigm (which often is not the case).
+
+
+#### some issues with this approach
+
+- Today there are more than 100x different blockchain based projects
+- NOT GREEN: lotsof duplication of effort and many blockchains are not even green.
+- Not private lots of data is public available on these blockchains, only encryption can bring some relief.
+- Slow, stitching protocol driven backends (blockchain) together in a browser is inherintly slow.
+- Not secure, hackers operate at the browser level, the operating system came on other level.
+- Complicated for the developers, new languages and ways how to do everything.
+
+
+### DFINITY The Internet Computer
+
+![](img/dfinity_internet_computer.png)
+
+A massive distributed server with more capabilities. Is still blockchain based and has same issues as above, but is definately a very advanced iteration.
+
+Protocol driven security based on encryption and blockchain technology.
+
+It still client server where we (the user) are part of a big machine.
+
+#### Advantages
+
+- New paradigm can be made very scalable & reliable
+- Maybe (eventually) more easy than having to code all from scratch, more primitive constructs available.
+- The language they use and how they get to redundancy is very cool.
+- They have a lot of money, they should be able to create awareness.
+
+#### Disadvantages
+
+- Slow, they are talking ms to get info, seconds for updating data.
+- Limited in features, it will take long time to change everything and cost massive amount of investment to get everyone to change their programming habits.
+- No good storage paradigms, potentially needs other blockchain technologies to complement leading to performance loss and more complexity.
+- Protocol driven architectures lead to less security, hackers have more visibility than a true peer2peer system with no blockchain.
+- A huge big distributed machine, delivered by many commercial parties can lead to less than optimal decentralization.
+
+## The ThreeFold Vision
+
+![](img/internet_steps.png)
+
+- you in the center of your digital life
+- blockchain only needed for specific functions (money, identity, smart contracts, ...)
+- internet 10x more efficient
+- data sovereignity for all
+- an internet created by all for all = **be the internet**
+
+### From Client Server to Peer2Peer
+
+Peer2peer is much more decentralized as client server.
+
+![](img/peer2peer_new.png)
+
+- each user has 1 digital twin
+- this win serves your complete digital life
+- the digital twin represents you and has all logic required to act on your behalf.
+- all digital twins talk to each other over private secure links
+- there is no blockchain involved for the compute, storage & network requirements.
+- each digital twin needs compute, network and storage resources to survive, the twin will use TFT to reserve and pay for these resources as used on the ThreeFold Grid.
+- The twin is the only entity who has control over the resource it requires, its all 100% private and no blockchain involved to reserve and use that capacity.
+
+![](img/threefold_grid_0.png)
+
+- There can be unlimited amounts of 3Nodes as well as Digital Twins.
+- There are not bottlenecks or centralization points.
+- Our peer2peer network technology takes care of routing and security issues between the Twins and the 3Nodes. The shortest paths is always looked for.
 
 
 
-!!!def name:'threefold30' alias:threefold_3_0
+### The Digital Twin Provides your digital life.
+
+![](img/your_digital_twin.png)
+
+- full control over your own digital life.
+- experiences to be created using standard web technologies (html, javascript).
+- the digital twin delivers the web interface to your (secure) browser.
+
+![](img/digital_twin_working.png)
+
+- no need for information to travel to central datancenters, all communication is fast and private between digital twins. No more client-server.
+- all logic of your digital life is 100% private to you running in your twin.
+- a secure browser engine makes sure that rendering and javascript execution happens in secure context, give hackers no chance (optional)
+- this is super efficient and sustainable, +10x power savings.
+- no blockchain required for your digital life = more privacy, performance, green
+  - expception: blockchain is needed for digital currencies and as phonebook for digital twins identity.
+
+
+
+### The ThreeFold Grid Provides the IT energy
+
+Each 3Node is an IT Power generator. The TFGrid is the network of these 3Nodes.
+
+![](img/power_generation.png)
+
+Needs to be super simple, just like how a solar panel generates electricity.
+
+![](img/power_generator_comparison.png)
+
+- The 3nodes do for internet what solar panels do for large scale electricity power plants.
+- They allow everyone to contribute to a new internet.
+- People investing in the 3nodes are called [farmers](farming_home).
+- Each farmer receives tokens called TFT for providing this IT capacity.
+- IT Capacity is storage, compute and network capacity for this upgraded internet.
+- The Twin's need TFT to pay for the IT capacity they need.
+
+
+
+### Unique storage architecture for the digital Twin.
+
+
+![](img/storage_twin.png)
+
+
+- using our qsss
+- Not based on replication or blockchain!
+- your data is spread over the TFGrid in such a way that not even a quantum computer can hack it. 
+- The data is 100% owned by you and zero-knowledge proof to the the TFGrid.
+
+### ThreeFold learned from Nature
+
+![](img/nature_twin.png)
+
+- Just like we have trillions off cells in our body, so can billions of twins live next to each other.
+- Each twin has memory, knows how to communicate, has knowledge, history, ...
+- Twins like cells cannot live without a body = TFGrid.
+
+### ThreeFold is compatible with current IT world.
+
+We do realize that making our current vision reality will take some time.
+
+That is why we have made our infrastructure compatible with the exiting IT and internet ecosystem.
+
+![](img/wordview1.png)
+
+- any workload which can run inside linux can run on top of our TFGrid.
+- any web developer can create apps (experiences) on top of the Digital Twin.
+- just like kwatth is used as a measurement of capacity for solar panels we have [CU](cloud_units), [SU](cloud_units) and [NU](cloud_units).
+- TFT is required to buy CU,SU,NU.
+
+
+## ThreeFold in a nutshell
+
+### Values
+
+- equality = equal chances for everyone
+- Data Sovereignity = we own our data, and all data in our country
+- Sustainability = orders of magnitude more green.
+
+### Roadmap
+
+- 2018: token launched & blockchain
+- 2019: Grid v1.0 launched
+- 2020: Grid v2.0 launched
+- 2021 Q2: token gets more exposure
+- 2021 Q3: [fundraise 40m EUR](https://info.threefold.io/info/funding#/)
+- 2021 Q3: lots of partners start using TFGrid
+- 2021 Q3: larger token (re)launch (TBC)
+- 2021 H2: Grid v3.0 
+- 2021 H2: Digital Twin v1.0 in beta
