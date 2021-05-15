@@ -1,4 +1,4 @@
-# Quantum Safe Storage Benefits
+## Quantum Safe Storage Benefits
 
 Imagine a storage system with the following benefits
 
@@ -15,11 +15,11 @@ Our storage architecture follows the true peer-to-peer design of the TF grid. An
 
 Peer2peer provides the unique proposition of selecting storage providers that match your application and service of business criteria. For example, you might be looking to store data for your application in a certain geographic area (for governance and compliance) reasons. Also, you might want to use different "storage policies" for different types of data. Examples are live versus archived data. All of these uses cases are possible with this storage architecture and could be built by using the same building blocks produced by farmers and consumed by developers or end-users.
 
-## Dispersed Storage Architecture Design Philosophy
+### Dispersed Storage Architecture Design Philosophy
 
 Imagine we want a storage system which allows for 4 nodes (locations) out of the TFGrid to go offline and the data still need to be available and intact.
 
-## Compare With Classic Storage
+#### Compare With Classic Storage
 
 Classic Storage designs reliability around (multiple) copies of the same data.
 

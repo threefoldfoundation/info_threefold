@@ -1,14 +1,12 @@
-# Quantum Safe Storage System
+# Quantum Safe Storage System = Dispersed Storage
 
 This is also called Hercules Storage.
 
 ![](img/storage1.png)
 
-
 ## What is Quantum Safe Storage System?
 
-Quantum Safe Storage System is decentralized and distributed private storage environments at the edge or in core data centers in full scale-out mode. There is no scale limit to this storage platform. The external interface is a filesystem which allows every user to host any storage application
-.
+Quantum Safe Storage System is decentralized and distributed private storage environments at the edge or in core data centers in full scale-out mode. There is no scale limit to this storage platform. The interface is a filesystem which allows every user to host any storage application.
 
 #### 3-tier architecture
 
@@ -52,7 +50,7 @@ This system can be used to create a S3 storage cloud:
 
 The grid uses own private overlay [network](hercules_network) which makes the storage solution a single tenant solution by design.  On top of that, each S3 deployment has 1 master and (optional) 1 slave S3 front end server which can be operated in a private setting when there is no Web Gateway used to connect it to the public internet, or the S3 interface can be exposed on the public internet by using the [Web Gateway](hercules_network).
 
-To deploy and manage an S3 cluster the enduser uses their 3bot (or a child of their 3bot) to manage the S3 instance (cluster). All required encryption keys and storage policies are managed by the private 3bot. It is a complete private and this single tenant solution. For good reliability and performance of the S3 instance we recommend to use a storage policy that includes at least 20 3nodes (disks) per S3 cluster.  A well defined storage policy leads to good performance, excellent reliability and low overhead.  A much used policy is 16+4 where the original object is represented by 16 equations derived from the original data object and then 4 more equtions are created for redundancy purposes.  This creates 20% overhead (4 out of 20) but delivers a solution that can sustain failure of 4 simultaneous disks (or in the case that 20 3nodes are used a failure or 4 simultaneous 3nodes) without loosing access to the original data.
+For good reliability and performance of the S3 instance we recommend to use a storage policy that includes at least 20 3nodes (disks) per S3 cluster.  A well defined storage policy leads to good performance, excellent reliability and low overhead.  A much used policy is 16+4 where the original object is represented by 16 equations derived from the original data object and then 4 more equtions are created for redundancy purposes.  This creates 20% overhead (4 out of 20) but delivers a solution that can sustain failure of 4 simultaneous disks (or in the case that 20 3nodes are used a failure or 4 simultaneous 3nodes) without loosing access to the original data.
 
 One very important fact to mention is that this way of storing data eliminates the need for all original data objects to be retreived in order to get the original objects back.  *Any* 16 of the total of 20 equations stored will allow for the original data object to be retrieved.  Whichever 16 equations arrive first at the S3 cluster allow the original data object to be recreated. 
 Prometheus and Grafana monitoring is optional and can be enabled.
@@ -80,9 +78,7 @@ Security provided by encryption.
 ![](img/storage5.png)
 
 
-The ThreeFold approach leads to 20x less overhead compared to the traditional storage system.
-
-It's also a much more safe system.
+The ThreeFold approach in this example can lead upto 20x less overhead compared to the traditional storage system. It's also a much more safe system.
 
 
 ## Main Benefits
