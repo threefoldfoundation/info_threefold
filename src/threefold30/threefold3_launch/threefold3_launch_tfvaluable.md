@@ -1,7 +1,6 @@
 ## The TFT is valuable
 
 - Most amazing technology
-  - see [TFGrid3.0](tfgrid30)
 - The Use Cases 
 	- cloud = a blue ocean (means +- unlimited demand)
 	- digital twin, unlimited growth & possibilities
