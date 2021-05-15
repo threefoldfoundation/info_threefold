@@ -1,4 +1,4 @@
-# Hercules Space Algorithm
+# Quantum Safe Storage Algoritm
 
 Today we produce more data than ever before. We could not continue to make full copies of data to make sure it is stored reliably. This will simply not scale. We need to move from securing the whole dataset to securing all the objects that make up a dataset.
 
@@ -38,7 +38,7 @@ redundancy comes in at a much lower overhead.
 
 ### Example of 16/4
 
-![](img/hercules_space_algo.png)
+![](img/quantumsafe_storage_algo.png)
 
 Each object is fragmented into 16 parts. So we have 16 original fragments for which we need 16 equations to mathematically describe them. Now let's make 20 equations and store them dispersedly on 20 devices. To recreate the original object we only need 16 equations, the first 16 that we find and collect which allows us to recover the fragment and in the end the original object. We could lose any 4 of those original 20 equations.
 
@@ -55,4 +55,4 @@ If someone now wants to download the data the first 10 locations who answer fast
 The overhead here is much more compared to previous example but stil order of magnitude lower compared to other cdn systems.
 
 
-!!!def alias:hercules_space_algo,hercules_space_algorithm,space_algo,space_algorithm
+!!!def alias:quantumsafe_storage_algo,quantumsafe_storage_algorithm,space_algo,space_algorithm,quantum_safe_storage_algo

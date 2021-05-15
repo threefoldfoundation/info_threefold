@@ -18,7 +18,7 @@ Everything is structured as client-server model
 
 ### Blockchain Based 
 
-Blockchain decentralized the server, but in principle it is still client - server model.
+Blockchain decentralized the server, but in principle it remains a client - server model.
 
 ![](img/blockchain_is_clientserver.png)
 
@@ -37,18 +37,18 @@ This shows how actually nothing has really changed, the paradigm is the same. Th
 #### some issues with this approach
 
 - Today there are more than 100x different blockchain based projects
-- NOT GREEN: lotsof duplication of effort and many blockchains are not even green.
-- Not private lots of data is public available on these blockchains, only encryption can bring some relief.
-- Slow, stitching protocol driven backends (blockchain) together in a browser is inherintly slow.
+- NOT GREEN: lots of duplication of effort and many blockchains are not even green.
+- Not private lots of data is publicly available on these blockchains, only encryption can bring some relief.
+- Slow, stitching protocol driven backends (blockchain) together in a browser is inherently slow.
 - Not secure, hackers operate at the browser level, the operating system came on other level.
-- Complicated for the developers, new languages and ways how to do everything.
+- Complicated for the developers, new languages and ways to do everything.
 
 
 ### DFINITY The Internet Computer
 
 ![](img/dfinity_internet_computer.png)
 
-A massive distributed server with more capabilities. Is still blockchain based and has same issues as above, but is definately a very advanced iteration.
+A massive distributed server with more capabilities. Is still blockchain based and has same issues as above, but is definitely a very advanced iteration.
 
 Protocol driven security based on encryption and blockchain technology.
 
@@ -64,7 +64,7 @@ It still client server where we (the user) are part of a big machine.
 
 #### Disadvantages
 
-- Slow, they are talking ms to get info, seconds for updating data. In a datacenter context this is very slow. DFinity has been designed to operate on internet scale but makes it slow for more higher performance situations.
+- Slow, they are talking ms to get info, seconds for updating data. In a datacenter context this is very slow. DFinity has been designed to operate on internet scale but makes it slow for higher performance situations.
 - Limited in features, it will take long time to change everything and cost massive amount of investment to get everyone to change their programming habits.
 - No good storage paradigms, potentially needs other blockchain technologies to complement leading to performance loss and more complexity.
 - Protocol driven architectures lead to less security, hackers have more visibility than a true peer2peer system with no blockchain.
@@ -82,12 +82,12 @@ It still client server where we (the user) are part of a big machine.
 
 ### From Client Server to Peer2Peer
 
-Peer2peer is the most decentralized way how to experience our digital life.
+Peer2peer is the most decentralized way to experience our digital life.
 
 ![](img/peer2peer_new.png)
 
 - each user has 1 digital twin
-- this win serves your complete digital life
+- this twin serves your complete digital life
 - the digital twin represents you and has all logic required to act on your behalf.
 - all digital twins talk to each other over private secure links
 - there is no blockchain involved for the compute, storage & network requirements.
@@ -97,7 +97,7 @@ Peer2peer is the most decentralized way how to experience our digital life.
 ![](img/threefold_grid_0.png)
 
 - There can be unlimited amounts of 3Nodes as well as Digital Twins.
-- There are not bottlenecks or centralization points.
+- There are no bottlenecks nor centralization points.
 - Our peer2peer network technology takes care of routing and security issues between the Twins and the 3Nodes. The shortest paths is always looked for.
 
 
@@ -112,7 +112,7 @@ Peer2peer is the most decentralized way how to experience our digital life.
 
 ![](img/digital_twin_to_browser.png)
 
-- no need for information to travel to central datancenters, all communication is fast and private between digital twins. No more client-server.
+- no need for information to travel to central datacenters, all communication is fast and private between digital twins. No more client-server.
 - all logic of your digital life is 100% private to you running in your twin.
 - a secure browser engine makes sure that rendering and javascript execution happens in secure context, give hackers no chance (optional)
 - this is super efficient and sustainable, +10x power savings.
@@ -131,7 +131,7 @@ Each 3Node is an IT Power generator. The TFGrid is the network of these 3Nodes.
 
 ![](img/power_generation.png)
 
-Needs to be super simple, just like how a solar panel generates electricity.
+Needs to be super simple, just like a solar panel generates electricity.
 
 ![](img/power_generator_comparison.png)
 
@@ -140,7 +140,7 @@ Needs to be super simple, just like how a solar panel generates electricity.
 - People investing in the 3nodes are called [farmers](farming_home).
 - Each farmer receives tokens called TFT for providing this IT capacity.
 - IT Capacity is storage, compute and network capacity for this upgraded internet.
-- The Twin's need TFT to pay for the IT capacity they need.
+- The Twins need TFT to pay for the IT capacity they need.
 
 
 
@@ -159,7 +159,7 @@ Needs to be super simple, just like how a solar panel generates electricity.
 
 ![](img/nature_twin.png)
 
-- Just like we have trillions off cells in our body, so can billions of twins live next to each other.
+- Just like we have trillions of cells in our body, so can billions of twins live next to each other.
 - Each twin has memory, knows how to communicate, has knowledge, history, ...
 - Twins like cells cannot live without a body = TFGrid.
 

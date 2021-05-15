@@ -1,4 +1,4 @@
-## Why is our storage system 10x more efficient
+## Why is our system upto 10x more efficient
 
 3 reasons:
 
@@ -21,4 +21,6 @@ Literately some computers loose 90% of their working time because of context swi
 We at ThreeFold are aware of this problem and we created our own operating system which has way less layers and also we optimize to do a lot less context switches. This leads to huge efficiency benefits/
 
 
+
+>TODO: needs to be completed
 

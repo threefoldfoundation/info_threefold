@@ -1,4 +1,5 @@
 ![alt_text](img/header.png)
+
 # ThreeFold Technology Whitepaper: 
 # Autonomous Layer
 

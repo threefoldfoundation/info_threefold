@@ -54,7 +54,7 @@ Caching happens on each endpoint.
 
 #### Self Healing & Auto Correcting Storage Interface
 
-Any corruption e.g. [bitrot](https://en.wikipedia.org/wiki/Data_degradation) gets automatically detected and corrected.
+Any corruption e.g. bitrot gets automatically detected and corrected.
 
 In case of a HD crash or storage node crash the data will automatically be expanded again to fit the chosen redundancy policy.
 
@@ -89,9 +89,12 @@ The object (video,image) can easily be embedded in any website or other represen
 
 ## More Info
 
-* [Quantum Safe Storage System](hercules_storage)
-* [Hercules Storage Space Algorithm](hercules_space_algo)
-* [Smart Contract For IT Layer](hercules_smart_contract)
+* [Zero-OS overview](zos)
+* [Quantum Safe Storage System](qsss)
+* [Quantum Safe Storage Algorithm](quantumsafe_storage_algo)
+* [Smart Contract For IT Layer](smart_contract_it)
 
 
+
+!!!def alias:nft_storage,nft_storage_system
 

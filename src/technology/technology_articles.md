@@ -6,5 +6,5 @@
 - [Bringing Trust Is A Human Task](bringing_trust_is_a_human_task)
 - [Zero People IT Systems](zero_people_it_is_the_future)
 - [Edge Cloud not Grid Cloud?](edge_cloud_not_grid_cloud)
-- [The Autonomous Layer](autonomous_layer_whitepapers)
+- [The Autonomous Layer](autonomous_layer_whitepaper)
 - [The Capacity Layer](capacity_layer_image)

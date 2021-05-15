@@ -1,6 +1,6 @@
 # S3 Service
 
-If you like an S3 interface you can deploy this on top of our eVDC, it works very well together with our [planetfs](threefold_fs).
+If you like an S3 interface you can deploy this on top of our eVDC, it works very well together with our [quantum_safe_filesystem](tftech:quantum_safe_filesystem).
 
 A good opensource solution delivering an S3 solution is [min.io](https://min.io/).
 

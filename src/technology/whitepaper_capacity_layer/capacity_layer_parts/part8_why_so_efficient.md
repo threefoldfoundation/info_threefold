@@ -22,4 +22,4 @@ Context switching is the process of storing and restoring the execution state (c
 
 Inevitably, this increases the inefficiency of IT architectures just like what happens with people. It's like being requested to do an additional task every 5min.
 
-Eliminating layers and using other protocols and patterns to avoid context switches has a huge benefit. This is not the only trick – we also work on algorithm layer (e.g. for the storage, see [the autonomous whitepaper](autonomous_layer_whitepapers)).
+Eliminating layers and using other protocols and patterns to avoid context switches has a huge benefit. This is not the only trick – we also work on algorithm layer (e.g. for the storage, see [the autonomous whitepaper](autonomous_layer_whitepaper)).
