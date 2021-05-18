@@ -1,6 +1,6 @@
 # Digital Twin
 
-Digital Twin is a primary use case on top of the ThreeFold_Grid.
+Digital Twin is a good use case on top of the ThreeFold_Grid.
 
 Digital Twin is you as autonomous digital being on the grid which gives back the ownership of your data to only you – and no one else.
 
@@ -8,7 +8,7 @@ Digital Twin is a response to today's reality, your escape from the many popular
 
 Eventually other experience providers will provide experiences on top of the Digital Twin e.g. the Crystal Twin (see alliance for conscious internet and TGP)
 
-First implementation of Digital Twin (march 2021) has following features
+First implementation of Digital Twin (march 2021 in working prototype) has following features
 
 - filemanager (manage all your files, photos, ...)
 - office documents & collaboration
@@ -16,5 +16,7 @@ First implementation of Digital Twin (march 2021) has following features
 - chat tool (full peer2peer)
 - web and wiki publishing tool
 - peer2peer secure networking layer
+
+Digital Twin will probably change name to FreeFlow.
 
 !!!def alias:digital_twin, dtwin

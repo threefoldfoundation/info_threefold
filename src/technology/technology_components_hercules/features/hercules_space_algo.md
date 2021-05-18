@@ -54,3 +54,5 @@ If someone now wants to download the data the first 10 locations who answer fast
 
 The overhead here is much more compared to previous example but stil order of magnitude lower compared to other cdn systems.
 
+
+!!!def alias:hercules_space_algo,hercules_space_algorithm,space_algo,space_algorithm

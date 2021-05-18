@@ -6,12 +6,13 @@ As from this release, ThreeFold Tokens can be directly bought using Bitcoin (BTC
 
 ### Activate your BTC wallet in the ThreeFold Connect App
 
-
-This is simply done simply by clicking the `ACTIVATE` button, agree with the Terms and Conditions, and confirm the activation on the next screen.
+Click the `ACTIVATE` button, agree with the Terms and Conditions, and confirm the activation on the next screen.
 
 ![](img/tfc_btc_activate.jpg ':size=300')
 
 ![](img/tfc_btc_t_and_c.jpg ':size=300')
+
+> Note: The BTC that can be exchanged with TFT has a trustline on Stellar issued by [CryptoAnchor](https://cryptoanchor.io/). By trading BTC on the Stellar network, you agree to the the terms and conditions of CryptoAnchor around the custody of these BTCs. Threefold is not liable for the exchange of BTC to TFT and vice versa. 
 
 ### Deposit BTC
 
@@ -26,10 +27,14 @@ An alternative way to copy the content of the address to deposit BTC is by creat
 
 ### Exchange BTC into TFT
 
-Once you have BTC available in your wallet, you can use it to create a TFT buy order with it, which will be launched on the Stellar DEX.
-These buy orders will be executed immediately after submission of the order, under the conditions that the price criterium is met. A trade order will lead to buying TFTs against the cheapest available price. Right now it doesn't make sense to decrease the price of the token, as this will lead to a non-fulfilled order and your wallet will 'spin' eternally.
+Once you have BTC available in your wallet, you can use it to create a TFT buying order, which will be launched on the Stellar DEX.
+
+These buying orders will be executed immediately after submission, under the conditions that the price criteria is met. A trade order will lead to buying TFTs against the cheapest available price. 
+
+> Note: At that point, do not decrease the price of the token, as this will lead to a non-fulfilled order and your wallet will 'spin' eternally.
+
 Increasing the price can be done without risk, as the cheapest orders on the Stellar DEX are always the first ones to be used for.
-So it might be very well that the price you pay for a TFT might be less than indicated.
+It is very probable that the price you pay for a TFT is less than indicated.
 
 You can find the buy option in the TFT wallet, option `TRADE BTC TO TFT >`:
 
@@ -41,9 +46,11 @@ In this screen, you can launch a trade to exchange BTC into TFT for the requeste
 
 Confirm your buy order and then wait for execution of it in your wallet.
 
+The trade is executed in chunks, similarly to how trading bots operate. The size of each trade order is normally limited to a split of max 20 pieces.
+
 ![](img/tfc_btc_trade_exec.jpg ':size=300')
 
-ThreeFold will do what it can to guarantee liquidity on the underlying exchange.
+ThreeFold's ecosystem will try guarantee liquidity on the underlying exchange.
 
 Once trades have been executed, they appear in the trading history. 
 
@@ -51,18 +58,5 @@ Once trades have been executed, they appear in the trading history.
 
 ### Transfer BTC to another account
 
-The BTC that are residing in your wallet in the ThreeFold Connect app can be transferred to any other bitcoin wallet. 
-
-At this point in time, [Cryptoanchor](https://cryptoanchor.io/), issuer of the TFT trustline on the Stellar network, doesn't support the sponsored transfer of tokens yet, like it is implemented in the ThreeFold Connect app.
-
-BTCs can be withdrawn however to another wallet using interstellar (the tool owned by the issuer of BTC on Stellar). Here is how to do it:
-
-- First go to detailed info, and press show secret.
-- Copy this secret, you will need it later.
-- Navigate to [Interstellar Exchange](https://interstellar.exchange/app/#/), follow the steps and select “Enter account”
-- Choose a password and login
-- Select “Import” a single wallet, fill in the secret you copied earlier.
-- You will need a very small amount of XLM to execute this transaction ( 0.0001 ). If you don’t have this XLM or don’t know how to get it, please contact support on https://threefold.io/ with your public wallet address provided.
-Click `BTC` and select `Withdraw`.
-- Fill in the amount and Bitcoin address you want to withdraw it to. Keep in mind there is a transaction fee, the site might adjust the amount if you don’t have enough in your account to cover both the amount + fee.
-- Confirm the transaction.
+The BTC that are residing in your wallet in the ThreeFold Connect app can be transferred to any other bitcoin wallet.
+For more info on how to do it, read [here](btc_withdrawal).
