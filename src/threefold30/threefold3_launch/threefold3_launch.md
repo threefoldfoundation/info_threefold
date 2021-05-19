@@ -15,8 +15,10 @@ ThreeFold 3.0 is our next big step in our journey, a lot of marketing and promot
   	- we are talking to marketmakers, PR companies and Crypto / Digital currency experts to plan the ThreeFold 3.0 launch
   	- we are going all in on DEFI (Pancakeswap, Binance Smart Chain) (we need more features in our wallet for this)
   	- we want to make it super easy for people to buy/sell TFT using our TF Connect Wallet (today we did BTC to TFT, we are working on reverse)
-- Announce a major usecase of the TFGrid
+- Announce 2 major usecases of the TFGrid
     - will be anounced on AIBC Summit General Info 2021 UAE (25 May)
+- Announce carbon Neutral Cloud
+	- will also be anounced on AIBC Summit General Info 2021 UAE (25 May)
 - ThreeFold Project Awareness Improvements
     - there are 20+ press releases planned, there is lots of real content waiting to become public
     - we will be working with good PR companies to make this happen
