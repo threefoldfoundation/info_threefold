@@ -12,7 +12,7 @@ What is going to happen during the 3.0 launch:
 		- 100% Peer2Peer, no centralization, workload definitions are private
 		- ultra flexibility for anyone using & selling IT capacity = smart combination of Parity & Stellar
 		- smart contract for IT using Parity/Substrate Blockchain
-		- see [ThreeFold 3.0](tfgrid30)
+		- see [ThreeFold 3.0](internet4)
 - Token Launch 3.0
 	- **launching marketcap < 30 million USD**.
   	- vesting of large part of our tokens (see [token_overview](token_overview)).
