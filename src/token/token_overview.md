@@ -57,6 +57,7 @@ Calculated May 5 2021
 
 !!!include:stats_toc
 - [ThreeFold Token & Grid History](threefold_history)
+- [Overview of the Foundation wallets](stats_special_wallets)
 
 ## Disclaimer
 
