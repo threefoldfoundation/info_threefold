@@ -122,6 +122,7 @@
     - [Pareto](pareto)
     - [Team Empowerment](team_empowerment)
     - [User Involvement](user_involvement)
+  - [How to Use Chat](how_to_use_chat)
 - [Definitions & Concepts](definitions_concepts)
 - [Glossary](defs)
 - [Legal](legal:legal)
