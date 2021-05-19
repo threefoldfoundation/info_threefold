@@ -42,7 +42,7 @@ Planned later this year.
 		- ultra flexibility for anyone using & selling IT capacity = smart combination of Parity & Stellar
 		- smart contract for IT using Parity/Substrate Blockchain
 - Token Launch 3.0
-  	- with the help of reliable and reputable marketmakers, PR companies and Crypto / Digital currency experts we will give our token maximum exposure.
+    - with the help of reliable and reputable marketmakers, PR companies and Crypto / Digital currency experts we will give our token maximum exposure.
 - TF Digital Twin Server 0.9 (demo mode)
     - allow anyone to develop applications (experiences) on top of our digital twin
     - may hackatons and other events to demonstrate how to do it
