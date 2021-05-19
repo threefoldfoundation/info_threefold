@@ -55,4 +55,4 @@ If someone now wants to download the data the first 10 locations who answer fast
 The overhead here is much more compared to previous example but stil order of magnitude lower compared to other cdn systems.
 
 
-!!!def alias:quantumsafe_storage_algo,quantumsafe_storage_algorithm,space_algo,space_algorithm,quantum_safe_storage_algo
+!!!def alias:quantumsafe_storage_algo,quantumsafe_storage_algorithm,space_algo,space_algorithm,quantum_safe_storage_algo,qs_algo
