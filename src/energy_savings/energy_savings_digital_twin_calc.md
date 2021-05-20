@@ -14,7 +14,6 @@ This shows how a digital twin can be very power efficient way how to deliver a d
 
 > In this calculation we save 4000 times on energy usage compared to the world today.
 
-
-> Please help us to make this the best calculations ever, they are very new, benchmarking and getting feedback will help us.
+!!!include:energy_savings_calculator
 
 !!!include:energy_savings_toc

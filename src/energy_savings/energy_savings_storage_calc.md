@@ -9,8 +9,6 @@ Following calculation is done for a 100% online system (not near line) using low
 
 > We believe that this is at least 10x more power efficient compared to the other average storage systems, but probably much more.
 
-
-> Please help us to make this the best calculations ever, they are very new, benchmarking and getting feedback will help us.
-
+!!!include:energy_savings_calculator
 
 !!!include:energy_savings_toc

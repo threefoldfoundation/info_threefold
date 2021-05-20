@@ -1,4 +1,4 @@
-# 25 Digital Twin per Light Bulb
+# 23 Digital Twin per Light Bulb
 
 ![](img/light_bulb.png ':size=400x300')
 
