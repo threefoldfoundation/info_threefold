@@ -9,21 +9,13 @@ In this document we walk you through how much more efficient a digital twin is i
 
 To power 4 Billion people with a system like ours we need less that 10 giga watt of power (see [calculation](energy_savings_digital_twin_calc)).
 
- > Each twin uses about 2.6 watt of power. <BR>
- > This means we can host 23 digital twins on an electricity budget of a lamp.
-
- The world uses a lot of energy:
-
-![](img/power_stats_datacenters.png ':size=500x1000')
-
-Potential power savings sum up more than 4.000 times for datacenters alone.
+ > Each twin uses about 2.4 watt of power. <BR>
+ > This means we can host 25 digital twins on an electricity budget of a lamp.
 
 ## How else can we save power:
 
 - network: at least 10x less due to requiring less bandwidth
-- production of IT: 10-100x
 - consumer devices: probably not much
-- datacenters: huge, for sure +100 times less if we consider all workloads
 
 > **Conclusion we can for sure save between 10 and 100 times on global power requirements for our digital life, we believe this is incredible and worth it.**
 
@@ -33,7 +25,7 @@ Potential power savings sum up more than 4.000 times for datacenters alone.
 
 ### The high level problem
 
-In today's digital world we exist more than 100x times and this is super inneficient. 
+In today's digital world we exist more than 100x times and this is inneficient. 
 
 ![](img/we_exist_multiple_times.png)
 
@@ -49,7 +41,7 @@ Each digital twin is highly efficient to process your digital life.
 
 All these digital_twins talk to each other in a peer2peer way leading to a tremendously efficient organic system.
 
-### why can we be so efficient compared to a centralized system:
+### why can we efficient compared to a centralized system:
 
 Typically we can host more than 100 users on a small host (computer) of less than 2000 EUR.
 
