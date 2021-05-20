@@ -1,6 +1,6 @@
 ![](img/savings_energy_2.png)
 
-> When the world adopts the Digital Twin (Internet 4) way of working we save thousands of times of energy usage for our digital life.
+> When the world adopts the Digital Twin (Internet 4) we save thousands of times of energy usage for our digital life.
 
 And the energy we still use can be ofset using carbon credits.
 
