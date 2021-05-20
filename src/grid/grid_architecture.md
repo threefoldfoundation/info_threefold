@@ -67,7 +67,7 @@ The purpose of the smart contract for IT is to create and enable autonomous IT. 
 
 While sticking to these principles, it provides the basis to consider and describe everything in a contract type format and to deploy any self-driving and self-healing application on the ThreeFold_Grid.
 
-Learn more about smart contract for IT [here](tftech:smart_contract_for_it).
+Learn more about smart contract for IT [here](tftech:smartcontract_it).
 
 ### 3Bot
 
@@ -105,7 +105,7 @@ Learn more about Threefold Grid Blockchain [here](consensus3).
 - [Zero-OS primitive workloads](part2_3node_primitive_workloads) - An overview of ThreeFold's unique operating system Zero-OS.
 - [How do 3Nodes work](part1_the_3node) - An overview of 3Node and the different softwares it runs.
 - [The main technology components](hercules_components) - Detailed sheets of the compute, storage, network, containerization, etc. products of ThreeFold.
-- [Dive deeper in the Smart Contract for IT](tftech:smart_contract_for_it) - The smart contract that powers the autonomous Internet. 
+- [Dive deeper in the Smart Contract for IT](tftech:smartcontract_it) - The smart contract that powers the autonomous Internet. 
 - [How 3Bot enables anyone to become the center of their digital life](part3_smart_it_circles_3bot) - An overview of some basic concepts and principles around 3Bot.
 - [The Threefold Grid Blockchain](consensus3) - Learn more about the consensus engine of ThreeFold that uses Polkadot's technology substrate.
 - [Use the Threefold Grid](use_tfgrid) - An introduction to the ThreeFold products and services: The ThreeFold SDK, P2P Cloud, P2P Marketplace, and Digital Twin.

@@ -1,5 +1,6 @@
 ## ZOS compute storage overview
 
-![](img/zos_compute_storage_overview.png)
+![](img/zos_overview_compute_storage.png)
+
 
 !!!include:zos_toc

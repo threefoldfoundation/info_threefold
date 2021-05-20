@@ -21,7 +21,7 @@ Uses capacity layer from Zero-OS and your virtual system administrator called 3b
 
 *   [Hercules Protect](hercules_protect): no hacking surface to the Zero-Nodes, integrate silicon route of trust
 *   [Hercules P2P Network](hercules_p2p_network): encrypted overlay network connects the containers
-*   [Hercules Filesystem](hercules_filesystem) (v2.x): dedupe, zero-install, hacker-proof for use in containers on kubernetes
+*   [ZFList](hercules_filesystem) (v2.x): dedupe, zero-install, hacker-proof for use in containers on kubernetes
 *   [Hercules Web Gateway](hercules_web_gateway): intelligent connection between web (internet) and container services
 *   [Hercules Planetary Network](hercules_planetary_network): a true global single backplane network connecting us all
 

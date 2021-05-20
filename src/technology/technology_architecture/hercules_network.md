@@ -86,7 +86,7 @@ The system is a pure scale-out network system, it can scale to unlimited size, t
 ### Reliable / Secure
 
 *   Hercules Protect: no hacking surface to the Zero-Nodes, integrate silicon root of trust
-*   Hercules Filesystem: dedupe, zero-install, hacker-proof deployment of all required components
+*   ZFList: dedupe, zero-install, hacker-proof deployment of all required components
 *   Hercules Compliance (OEM only): on request, ultra-strong compliance can be proven (location, network usage, auditing trails …)
 
 ### Strong

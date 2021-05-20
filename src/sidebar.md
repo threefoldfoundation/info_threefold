@@ -58,7 +58,7 @@
     - [Hercules Coder](hercules_coder)
     - [Hercules System Administrator](hercules_3bot)
     - [Capacity Layer](tftech:capacity_layer)
-    - [Smart contract for IT](tftech:smart_contract_for_it)
+    - [Smart contract for IT](tftech:smartcontract_it)
     - [Open Source Links](grid_tech_opensource)
     - [Less is More](grid_tech_zeropeople)
 - [White Papers](whitepapers)

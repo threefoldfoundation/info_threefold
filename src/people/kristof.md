@@ -6,7 +6,7 @@
 
 - [A little game slide deck, let's work for a better planet](http://planet.freeflownation.org/)
 - Threefold
-    - [TFTech latest investor deck](https://threefold.io/info/threefold/tftech_investor_intro_2021.pdf)
+    - [TFTech latest investor deck](https://threefold.io/info/threefold/threefold_intro_2021.pdf)
     - [The ThreeFold knowledge base (wiki)](https://wiki.threefold.io/) (has lots of info)
 - project we really care about and help with
     - [Take Action Global: lower carbon footprint + education for 100m students, using digital twin technology](https://threefold.io/info/threefold/tag_fundraise_2021.pdf)

@@ -15,7 +15,7 @@ So to break these two major obstacles ThreeFold tech has developed technology th
 A smart contract for IT (SCIT) is a very different approach to create a general purpose IT architecture. The aim of the architecture is to break through the financial and operational barriers of creating inclusive and sustainable capacity generation.  
 
 The architecture is explained by the diagram below. For various parts of the architecture unique technology has been created and integrated.
-![](img/smart_contract_for_it_steps.png)
+![](img/smartcontract_it_steps.png)
 
 #### Smart contracting (1+2).
 

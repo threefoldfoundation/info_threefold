@@ -12,7 +12,7 @@ Decentralized networking platform allowing any compute and storage workload  to 
 
 ### Secure mesh overlay network (peer2peer)
 
-![](img/hercules_network_overlay.png)
+![](img/zos_network_overlay.png)
 
 Hercules Network is the foundation of any architecture running on the TF Grid.  It can be seen as a virtual private datacenter and the network allows all of the *N* containers to connected to all of the *(N-1)* other containers. Any network connection is a secure network connection between your containers and creates a 100% peer 2 peer network between containers. 
 

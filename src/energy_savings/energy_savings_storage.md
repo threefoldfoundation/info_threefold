@@ -1,12 +1,26 @@
+![](img/energy_savings1.png)
+
 # Energy Savings Storage System
 
-We try to make a comparison by a generic storage system based on HDD and replication.
+```
+Reviewing the academic literature on the energy consumption of internet data,
+we found that figures varied from the lowest of 0.004 kWh/GB to 136 kWh/GB.
+In other words, the estimates varied by several orders of magnitude.
+```
+see [wholegraindigital](https://www.wholegraindigital.com/blog/website-energy-consumption/#:~:text=Reviewing%20the%20academic%20literature%20on,by%20several%20orders%20of%20magnitude).
+
+> **Our power usage is 0.00086 kWh per GB**
+
+This is the calculation for a storage system based on 8 disks per storage node and a serious storage front end system with some good caching on SSD.
+
+See [the calculation here](energy_savings_storage_calc)
+
+## Reasoning why we can be so power efficient.
+
+We make a comparison by a generic storage system based on HDD and replication.
 We believe this is still the majority of storage systems in the market.
 
-Ofcourse there will be systems working differently and also be energy efficient.
-But the focus does not seem to be there for most existing sold systems.
-
-## avoid copies
+### avoid copies
 
 Most systems in the storage world use replication of data as main mechanism to make sure data cannot be lost. 
 
@@ -18,7 +32,7 @@ We believe that using our algo saves at least 3x of storage space versus other s
 
 Some new blockchain projects use also a good storage code like SIA and STORJ, they both use erasure codes. Their systems are more protocol driven systems through and not private to the user.
 
-## multi layer
+### multi layer
 
 Our storage system is a multi layered system.
 The encoding/front end system does a lot of caching and will make sure there is enough performance even for workloads where some random read/write is required.
@@ -27,7 +41,7 @@ The backend uses slow nodes with slow energy efficient disks.
 
 This allows for better energy optimization.
 
-## no need to use fast disks
+### no need to use fast disks
 
 In our storage system we still use HD's because they are by far still the most cost effective way how to store data.
 The issue with HD's is that they spin around and as such become slow and even unreliable if the read/write behaviour is too random on these disks.
@@ -59,7 +73,7 @@ Our estimate is that we can save about 3x in energy usage because of using these
 - A larger disk is 2 to 3x bigger compared to a faster enterprise capable disk
 
 
-## Read/Write caching
+### Read/Write caching
 
 On the storage front end nodes we do aggressive caching of read and writes on SSD.
 SSD don't use energy and provide a fast layer for caching.
@@ -70,7 +84,7 @@ Because of this caching layer large blocks of data are created (thanks to ZDB te
 
 This results in the ability to use the backend HD's much less and as such save energy.
 
-## HDs and/or storage nodes are being turned off
+### HDs and/or storage nodes are being turned off
 
 Our Zero-OS nodes have the abilty to turn off HD's when not needed.
 Thanks to the write caching layer most disks are not active.
@@ -80,26 +94,28 @@ This leads to huge power savings and also improves the lifetime of a HDD a lot.
 
 This is only possible because of our caching method and the qs_algo.
 
-## nearline storage use case
+### nearline storage use case
 
 We can configure our system to only write to the backend x hours per day, which means that the storage nodes at the backend can be powered off, this happens automatically.
 
 Imagine a system which is ingesting data on continuous basis e.g. from security camera's but ony during 4 hours a day write to the backend. This saves lots of energy again.
 
-## what about SSD.
+
+## Remarks
+
+### what about SSD.
 
 For sure SSD is the most energy efficient way how data can be stored these days but we find it not cost effective enough yet.
 
 !!!include:effect_cooling
 
+
+
 ## Calculation
 
-Following calculation is done for a 100% online system (not near line) using low powered storage nodes.
+See [a calculation for a 100% online system using low powered storage nodes](energy_savings_storage_calc).
 
-![](img/power_cost_storage.png ':size=800x560')
-
-
-We believe that this is at least 10x more power efficient compared to other storage systems, but probably much more.
+We believe that this is at least 10x more power efficient compared to other storage systems.
 
 ## Example
 

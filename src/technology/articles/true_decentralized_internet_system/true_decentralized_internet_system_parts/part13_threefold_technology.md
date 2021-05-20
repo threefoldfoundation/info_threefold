@@ -22,7 +22,7 @@ The system consists out of multiple layers, a technical user can create their so
 ### Communication Flows 
 
 
-![alt_text](img/smart_contract_for_it_steps.png)
+![alt_text](img/smartcontract_it_steps.png)
 
 
 _Information flow documented where a user retrieves a video from his/her phone._

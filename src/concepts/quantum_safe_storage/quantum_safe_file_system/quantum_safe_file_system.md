@@ -1,6 +1,6 @@
 ![](img/filesystem_abstract.png)
 
-# Quantum Safe Filesystem
+# zstor filesystem
 
 A redundant filesystem, can store PB's (millions of gigabytes) of information.
 
@@ -29,7 +29,7 @@ Unique features.
   - data files (json or dtml) = data of your digital life
   - files of the [filemanager](dtfilemanager)
   - backend for the [dthyperdrive](dthyperdrive)
-- QSFS can be synced with the [DTHyperDrive](dthyperdrive)
+- zstor can be synced with the [DTHyperDrive](dthyperdrive)
 
 ## implementation
 
@@ -42,6 +42,6 @@ Unique features.
 
 ![](img/qsstorage_architecture.png)
 
-Any storage workload can be deployed on top of the QSFS.
+Any storage workload can be deployed on top of the zstor.
 
-!!!def alias:quantum_safe_filesystem,planetary_fs,planet_fs,quantum_safe_file_system,qsfs
+!!!def alias:quantum_safe_filesystem,planetary_fs,planet_fs,quantum_safe_file_system,zstor

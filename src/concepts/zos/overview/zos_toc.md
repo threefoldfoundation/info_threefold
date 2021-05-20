@@ -1,15 +1,20 @@
 ## More Info
 
+- [ZOS info](zos)
+- [ZOS compute & storage overview](zos_compute_storage)
+- [ZOS network overview](zos_network)
+
 ### Compute
 
 - [zmachine](zmachine)
+  - [zmachine_why](zmachine_why)
 - [corex](corex)
-- [smart_contract_it](smart_contract_it)
+- [smartcontract_it](smartcontract_it)
 
 ### Storage
 
 - [zmount](zmount)
-- [quantum safe filesystem](qsfs)
+- [zstor filesystem](zstor)
 - [zflist](zflist)
 - [zdb](zdb)
 - [zdisk](zdisk)
@@ -20,4 +25,5 @@
 - [znic](znic)
 - [webgw](webgw)
 - [p2pagent](p2pagent)
+- [planetary network](planetary_network)
 

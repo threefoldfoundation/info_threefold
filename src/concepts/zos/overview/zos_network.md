@@ -1,5 +1,6 @@
 # ZOS network overview
 
-![](img/zos_comp_network.png)
+![](img/zos_network_overview.png)
+
 
 !!!include:zos_toc

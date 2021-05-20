@@ -14,7 +14,7 @@ This product is meant for real tech experts.
 
 ## ThreeFold P2P Cloud
 
-A scalable private cloud that comes with a virtual data center solution, a quantum safe filesystem and a planetary network. TF P2P Cloud represents the next evolution of cloud and brings the most powerful architecture for IT workloads to scale. 
+A scalable private cloud that comes with a virtual data center solution, a zstor filesystem and a planetary network. TF P2P Cloud represents the next evolution of cloud and brings the most powerful architecture for IT workloads to scale. 
 
 - Visit TF P2P Cloud website [here](https://threefold.io/cloud/).
 - Visit TF P2P Cloud wiki [here](https://threefold.io/info/cloud#/cloud__readme/).

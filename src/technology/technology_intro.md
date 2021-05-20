@@ -44,7 +44,7 @@ While sticking to these principles, it provides the basis to consider and descri
 
 Once the smart contract for IT is created, it will be registered in the Blockchain Database in a complete end-to-end process. It will also leave instructions for the 3Nodes in a digital notary system for them to grab the necessary instructions and complete the smart contract.
 
-Learn more about smart contract for IT [here](tftech:smart_contract_for_it).
+Learn more about smart contract for IT [here](tftech:smartcontract_it).
 
 ### Blockchain Database (BCDB)
 
