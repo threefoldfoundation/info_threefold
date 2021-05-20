@@ -8,7 +8,7 @@ We can run 23 digital_twins with the energy as used by one light bulb.
 
 ![](img/datacenter_power_usage.png)
 
-This graph says the world uses 200 TWh for datacenters.
+This graph says the world uses 200 TWh for datacenters allone (no generic IT workloads, no network, ...).
 
 This is a conservative nr, we have seen nr's 10x higher.
 
@@ -16,6 +16,6 @@ This is a conservative nr, we have seen nr's 10x higher.
 
 ![](img/compare_power_twin1.png)
 
-> If the digital twin only replaces 20% of IT market, in that market it would use 4000 less power in most conservative case already today.
+> If the digital twin only replaces 20% of this datacenter IT market, in that market it would use 4000 less power in most conservative case already today.
 
 !!!include:energy_savings_toc
