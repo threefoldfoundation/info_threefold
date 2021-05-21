@@ -1,7 +1,7 @@
 # Avoid Context Switches
 
 
-### IT WORLD FORGOT HOW TO USE HARDWARE CAPABILITIES
+### THE IT WORLD FORGOT HOW TO USE HARDWARE CAPABILITIES
 
 ![](img/commodore_forget.png)
 

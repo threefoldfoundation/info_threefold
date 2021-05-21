@@ -1,4 +1,8 @@
-# Carbon Neutral
+# 2X Carbon Negative
+
+ThreeFold has as aim to take 2x more carbon out of the air than we put in.
+
+This makes us 2x carbon negative (see [here](cloud_units_carbon_negative)).
 
 ![](img/carbon_neutral_logo2.png)
 
@@ -14,5 +18,7 @@ This has the potential to offset energy usage 100% by end 2021.
 ![](img/carbon_neutral3.png)
 
 ![](img/carbon_neutral4.png)
+
+> [CALCULATIONS ABOUT HOW WE GO 2X CARBON NEGATIVE](cloud_units_carbon_negative)
 
 !!!include:energy_savings_toc
