@@ -12,7 +12,7 @@ A few things to share with you:
 
 2. We love input, and we do everything we can to honour the feedback we receive by incorporating it into everything we do.
 
-3. We love when our community contributes, and today we have hundreds of people helping us across the board. It would be fantastic if you became a contributor on GitHub, a moderator on [the ThreeFold Forum](https://forum.threefold.io/) or one of our groups, a [Grid Tester](https://t.me/threefoldtesting), a [Farmer](https://t.me/threefoldfarmers), etc.
+3. We love when our community contributes, and today we have hundreds of people helping us across the board. It would be fantastic if you became a contributor on GitHub ([ThreeFold Tech](https://github.com/threefoldtech) or [ThreeFold Foundation](https://github.com/threefoldfoundation)), a moderator on [the ThreeFold Forum](https://forum.threefold.io/) or one of our groups, a [Grid Tester](https://t.me/threefoldtesting), a [Farmer](https://t.me/threefoldfarmers), etc.
 
 - *Just get in touch with anyone from our team, and let's see how to best plug you in.*
 
@@ -47,9 +47,9 @@ A few things to share with you:
 11. We thank you for all the questions we got over last weeks, we will prepare the following additional information:
 
 - An execution plan for the next 6 months.
-- Our position towards public exchanges and token hype.
+- Our position towards public exchanges and token hype
 - Where do our energy savings come from
-- How will we create a neutral carbon cloud?
+- How will we create a carbon neutral cloud?
 - How do we compare to Dfinity and others?
 - Improved Technology section on the wiki
 
