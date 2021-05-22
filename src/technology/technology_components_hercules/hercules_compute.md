@@ -23,10 +23,10 @@ Hercules compute uses the ThreeFold capacity layer build by hardware and Zero-OS
 ### Secure and Reliable
 
 *   [Hercules Protect](hercules_protect): no hacking surface to the Zero-Nodes, integrated silicon route of trust
-*   [Hercules P2P Network](hercules_p2p_network): encrypted private overlay network connects all *N* containers to all other *(N-1)* containers.  Consider it to be your Virtual Private Datacenter.
-*   [Hercules Planetary Network](hercules_planetary_network): a true global single backplane network connecting us all
+*   [Planetary Network](hercules_p2p_network): encrypted private overlay network connects all *N* containers to all other *(N-1)* containers.  Consider it to be your Virtual Private Datacenter.
+*   planetary_network : a true global single backplane network connecting us all
 *   [ZFList](hercules_filesystem) (v2.x): A filesystem that has built in deduplication facilities , creates a zero-install environment for applications and is hacker-proof for use in containers on Kubernetes
-*   [Hercules Web Gateway](hercules_web_gateway): intelligent connection between web (internet) and container services.  By default your private virtual (overlay) network is not connected tot he public internet.  You have to design the network to be connected to the public internet through a web gateway.  This web gateway can exist anywhere on the TF Grid.
+*   web_gateway : intelligent connection between web (internet) and container services.  By default your private virtual (overlay) network is not connected tot he public internet.  You have to design the network to be connected to the public internet through a web gateway.  This web gateway can exist anywhere on the TF Grid.
 
 !!!include:hercules_usp_sustainable
 !!!include:hercules_usp_manageable

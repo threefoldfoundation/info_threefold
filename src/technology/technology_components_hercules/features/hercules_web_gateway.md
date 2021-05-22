@@ -1,6 +1,6 @@
-# Hercules Web Gateway
+# web_gateway
 
-## What is the Hercules Web Gateway?
+## What is the web_gateway?
 
 The Web Gateway is a mechanism to connect the private (overlay) networks to the open Internet.  If (parts of) this private overlay network need to be reachable from the Internet, the containers imitate a secure connection *to* the web Gateway. It is very important to mention that this connection is not a standard network connection, it is a [network socket](https://en.wikipedia.org/wiki/Network_socket) initiated by the container to the web gateway. The container calls out to one or more web gateways and sets up a secure & private socket connection to the web gateway. The type of connection required is defined on the smart contract for IT layer and as such is very secure. There is no IP (TCP/UDP) coming from the internet towards the containers providing more security. 
 

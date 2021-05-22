@@ -1,4 +1,4 @@
-# Hercules Planetary Network
+# Planetary Network
 
 
 The Hercules planetary network is a continuation & implementation of the [Yggdrasil](https://yggdrasil-network.github.io/about.html) network initiative. This technology is in early beta but has been proven to work already quite well.
@@ -9,14 +9,14 @@ Whereas current computer networks depend heavily on very centralized design and 
 
 The following table illustrates high-level differences between traditional networks like the internet, and the planetary threefold network:
 
-| Characteristic |	Traditional |	Planetary Network |
-|---------------|-------------|---------------|
-| End-to-end encryption for all traffic across the network |No | Yes |
-| Decentralized routing information shared using a DHT | No |	Yes |
-| Cryptographically-bound IPv6 addresses |	No 	| Yes |
-| Node is aware of its relative location to other nodes 	| No | 	Yes |
-| IPv6 address remains with the device even if moved |	No 	| Yes |
-| Topology extends gracefully across different mediums, i.e. mesh |	No |	Yes |
+| Characteristic                                                  | Traditional | Planetary Network |
+| --------------------------------------------------------------- | ----------- | ----------------- |
+| End-to-end encryption for all traffic across the network        | No          | Yes               |
+| Decentralized routing information shared using a DHT            | No          | Yes               |
+| Cryptographically-bound IPv6 addresses                          | No          | Yes               |
+| Node is aware of its relative location to other nodes           | No          | Yes               |
+| IPv6 address remains with the device even if moved              | No          | Yes               |
+| Topology extends gracefully across different mediums, i.e. mesh | No          | Yes               |
 
 ## What are the problems solved here?
 

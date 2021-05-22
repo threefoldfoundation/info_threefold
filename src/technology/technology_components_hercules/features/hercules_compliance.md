@@ -1,7 +1,7 @@
 # Hercules Compliance
 
 
-Hercules compliance is a feature for Hercules Compute, Storage and Network.  The [smart contract for IT provisioning methodology](hercules_smart_contract) allows for for transparency and autitability of deployed IT workloads.
+Planetary Network.  The [smart contract for IT provisioning methodology](hercules_smart_contract) allows for for transparency and autitability of deployed IT workloads.
 
 ### Hercules compute compliance
 

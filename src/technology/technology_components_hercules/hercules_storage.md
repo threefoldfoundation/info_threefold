@@ -92,7 +92,7 @@ The ThreeFold approach in this example can lead upto 20x less overhead compared 
     *   no hacking surface to the Zero-Nodes, integrate silicon route of trust
 *   Hercules Network: 
     *   encrypted overlay network connects the storage to users when required
-*   [Hercules Web Gateway](hercules_web_gateway): 
+*   web_gateway : 
     *   the intelligent connection between web (internet) and storage services
 *   Hercules Audit (oem): on request, all file changes audited in blockchain
 *   [Hercules Compliance](hercules_compliance) (oem): on request, ultra-strong compliance can be proven location, write once - read many time, remove data, privacy, …)
