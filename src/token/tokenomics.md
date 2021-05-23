@@ -1,8 +1,8 @@
 # Tokenomics Overview
 
-![](img/inclusive.png)
+<!-- ![](img/inclusive.png) -->
 
-The purpose of this page is to fill the last gaps for a more technical audience. If you need help understanding or have additional questions, please don't hesitate to ask your questions in our [forum](https://forum.threefold.io).
+![](img/tf3_tokenomics.png)
 
 ## Creation of TFTs
 
@@ -18,11 +18,14 @@ The amount of TFTs that are created by farmers depends on three variables:
 Learn more about the variables [here](farming_logic3).
 
 Tokens are burned as result of cultivation which leads to nr of tokens to be limited.
-See [farming simulator](farming_simulator) for more info.
 
-<!-- ## Limited Supply & Liquidity Drivers
+## Limited Supply & Liquidity Drivers
 
-See [Limited Supply & Liquidity Drivers](token_liquidity) -->
+See [Limited Supply & Liquidity Drivers](tft_limited_supply)
+
+## Vesting
+
+Many tokens are in vesting wallets see [Vesting](vesting_overview).
 
 ## TF Grid is valuable
 

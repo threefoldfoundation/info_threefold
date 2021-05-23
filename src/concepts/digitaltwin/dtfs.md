@@ -15,7 +15,7 @@ Is used to store info like
 
 ## implementation
 
-- implemented using [-zdbfs](zdbfs)
+- implemented using qsfs
 - is set of interfaces on top of that filesystem basically
 
 ## future roadmap

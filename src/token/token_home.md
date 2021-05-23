@@ -17,5 +17,5 @@ In this section, you will learn about what the token is, its features, tokenomic
 !!!include:legal:tft_not_speculative_note
 
 
-<!-- - [Token Liquidity](token_liquidity) - An outlook on TFT liquidity
-- [Limited Supply](token_liquidity) - Benefits and mechanisms of scarcity -->
+<!-- - [Token Liquidity](tft_limited_supply) - An outlook on TFT liquidity
+- [Limited Supply](tft_limited_supply) - Benefits and mechanisms of scarcity -->

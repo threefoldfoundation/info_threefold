@@ -2,7 +2,7 @@
 
 - files in json or [dtml](dtml) on the [dtfs](dtfs) = digital twin filesystem
 - continuous backup using [Quantum Safe Storage System](quantumsafestorage:qsss), means data cannot be lost
-- lives on top of [ZDBFS](zdbfs) = technical implementation of the filesystem
+- lives on top of qsfs = technical implementation of the filesystem
 - has limited search/indexing support
 - has stronly type checking
 - its super easy for people to manually edit (in dtml format), can be done over [dtftp](dtftp) interface remotely, this will be the main interface for quite some beginning functionality.

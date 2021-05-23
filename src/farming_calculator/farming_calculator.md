@@ -61,4 +61,4 @@ The big disruption ThreeFold brings is that we commodify this model, you don't h
 
 !!!include:farming_rewards_disclaimer
 
-!!!alias tf_farming_simulator,farming_simulation,farming_simulator,farming_calculator,farming_calculator
+!!!alias tf_farming_simulator,farming_simulation,farming_simulator,farming_calculator
