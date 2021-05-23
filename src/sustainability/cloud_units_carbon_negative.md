@@ -1,6 +1,6 @@
 ![](img/carbon_negative.png)
 
-# ThreeFold Cloud Units are 2x Carbon Negative
+# ThreeFold Cloud Units are 2x Carbon Double Win
 
 Next calculation shows how many TFT we have to compensate and give to students as part of TAG program to make our cloud remove 2x more carbon than it produces.
 
