@@ -47,7 +47,7 @@ Farmers download the Zero-OS operating system and boot their servers themselves.
 
 Users can directly access 3Nodes computing, storage and network services via their 3Bot. This enables a complete peer-to-peer environment for people to reserve their cloud capacity directly from the hardware.
 
-Learn more about [3Node](part1_the_3node).
+Learn more about [3Node](internet4:part1_the_3node).
 Learn more about [Farming](farming_intro).
 
 ### Peer-to-Peer Network
@@ -77,9 +77,9 @@ All 3Bot IDs are registered on a modern type of phone book that uses blockchain 
 
 3Bot is equipped with a cryptographic 2-factor authentication mechanism. You can log in to your 3Bot via the ThreeFold Connect app on your device which contains your private key. The 3Bot has a number of built in capabilities which allows you to create and operate large scale architectures on the TF Grid all owned and managed by the digital system administrator. 
 
-Learn more about 3Bot [here](part4_3bot_digital_avatar_digital_self).
+Learn more about 3Bot [here](internet4:part4_3bot_digital_avatar_digital_self).
 
-Learn more about Threefold Grid Blockchain [here](consensus3).
+Learn more about Threefold Grid Blockchain [here](internet4:consensus3).
 
 ## How Mature is the TF Grid today?
 
@@ -103,14 +103,12 @@ Learn more about Threefold Grid Blockchain [here](consensus3).
 - [What is the ThreeFold Token](token_what) - An introduction to ThreeFold Tokens, the medium of exchange on the new Internet.
 - [What is Farming](farming_intro) - An introduction to Farming and how anyone can participate in expanding the ThreeFold Grid.
 - [Zero-OS primitive workloads](part2_3node_primitive_workloads) - An overview of ThreeFold's unique operating system Zero-OS.
-- [How do 3Nodes work](part1_the_3node) - An overview of 3Node and the different softwares it runs.
+- [How do 3Nodes work](internet4:part1_the_3node) - An overview of 3Node and the different softwares it runs.
 - [The main technology components](hercules_components) - Detailed sheets of the compute, storage, network, containerization, etc. products of ThreeFold.
 - [Dive deeper in the Smart Contract for IT](tftech:smartcontract_it) - The smart contract that powers the autonomous Internet. 
-- [How 3Bot enables anyone to become the center of their digital life](part3_smart_it_circles_3bot) - An overview of some basic concepts and principles around 3Bot.
-- [The Threefold Grid Blockchain](consensus3) - Learn more about the consensus engine of ThreeFold that uses Polkadot's technology substrate.
+- [How 3Bot enables anyone to become the center of their digital life](internet4:part3_smart_it_circles_3bot) - An overview of some basic concepts and principles around 3Bot.
+- [The Threefold Grid Blockchain](internet4:consensus3) - Learn more about the consensus engine of ThreeFold that uses Polkadot's technology substrate.
 - [Use the Threefold Grid](use_tfgrid) - An introduction to the ThreeFold products and services: The ThreeFold SDK, P2P Cloud, P2P Marketplace, and Digital Twin.
-
-
 
 
 

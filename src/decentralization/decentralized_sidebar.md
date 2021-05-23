@@ -2,7 +2,6 @@
 
 - [Decentralization](decentralization)
   - [decentralization_status](decentralization_status)
-  - [decentralization_manifesto](decentralization_manifesto)
   - [threefold councils](threefold_councils)
   - [updates](tf_updates)
     - [july 2020 update](threefold_update_july2020)
