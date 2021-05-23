@@ -85,7 +85,7 @@ The ThreeFold approach in this example can lead upto 20x less overhead compared 
 
 ### Reliable / Secure
 
-*   [Hercules Space Algorithm](quantumsafe_storage_algo): 
+*   [Hercules Space Algorithm](quantumsafestorage:quantumsafe_storage_algo): 
     *   only 20% overhead for the ability to lose any 4 location/nodes
     *   hacker needs to hack 20 locations at once, need to know encryption keys & space algorithm
 *   [Hercules Protect](hercules_protect): 

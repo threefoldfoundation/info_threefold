@@ -26,7 +26,7 @@ About the technology:
 - [Capacity Layer](capacity_layer)
 - [Autonomous Layer](autonomous_layer)
 - [Experience Layer](experience_layer)
-- [Zero-OS](zos)
+- [Zero-OS](internet4:zos)
 
 > These are not legal binding definitions, they are just concepts.
 

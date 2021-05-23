@@ -26,7 +26,7 @@ Most systems in the storage world use replication of data as a main mechanism to
 
 Our quantum safe storage algorithm has only 20% overhead in stead of 400% overhead compared to a replicated storage system in a system where we want to be able to loose any 4 nodes at the same time.
 
-See [quantumsafe storage algo](quantumsafe_storage_algo) for how the algo works.
+See [quantumsafe storage algo](quantumsafestorage:quantumsafe_storage_algo) for how the algo works.
 
 We believe that using our algo saves at least 3x of storage space versus other storage systems and as such energy win.
 

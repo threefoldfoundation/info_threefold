@@ -89,12 +89,11 @@ The object (video,image) can easily be embedded in any website or other represen
 
 ## More Info
 
-* [Zero-OS overview](zos)
-* [Quantum Safe Storage System](qsss)
-* [Quantum Safe Storage Algorithm](quantumsafe_storage_algo)
+* [Zero-OS overview](internet4:zos)
+* [Quantum Safe Storage System](quantumsafestorage:qsss)
+* [Quantum Safe Storage Algorithm](quantumsafestorage:quantumsafe_storage_algo)
 * [Smart Contract For IT Layer](smartcontract_it)
 
 
 
 !!!def alias:nft_storage,nft_storage_system
-
