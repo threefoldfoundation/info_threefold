@@ -37,10 +37,5 @@
 
 please bare with me, I am completely overloaded and telegram nor email I can properly follow up.
 
-## some technical docs
-
-- [Whitepaper: The need for decentralization](https://docs.google.com/document/d/1uZT03h4QLBh2RYEnUjZQvi2Xoy8fjbUn1eZN_PM8g6g/edit#heading=h.i014t8fq1rbp)
-- [ThreeFold Technology](grid_tech_intro)
-
 
 ![](img/kristof_hearts.png)

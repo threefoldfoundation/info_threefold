@@ -59,4 +59,4 @@ Note: This image is stored as a slide in case the text needs to be edited. You c
 - [Web2 vs Web3 vs P2P](grid_compare) - How the ThreeFold Grid compares to Blockchain and Cloud infrastructures.
 - [Intro to Cloud Capacity](cloud_units) - What is the cloud capacity offering on the ThreeFold Grid.
 - [An introduction to ThreeFold's architecture](grid_architecture) - An overview of the main technological components of the ThreeFold Grid.
-- [The main technology components](hercules_components) - Detailed sheets of the solutions for developers.
+- [Technology](internet4:technology)

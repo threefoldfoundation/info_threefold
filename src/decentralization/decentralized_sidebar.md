@@ -3,12 +3,10 @@
 - [Decentralization](decentralization)
   - [decentralization_status](decentralization_status)
   - [threefold councils](threefold_councils)
-  - [updates](tf_updates)
-    - [july 2020 update](threefold_update_july2020)
 - [Grid](grid_why)
 - [Tokens](token_home)
 - [How It Works](how_it_works)
-- [Technology](technology_explained)
+- [Technology](internet4:technology)
 - [ThreeFold Foundation](threefold_foundation)
 - [Grid Manual](sdk_intro)
 

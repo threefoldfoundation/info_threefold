@@ -1,6 +1,6 @@
 # March 3: Say Hello to the zstor filesystem
 
-![](img/zstorhello.jpeg)
+
 
 There's nothing out there like the zstor filesystem – an easy-to-deploy unlimited-scale filesystem which can be run anywhere in the world.
 

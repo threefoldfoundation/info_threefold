@@ -39,6 +39,6 @@ Note that these are general patterns that may not hold true in every network. Fu
 
 - [How ThreeFold is growing a decentralization movement](decentralization) - Discover the decentralization status and manifesto of ThreeFold.
 - [An introduction to ThreeFold's architecture](grid_architecture) - An overview of the main technological components of the ThreeFold Grid.
-- [The main technology components](hercules_components) - Detailed sheets of the solutions for developers.
+- [Technology](internet4:technology)
 - [Intro to Cloud Capacity](cloud_units) - What is the cloud capacity offering on the ThreeFold Grid.
 - [Use the Threefold Grid](use_tfgrid) - An introduction to the ThreeFold products and services: The ThreeFold SDK, P2P Cloud, P2P Marketplace, and Digital Twin.

@@ -14,4 +14,3 @@ In this section, you will learn about the ThreeFold Grid, its features, why it's
 - [ThreeFold Grid Capacity](cloud_units) - An introduction to cloud units that can be reserved on the ThreeFold Grid.
 - [Capacity Pricing](cloud:tfgrid_pricing) - An overview of the main cloud offerings pricing.
 - [Grid Valuation](grid_valuation) - A study about the potential value of the ThreeFold Grid considering market dynamics.
-- [More Information](grid_more_info) - Further readings linking to presentations, manifestos and the technology.

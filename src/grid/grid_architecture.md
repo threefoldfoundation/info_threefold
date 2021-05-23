@@ -37,7 +37,7 @@ It delivers 3 primitive functions:
 
 There is no shell, local nor remote attached to Zero-OS. It does not allow for inbound network connections to happen. Also, given its shell-less nature, the people and organizations, called farmers, that run 3nodes cannot issue any commands nor access its features. In that sense, Zero-OS enables a "zero people" (autonomous) Internet, meaning hackers cannot get in, while also eliminating human error from the paradigm. 
 
-Learn more about Zero-OS [here](part2_3node_primitive_workloads).
+Learn more about Zero-OS [here](internet4:zos).
 
 ### 3Node
 
@@ -47,14 +47,14 @@ Farmers download the Zero-OS operating system and boot their servers themselves.
 
 Users can directly access 3Nodes computing, storage and network services via their 3Bot. This enables a complete peer-to-peer environment for people to reserve their cloud capacity directly from the hardware.
 
-Learn more about [3Node](internet4:part1_the_3node).
+Learn more about [3Node](3node).
 Learn more about [Farming](farming_intro).
 
 ### Peer-to-Peer Network
 
 The peer-to-peer network allows any container/user to connect with other containers/users on the TF Grid securely and creates a 100% peer-to-peer network. No connection is made with the internet. Everything stays 100% private. To connect with the public internet, a Web Gateway is created to allow public access if and when required. The Web Gateway is a mechanism to connect the private (overlay) networks to the open Internet. By not providing an open and direct path in to the private network, a lot of malicious phishing and hacking attempts are stopped at the Web Gateway level for container applications. 
 
-Learn more about the peer-to-peer network [here](hercules_network).
+Learn more about the peer-to-peer network [here](internet4:znet).
 
 ## Autonomous Layer
 
@@ -102,15 +102,13 @@ Learn more about Threefold Grid Blockchain [here](internet4:consensus3).
 
 - [What is the ThreeFold Token](token_what) - An introduction to ThreeFold Tokens, the medium of exchange on the new Internet.
 - [What is Farming](farming_intro) - An introduction to Farming and how anyone can participate in expanding the ThreeFold Grid.
-- [Zero-OS primitive workloads](part2_3node_primitive_workloads) - An overview of ThreeFold's unique operating system Zero-OS.
+- [Zero-OS primitive workloads](internet4:zos) - An overview of ThreeFold's unique operating system Zero-OS.
 - [How do 3Nodes work](internet4:part1_the_3node) - An overview of 3Node and the different softwares it runs.
-- [The main technology components](hercules_components) - Detailed sheets of the compute, storage, network, containerization, etc. products of ThreeFold.
+- [Technology](internet4:technology)
 - [Dive deeper in the Smart Contract for IT](tftech:smartcontract_it) - The smart contract that powers the autonomous Internet. 
 - [How 3Bot enables anyone to become the center of their digital life](internet4:part3_smart_it_circles_3bot) - An overview of some basic concepts and principles around 3Bot.
 - [The Threefold Grid Blockchain](internet4:consensus3) - Learn more about the consensus engine of ThreeFold that uses Polkadot's technology substrate.
 - [Use the Threefold Grid](use_tfgrid) - An introduction to the ThreeFold products and services: The ThreeFold SDK, P2P Cloud, P2P Marketplace, and Digital Twin.
-
-
 
 
 

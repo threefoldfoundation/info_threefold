@@ -52,6 +52,5 @@ Given anyone can plug-in servers to the ThreeFold Grid and that there are no int
 - [What is Farming](farming_home) - An introduction to Farming and how anyone can participate in expanding the ThreeFold Grid.
 - [What is the ThreeFold Token](token_what) - An introduction to ThreeFold Tokens, the medium of exchange on the new Internet.
 - [Use the Threefold Grid](use_tfgrid) - An introduction to the ThreeFold products and services: The ThreeFold SDK, P2P Cloud, P2P Marketplace, and Digital Twin.
-- [The main technology components](hercules_components) - Detailed sheets of the solutions for developers.
-
+- [Technology](internet4:technology)
 

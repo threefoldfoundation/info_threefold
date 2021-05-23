@@ -16,7 +16,6 @@
 
 ### March
 
-- [March 3: The zstor filesystem](zstorhello)
 - [March 5: Who Uses the ThreeFold Cloud](whousestfcloud)
 - [March 9: Join  Our Forum!](joinourforum)
 - [March 14: We're Tackling Internet Inequality](internetinequality)
@@ -33,7 +32,6 @@
 
 ### January
 
-- **2020 Update:** [ThreeFold End 2020 Update](threefold_update_jan2021)
 - [January 12: 2020 Highlights & Grid 2.4 Live on Testnet!](grid24_and_2020)
 - [January 13: Discussion With the Global Impact Alliance](globalimpactalliance)
 - [January 28: The Cyber Pandemic is Here, But it's Not Too Late](cyberpandemicconvo)
