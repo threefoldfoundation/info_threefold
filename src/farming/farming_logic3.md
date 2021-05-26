@@ -2,17 +2,20 @@
 
 ![](img/becomefarmer.png)
 
-TFT are rewarded when new capacity (storage & compute) is added to the ThreeFold_Grid in the form of hardware.
+TFT is rewarded to farmers when capacity (storage & compute) is made available to the ThreeFold_Grid by connecting a 3Node.
 
-This is done by [TFT Farming](become_a_farmer), ThreeFolds more sustainable equivalent of cryptocurrency miners.
+This is done by [Farming TFT](become_a_farmer), ThreeFold's sustainable equivalent of crypto mining.
 
-The amount of TFT which need to be farmed are calculated once a month by the open source [consensus driven token reward engine](tftech:consensus3).
+The amount of farmed TFTs is calculated monthly by the open source [consensus driven token reward engine](tftech:consensus3).
 
 !!!include:farming_logic_disclaimer
 
 ## Farming Reward Logic Variables
 
 The amount of TFTs that are created by farmers depends on three variables:
+- Proof-of-Capacity
+- Cloud Production Rate (CPR)
+- Uptime
 
 ### 1. Proof-of-Capacity
 
@@ -22,46 +25,18 @@ The specs of the farmers' 3Node:
 - Memory Capacity (RAM)
 - Storage Capacity (SSD/HDD)
 
-The proof of capacity is stored on a redundant storage system and hashed (fingerprinted). The hashes verify the authenticity of the report and are stored in the minting transactions on the blockchain. 4 days later, the TFTs are transferred to the farmer. The minting consensus needs to be achieved before minting can actually happen. In the transaction message, the hash will be stored on the blockchain and will represent an immutable proof of the capacity for each minting operation.
+The proof of capacity is stored on a redundant storage system and hashed (fingerprinted). The hashes verify the authenticity of the report and are stored in the minting transactions on the blockchain. 4 days later, the TFTs are transferred to the farmer. 
+
+The minting consensus needs to be achieved before minting can actually happen. In the transaction message, the hash will be stored on the blockchain and will represent an immutable proof of the capacity for each minting operation.
 
 This is expressed by CPR.
 
-### 2. The CPR Reward
-
-The performance/capability of the 3Node is attributed by the [Cloud Units](cloud_units) (capacity) made available, that is summarized by a [Cloud Production Rate (CPR)](cloud_production_rate) for each individual 3Node.
-
-The Cloud Production Rate (CPR) indicates how ‘productive’ a 3Node is. The more capacity in the form of compute and storage is added, the higher the CPR. It is similar to the hash rate of a Bitcoin miner for example. So the higher the CPR, the more tokens are earned.
-
-This makes it simple for farmers to select the best 3Node option according to their available budget. To calculate the CPR, a very simple and straight-forward formula is used:
-
-```
-CPR = 1.5 * the amount of Compute Units (CU) of the hardware
-                + the amount of Storage Units (SU) of the hardware
-```
-
-See [Cloud Production Rate](cpr) for more info.
+!!!include:cpr
 
 ### 3. Uptime & SLA Achieved
 
 The Consensus_Engine measures uptime and other SLA parameters.
 If the required minimal levels are not reached no farming rewards will be rewarded to the farmer.
-
-## Farming Reward Calculation
-
-This is a very simple calculation.
-
-```
-TFT farmed per month = CPR * CPR_REWARD
-```
-
-> - The TFT farmed = result of compute,storage capacity connected to internet and having good enough uptime
-> - The TFT are staked per 3Node as arranged by TF_CHAIN. DIY Farmers can take tokens out of the staking pool once the 3node has 30% (\*) of its capacity used. Certified farmers can at free will take tokens out of the staking pool (starting Sept 2021).
-> - The Farmer gets 100% of farming (minting of TFT), in case of certified farming can be less.
-> - The Farmer gets 10% from TF_Cultivation (people buying IT capacity from TFGrid which is network of 3Nodes).
-
-For Certfied farming a contract is made between the farmer and Threefold (or TFTech). This can result in a certain part of the Farming Reward to be given to Threefold or TFTech as a license and/or support fee.
-
-To simulate yourself how farming is rewarded see **[farming calculator](farming_calculator)**
 
 ## Cultivation Fee and Burning of TFT
 

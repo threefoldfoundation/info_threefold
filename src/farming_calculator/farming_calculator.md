@@ -2,35 +2,17 @@
 
 # Farming Reward Calculator
 
-We have created a calculator to allow you to simulate your own return on investment of becoming a farmer of IT/Internet capacity.
+We have created a calculator to allow you to simulate your potential return on investment of becoming a Farmer.
 
-Each server (3node which delivers IT capacity) produces x nr of CPR. CPR is a cloud production rate and defines the output capability just like the kilowatt-hour (SI symbol: kW⋅h or kW h; commonly written as kWh) is would do for a solar pannel.
+Each 3Node (server that delivers compute and storage capacity) produces CPR. 
 
+The [Farming Logic v3 document](farming_logic3) describes how many TFT your server will receive as CPR_reward. You don't have to be an expert to become a ThreeFold Farmer. Our autonomous system does all the heavy lifting for you.
 
-- CPR = Cloud Production rate, which is a nr which can be calculated per server (3node). 
-  - CPR expresses the capability of a server in relation to production of IT (compute/storage) capacity.
-- CPR_Reward = is the reward for being a farmer and is staked on the 3Node until 30% utilization of the capacity has been achieved. 
-  - The TF_Council looks over this CPR reward and adjusts it over time in line with TFGrid growth and token price. Once rewarded to a farmer the CPR Reward does not change.
-
-[Farming logic3 document](farming_logic3) describes how many TFT your server will receive as CPR_reward.
-
-You don't have to be an expert to become a ThreeFold Farmer. Our autonomous system does all the heavy lifting for you.
-
-Thanks to our sales model you also do not have to sell the capacity of your server(s), the threefold_channel approach takes care of this.
-
-The big disruption ThreeFold brings is that we commodify this model, you don't have to be a cloud expert. Our autonomous system does all the heavy lifting for you. 
-
-
-## The Used Terms
-
-- CPR = Cloud Production rate, which is a nr which can be calculated per server (3node).
-  - CPR expresses the capability of a server in relation to production of IT (compute/storage) capacity.
-- CPR_Reward = is the reward for being a farmer and is staked on the 3Node until 30% utilization of the capacity has been achieved.
-  - The TF_Council looks over the CPR reward and adjusts it over time in line with TFGrid growth and token price. Once rewarded to a farmer the CPR Reward does not change.
+Thanks to our sales model you also do not have to sell the capacity of your server(s), the threefold_approach takes care of this.
 
 ## Risks
 
-- Utilization does not go to 30% which means farming of tokens does not happen.
+- Utilization does not go to 30% which means all your farmed tokens remain staked.
   - _Mitigation: you own the assets, cloud is a good business revenue should be possible_
   - _Mitigation: ThreeFold tech technology is real and already working today_
 - ThreeFold Technology is not working
@@ -39,7 +21,7 @@ The big disruption ThreeFold brings is that we commodify this model, you don't h
   - _Mitigation: The cloud business by itself is valuable_
   - _In this case ThreeFold_Council would change the business model to more cultivation_
 - Digital Currencies become illegal
-  - _Mitigation: This is not really possible because the TFT is a real utility token, represents IT capacity._
+  - _Mitigation: This is not really possible because TFT is a real utility token, representing IT capacity._
   - _Even if this would happen despite all logic, then normal FIAT currencies can be used._
 
 ## Examples
