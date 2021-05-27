@@ -35,6 +35,6 @@ A circular economy enables anyone to take part and to get rewarded for it:
 
 For token enthousiasts, you can check the analytics of TFT since it moved to the Stellar Blockchain in March 2020 [here](https://stellar.expert/explorer/public/asset/TFT-GBOVQKJYHXRR3DX6NOX2RRYFRCUMSADGDESTDNBDS6CDVLGVESRTAC47-1?filter=orderbook).
 
-> Please note that the ThreeFold Foundation's sole purpose is to ensure the expansion of the ThreeFold_Grid and its ecosystem according to its vision and values. To fund these activities, part of each TFT transaction for cultivation goes to the ThreeFold Foundation to finance the ThreeFold_Grid's expansion and side projects that are believed to bring a positive human or planet impact, see [tfgrid fee](tfgrid_fee).
+> Please note that the ThreeFold Foundation's sole purpose is to ensure the expansion of the ThreeFold_Grid and its ecosystem according to its vision and values. To fund these activities, part of each TFT transaction for cultivation goes to the ThreeFold Foundation to finance the ThreeFold_Grid's expansion and side projects that are believed to bring a positive human or planet impact.
 
 !!!include:legal:tft_not_speculative_note

@@ -1,8 +1,8 @@
-# March 3: Say Hello to the Quantum Safe Filesystem
+# March 3: Say Hello to the zstor filesystem
 
-![](img/qsfshello.jpeg)
 
-There's nothing out there like the Quantum Safe Filesystem – an easy-to-deploy unlimited-scale filesystem which can be run anywhere in the world.
+
+There's nothing out there like the zstor filesystem – an easy-to-deploy unlimited-scale filesystem which can be run anywhere in the world.
 
 - ⚛ Deployable in minutes
 - ⚛ Store petabytes of data at an incredible price and with full ownership

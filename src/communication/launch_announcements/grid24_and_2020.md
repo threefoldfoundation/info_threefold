@@ -16,8 +16,6 @@ Here are some of the major highlights from last year:
 - We added 10+ partners to our blockchain ecosystem (DigiByte, Dash, Harmony, TomoChain, & more)
 - We Worked with Solidaridad, Climate Action Project, & EarthHealth Partnership on key partnerships
 
-You can find a deeper dive into 2020 [here](threefold_update_jan2021) & a full list of our updates [here](launch_announcements).
-
 ## Grid 2.4 is live on testnet!
 
 Our first big announcement of the year is regarding **our latest grid update, version 2.4**, which is now live on testnet. You can start testing tomorrow, January 13th, 2021. Grid 2.4 brings **a series of new components** as well as **improvements to older components** that make it **easy for people to get started** and to **feel the power** of what **the grid** can bring.

@@ -6,7 +6,7 @@
 
 - [A little game slide deck, let's work for a better planet](http://planet.freeflownation.org/)
 - Threefold
-    - [TFTech latest investor deck](https://threefold.io/info/threefold/tftech_investor_intro_2021.pdf)
+    - [TFTech latest investor deck](https://threefold.io/info/threefold/threefold_intro_2021.pdf)
     - [The ThreeFold knowledge base (wiki)](https://wiki.threefold.io/) (has lots of info)
 - project we really care about and help with
     - [Take Action Global: lower carbon footprint + education for 100m students, using digital twin technology](https://threefold.io/info/threefold/tag_fundraise_2021.pdf)
@@ -36,11 +36,6 @@
 - @despiegk on telegram
 
 please bare with me, I am completely overloaded and telegram nor email I can properly follow up.
-
-## some technical docs
-
-- [Whitepaper: The need for decentralization](https://docs.google.com/document/d/1uZT03h4QLBh2RYEnUjZQvi2Xoy8fjbUn1eZN_PM8g6g/edit#heading=h.i014t8fq1rbp)
-- [ThreeFold Technology](grid_tech_intro)
 
 
 ![](img/kristof_hearts.png)

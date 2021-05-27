@@ -17,7 +17,7 @@ About the products / services:
 
 - [ThreeFold 3Node](3node)
 - [ThreeFold Capacity](ic_internet_capacity)
-- [3Bot](3bot_def)
+- 3Bot
 - [Digital Twin](digitaltwin)
 - [ThreeFold Token](threefold_token)
 
@@ -26,7 +26,7 @@ About the technology:
 - [Capacity Layer](capacity_layer)
 - [Autonomous Layer](autonomous_layer)
 - [Experience Layer](experience_layer)
-- [Zero-OS](zos)
+- [Zero-OS](internet4:zos)
 
 > These are not legal binding definitions, they are just concepts.
 

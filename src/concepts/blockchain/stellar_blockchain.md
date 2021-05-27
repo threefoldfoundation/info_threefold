@@ -7,7 +7,7 @@ ThreeFold integrated with Stellar to use [Stellar](https://www.stellar.org/) blo
 Stellar is an efficient payment-oriented blockchains. It is fast, secure and has low transaction fees. 
 
 Unlike many other blockchains, Stellar does not try to serve all possible needs. Stellar is first of all greatly engineered payment blockchain. 
-Moreover, stellar has native built-in decentralised exchange. Considering already developed stellar ecosystem, ThreeFold Token can also enjoy [multiple existing wallets](threefold_wallets) that support stellar tokens. 
+Moreover, stellar has native built-in decentralised exchange. Considering already developed stellar ecosystem, ThreeFold Token can also enjoy [multiple existing wallets](internet4:threefold_wallets) that support stellar tokens. 
 
 
 ## Future
