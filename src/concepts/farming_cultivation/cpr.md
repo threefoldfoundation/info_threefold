@@ -1,14 +1,6 @@
 ### CPR
 
-The performance/capability of a 3Node is attributed by the [Cloud Units](cloud_units) (capacity) made available, that is summarized by a [Cloud Production Rate (CPR)](cloud_production_rate). 
-
-CPR indicated how 'productive' a 3Node is. The more capacity is added, the higher the CPR. and the more TFT is earned. It enables any Farmer to select the best 3Node option according to their available budget. 
-
-To calculate the CPR, a very simple and straight-forward formula is used:
-
-```
-CPR = 1.5 x the amount of Compute Units (CU) of the hardware + the amount of Storage Units (SU) of the hardware
-```
+!!!include:cloud_production_rate
 
 !!!include:cpr_reward_current
 
@@ -39,7 +31,6 @@ Calculating your 3Node's CPR can be done through the [Farming Hardware Calculato
 For Certfied farming a contract is made between the farmer and Threefold (or TFTech). This can result in a certain part of the Farming Reward to be given to Threefold or TFTech as a license and/or support fee.
 
 To simulate yourself how farming is rewarded see **[farming calculator](farming_calculator)**
-
 
 Learn more about CPR:
 - How to Calculate your CPR with [3Node Production Calculator](farming_hardware_calculator).

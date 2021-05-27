@@ -2,11 +2,9 @@
 
 # Farming Reward Calculator
 
-We have created a calculator to allow you to simulate your potential return on investment of becoming a Farmer.
+We have created a calculator to allow you to simulate your potential return on investment of becoming a Farmer. Different nodes will produce a different CPR. 
 
-Each 3Node (server that delivers compute and storage capacity) produces CPR. 
-
-The [Farming Logic v3 document](farming_logic3) describes how many TFT your server will receive as CPR_reward. You don't have to be an expert to become a ThreeFold Farmer. Our autonomous system does all the heavy lifting for you.
+The [Farming Logic v3 document](farming_logic3) describes how many TFT your node will receive as CPR_reward. 
 
 Thanks to our sales model you also do not have to sell the capacity of your server(s), the threefold_approach takes care of this.
 

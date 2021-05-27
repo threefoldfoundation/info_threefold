@@ -1,14 +1,12 @@
 ## TF Farming Hardware Overview
 
-A 3Node connects to the ThreeFold Grid once booted by the operating system - Zero-OS.
+The form factor, size, and hardware specs can vary from very large (data center type) nodes to very small (no bigger than a modern modem) ones. The hardware specifications (compute & storage) of a 3Node determines the amount of ThreeFold Tokens that the device will farm.  
 
-The form factor, size, and hardware specs can vary from very large (data center nodes) to very small (no bigger than a modern modem) ones. The hardware specifications (compute & storage) of a 3Node determines the amount of ThreeFold Tokens that the device will farm.
-
-**You'll find below different options to start farming according to how technical you are.**
+You'll find below different options to start farming according to how technical you are.
 
 ## Non-technical farming set-up
 
-### Plug & Farm 3Nodes
+### Plug & Farm 3Nodes 
 
 ![BT-Mazraa_3nodes](img/three3nodes.png)
 
@@ -24,11 +22,11 @@ You would be required to provide your own hosting but farming cooperatives provi
 
 ## Technical farming set-up
 
-### Pre-configured Nodes
+### Pre-configured Nodes 
 
 ![4ig ThreeFold Farming](img/4ignodes.jpg)
 
-ThreeFold certified hardware designed and built by HPE – these pre-configured servers are optimized for maximum token earnings. There are different sizes in various price points available. These nodes are mainly for professional usage in data centers.
+ThreeFold planet positive certified hardware designed and built by HPE – these pre-configured servers are optimized for maximum token earnings. There are different sizes in various price points available. These nodes are mainly for professional usage in data centers.
 
 You will be required to provide your own hosting as well as set-up and administer your own farm.
 
