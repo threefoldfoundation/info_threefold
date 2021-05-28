@@ -67,7 +67,7 @@ ThreeFold believes that such a system will ensure an network of trust that rewar
 | Extra Rewards                  | Yes                       | No                      |
 | Reputation/ Credibility        | High                      | Medium                  |
 | Lower Operational Cost         | Yes                       | No                      |
-| Unlock from Staking faste      | Yes                       | No                      |
+| Unlock from Staking faster     | Yes                       | No                      |
 
 
 > Note that both Planet Positive and PLanet Friendly Farming have access to support by Planet Positive Farmers will be given priority.
