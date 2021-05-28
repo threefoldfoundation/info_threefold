@@ -6,7 +6,7 @@ ThreeFold Farming is the process of connecting Internet capacity to the ThreeFol
 
 Farming is the process of connecting Internet capacity (compute and storage) to the ThreeFold Grid in the form of server-type hardware and keeping it online. People and organizations that connect Internet capacity to the ThreeFold Grid are called Farmers.
 
-Farmers earn [ThreeFold Tokens](token_what) (TFT) for connecting Internet capacity in two ways:
+Farmers earn [ThreeFold Tokens](token_what) (TFT) for creating Internet capacity in two ways:
 - Farming: When connecting capacity and keeping it online, a Farmer gets rewarded on a monthly basis by the ThreeFold Foundation.
 - Cultivation: When users reserve and use the provided Internet capacity to store their data or run IT workloads.
 
@@ -23,7 +23,7 @@ Anyone can become a Farmer on the ThreeFold Grid. No technical knowledge is requ
 ## What kind of hardware can be used for Farming?
 
 Any Intel or AMD server type hardware that contains compute and/ or storage can be connected to the ThreeFold Grid. 
-To connect hardware to the grid, ThreeFold's operating system Zero OS needs to be installed to boot the hardware. 
+To connect hardware to the grid, ThreeFold's operating system Zero OS needs to be configured to boot the hardware. 
 
 Once booted by Zero OS, the total capacity of the hardware will be detected and registered on the blockchain database and represented on the ThreeFold Grid Explorer. We call this proof-of-capacity.
 
