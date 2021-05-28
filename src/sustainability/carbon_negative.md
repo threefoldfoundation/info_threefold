@@ -10,8 +10,7 @@ Saving energy is one thing, but there will still be remaining energy, this needs
 
 ![](img/carbon_neutral1.png)
 
-We work together with Take Action Global to let students farm carbon credits.
-This has the potential to offset energy usage 100% by end 2021.
+We work together with Take Action Global to let students farm carbon credits. This has the potential to offset energy usage 100% by the end of 2021.
 
 ![](img/carbon_netural2.png)
 
