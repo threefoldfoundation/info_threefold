@@ -11,16 +11,16 @@ Thanks to our sales model you also do not have to sell the capacity of your serv
 ## Risks
 
 - Utilization does not go to 30% which means all your farmed tokens remain staked.
-  - _Mitigation: you own the assets, cloud is a good business revenue should be possible_
-  - _Mitigation: ThreeFold tech technology is real and already working today_
+  - _Unlikely: cloud is a growing business, adoption and revenue will happen_
+  - _FACT: ThreeFold tech technology is real and already working today, taking a percentage of the makrket is inevitable_
 - ThreeFold Technology is not working
-  - _Mitigation: The technology is already working today_
+  - _FACT: The technology is already working today_
 - The ThreeFold token does not appreciate in value
-  - _Mitigation: The cloud business by itself is valuable_
-  - _In this case ThreeFold_Council would change the business model to more cultivation_
+  - _Unlikely The cloud business by itself is growing and with increasing updat of the TF Grid as an alternative to the oligolopies there will be token scarsity._
+  - _The ThreeFold_Council can make changes the business model to create more scarsity (burn a higher percentage of the tokens)._
 - Digital Currencies become illegal
-  - _Mitigation: This is not really possible because TFT is a real utility token, representing IT capacity._
-  - _Even if this would happen despite all logic, then normal FIAT currencies can be used._
+  - FACT: This is not really possible because TFT is a real utility token, representing IT capacity._
+  - _Even if this would happen despite all logic, then normal FIAT currencies can be used.  The token is only a effective means of value exchange._
 
 ## Examples
 
