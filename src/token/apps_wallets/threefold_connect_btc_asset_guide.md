@@ -13,3 +13,7 @@ The main purpose of offering BTC in the ThreeFold Connect wallet is to facilitat
 
 As a wallet holder, you are the only person that has access to the private keys allowing to generate transactions on the blockchain network. ThreeFold is unable to help you out in case you loose these private keys. 
 Please don't share the app seed phrase nor the Stellar secret of your wallet with anyone. Make a secure back-up of them so that you are able to recover your wallet on another device in case your device get lost or stops functioning.
+
+For converting BTC into TFT please read [here](threefold_connect_btc). 
+
+For transferring BTC into another wallet, please read [here](btc_withdrawal). 
