@@ -10,6 +10,7 @@
 - [May 20: ThreeFold Two-Way Chat Update](how_to_use_chat_note)
 - [May 21: Products & Services Update](products_services_may_21)
 - [May 24: ThreeFold at AIBC Summit in Dubai](aibc_summit)
+- [May 28: The Grid IS Growing](grid_growth_28_may)
 
 ### April
 - [April 1: ThreeFold Q1 2021 Recap](q12021recap)
@@ -44,7 +45,7 @@
 
 ### January
 
-<!-- - **2020 Update:** [ThreeFold End 2020 Update](threefold_update_jan2021) >> non existant update document -->
+<!-- - **2020 Update:** [ThreeFold End 2020 Update](threefold_update_jan2021) >> non existent update document -->
 - [January 12: 2020 Highlights & Grid 2.4 Live on Testnet!](grid24_and_2020)
 - [January 13: Discussion With the Global Impact Alliance](globalimpactalliance)
 - [January 28: The Cyber Pandemic is Here, But it's Not Too Late](cyberpandemicconvo)
