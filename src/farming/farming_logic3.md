@@ -6,7 +6,9 @@ TFT is rewarded to farmers when capacity (storage & compute) is made available t
 
 This is done by [Farming TFT](become_a_farmer), ThreeFold's sustainable equivalent of crypto mining.
 
-The amount of farmed TFTs is calculated monthly by the open source [consensus driven token reward engine](tftech:consensus3).
+The amount of farmed TFTs is calculated monthly by the open source [consensus driven token reward engine](tftech:consensus3). 
+
+> Note: The consensus driven token reward engine hasn't been implemented yet. It will be live with ThreeFold Grid 3.0 in H2 2021.
 
 !!!include:farming_logic_disclaimer
 
@@ -37,10 +39,12 @@ This is expressed by CPR.
 
 The Consensus_Engine measures uptime and other SLA parameters. If the required minimal levels are not reached no farming rewards will be rewarded to the farmer.
 
-## Cultivation Fee and Burning of TFT
+> Note: The consensus driven token reward engine hasn't been implemented yet. It will be live with ThreeFold Grid 3.0 in H2 2021.
+
+## Cultivation Fee and Staking of TFT
 
 - 10% of the cultivation fee goes to the farmer.
-- 20-40% of the cultivation fee is burnt by the the Tf_chain in TFGrid 3.0. The burning process destroys the tokens. This mechanism ensure that the amount of tokens being created are low in relation to the value increase of the grid.
+- 20-40% of the cultivation fee goes to a staking pool on the the tf_chain in TFGrid 3.0. The staking mechanism will ensure future farming rewards in relation to the growth of the grid.
 - If a node has +80% utilization, then more tokens will be burned than farmed to ensure scarcity of TFT.
 
 The rest of the cultivation fee is used to reward the capacity sales channel, see threefold_channel.

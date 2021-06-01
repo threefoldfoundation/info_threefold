@@ -35,7 +35,7 @@ The proof-of-capacity records three Internet resources from the 3node (server):
 - Memory Capacity (RAM)
 - Storage Capacity (SSD/HDD)
 
-The proof-of-capacity is stored on a distributed storage system and hashed (fingerprinted). The hashes verify the authenticity of the report and are stored in the minting transactions on the blockchain. 4 days later, the TFTs are transferred to the farmer. The minting consensus needs to be achieved before minting can actually happen.
+The proof-of-capacity is stored on a distributed storage system and hashed (fingerprinted). The hashes verify the authenticity of the report and are stored in the minting transactions on the blockchain. 4 days after the end of each month, the TFTs are transferred to the farmer. The minting consensus needs to be achieved before minting can actually happen.
 
 ## Why become a farmer?
 

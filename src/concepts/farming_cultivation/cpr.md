@@ -10,12 +10,14 @@
 TFT farmed per month = CPR * CPR_REWARD
 ```
 
-#### CPR Reward Can Change Over Time
+#### CPR Reward can change for new farmers and nodes over time.
 
 - Current CPR price is in line with TFT base price of $0.1. If base price changes, so will the CPR price.
 - The CPR reward is managed by our wisdom_council - they look at TFT price and market conditions to define the reward structure.
   - Example: it could be logical that as the grid grows the cultivation reward can go up and farming reward can go down.
   - We believe in the power of a "human blockchain" to define the right reward for new farmers.
+
+> Note: Once you start farming, the CPR Reward will remain the same for 60 months.
 
 #### CPR Calculation
 
@@ -23,12 +25,19 @@ Calculating your 3Node's CPR can be done through the [Farming Hardware Calculato
 
 !!!include:farming_logic_disclaimer
 
-> - TFT farmed = result of compute,storage capacity connected to internet and having good enough uptime
-> - The TFT are staked per 3Node as arranged by TF_CHAIN. DIY Farmers can take tokens out of the staking pool once the 3node has 30% (\*) of its capacity used. Certified farmers can at free will take tokens out of the staking pool (starting Sept 2021).
-> - The Farmer gets 100% of farming (minting of TFT), in case of certified farming can be less.
-> - The Farmer gets 10% from TF_Cultivation (people buying IT capacity from TFGrid which is network of 3Nodes).
+- TFT farmed = CPR according to compute and storage capacity connected to ThreeFold and the uptime of the 3Node.
+- The farmded TFTs are staked and arranged by the TF_CHAIN. 
+  - For Planet-Friendly (DIY) Farmers, their TFTs will be staked until they reach 30% (\*) capacity utilization. 
+  - Planet Positive Farmers can will be able to unstake their tokens when they want (starting Sept 2021).
 
-For Certfied farming a contract is made between the farmer and Threefold (or TFTech). This can result in a certain part of the Farming Reward to be given to Threefold or TFTech as a license and/or support fee.
+*************************************iiiiiii
+
+
+
+- The Farmer gets 90.2% of the farming rewards, and 9.8% of the farmed TFTs are allocated to impact projects built on the Threefold Grid. 
+- The Farmer gets 10% from TF_Cultivation from capacity utilization (when users reserve capacity of 3Node).
+
+> TFT is used to pay for support requests wihtin the Threefold Ecosystem.
 
 To simulate yourself how farming is rewarded see **[farming calculator](farming_calculator)**
 

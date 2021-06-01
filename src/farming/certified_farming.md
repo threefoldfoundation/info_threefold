@@ -16,7 +16,7 @@ Learn more about Zero OS and the primitives [here](internet4__tfgrid_primitives)
 
 ## Planet Positive Farming
 
-While the technology stack can save up-to 10% energy, it was important for ThreeFold to be more than just planet friendly. So we created a Planet Positive Farming model. This option enables Farmers to go beyond carbon neutrality and to help regenerate the earth while providing Internet capacity. 
+While the technology stack enables the nodes to use up-to 10 times less energy, it was important for ThreeFold to be more than just planet friendly. So we created a Planet Positive Farming model. This option enables Farmers to go beyond carbon neutrality and to help regenerate the earth while providing Internet capacity. 
 
 With PLanet Positive Farming, the energy used by the node is offset x3 and is converted into carbon credits to be re-invested in climate action projects, e.g. reforestation.
 
@@ -37,8 +37,7 @@ Planet Positive Farming = Energy (SU + CU) + Trust (Proof-of-Authenticity) + Loc
 - Other Farmers verify the authenticity of your farm.
 - Through an affiliation model, you can get authenticated by onboarding other farmers.
 - This system creates a chain of trust.
-- The more your farm is said to be authentic, the more points you get.
-- The more authenticity you have, the faster you unlock from staking.
+- The more your farm is said to be authentic, the more points you get, the higher your reputation.
 
 3. Connectivity (Location)
 
@@ -60,7 +59,7 @@ ThreeFold believes that such a system will ensure an network of trust that rewar
 
 | Farmer Type                    | Planet Positive           | Planet Friendly         |
 | ------------------------------ | --------------------------| ----------------------- |
-| Server Hardware                | Planet Positive Certified | any INTEL or AMD server |
+| Server Hardware                | Maximum kw/hr per SU/CU   | any INTEL or AMD server |
 | TFGrid_Fee                     | Yes                       | Yes                     |
 | Support **                     | Yes                       | Yes                     |
 | Ability to set pricing         | Yes                       | No                      |
