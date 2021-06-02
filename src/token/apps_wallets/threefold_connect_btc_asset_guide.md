@@ -16,7 +16,7 @@ Powered by Warp Drive. The BTC Asset that resides within your TF Connect Wallet 
 
 ### Withdrawing your BTC Asset
 
-Withdrawing BTC from the Stellar network comes with transaction fees which are defined by Cryptoanchor. None of the ThreeFold organisations intervenes in this transaction, and ThreeFold has no liability when it comes to holding BTC on the Stellar network. Please keep in mind that ThreeFold organisations has no commercial or cooperative relationship with this company.
+Withdrawing BTC from the Stellar network comes with transaction fees which are defined by Cryptoanchor. None of the ThreeFold organisations intervenes in this transaction, and ThreeFold has no liability when it comes to holding BTC on the Stellar network. **Please keep in mind that ThreeFold organisations has no commercial or cooperative relationship with CryptoAnchor.**
 
 ### Reminder of our T&C
 
