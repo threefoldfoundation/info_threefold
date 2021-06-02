@@ -1,4 +1,4 @@
-# 2X Carbon Double Win
+# Carbon Double Win
 
 ThreeFold has as aim to take 2x more carbon out of the air than we put in.
 
