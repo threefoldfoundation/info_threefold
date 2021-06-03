@@ -49,13 +49,13 @@ The big disruption ThreeFold brings is that we commodify this model, you don't h
 
 !!!include:cpr_reward_current
 
-!!!include:more_info_rewards
-
 ## Remarks
 
 - We have selected a [good representative server for the simulation, details see here](farming_hardware_remarks).
 - The calculation is only valid for TFGrid_3.
 - [How to use our Farming Calculator](farming_rewards_howto)
+
+!!!include:more_info_rewards
 
 !!!include:farming_steps
 

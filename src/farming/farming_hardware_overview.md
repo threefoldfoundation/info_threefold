@@ -18,7 +18,7 @@ Plug & farm nodes have already been installed and configured to farm for the cus
 
 You would be required to provide your own hosting but farming cooperatives provide administrative services for your farm.
 
-### [You can pre-register for the next batch of Titan Nodes here](https://threefold.io/farming/pre-register).
+#### [You can pre-register for the next batch of Titan Nodes here](https://threefold.io/farming/pre-register).
 
 !!!include:farming_logic_disclaimer
 
