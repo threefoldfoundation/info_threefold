@@ -1,4 +1,5 @@
 
+> DO NOT USE TODAY !!!
 
 # Planet Positive vs. Planet Friendly Farming
 
@@ -12,7 +13,7 @@ There are two types of Farming:
 
 ## Planet Friendly Farming
 
-By design, Zero OS can enable up-to 10x energy efficiency as compared to other operating systems. It is super lightweight (200 MB) and delivers all the [storage and compute primitives](internet4__tfgrid_primitives) an Internet may need. 
+By design, Zero OS can enable up-to 10x energy efficiency as compared to other operating systems. It is super lightweight (200 MB) and delivers all the [storage and compute primitives](internet4:internet4_tfgrid_primitives) an Internet may need. 
 
 ThreeFold also offers a Farmer Bot to facilitate the farm's management, hich includes power management, ensuring the 3Node is powered only when needed.
 
@@ -60,16 +61,16 @@ ThreeFold believes that such a system will ensure an network of trust that rewar
 
 ## Planet Positive vs. Planet Friendly
 
-| Farmer Type                    | Planet Positive           | Planet Friendly         |
-| ------------------------------ | --------------------------| ----------------------- |
-| Server Hardware                | Maximum kw/hr per SU/CU   | any INTEL or AMD server |
-| Ability to set pricing         | Yes                       | No                      |
-| Cloud Production Rate          | High                      | Normal                  |
-| Reputation/ Credibility        | High                      | Normal                  |
-| Operational Cost               | Low                       | Normal                  |
-| Automatic Staking              | No                        | Yes                     |
-| TFGrid_Fee                     | Yes                       | Yes                     |
-| Support **                     | Priority                  | Yes                     |
+| Farmer Type             | Planet Positive         | Planet Friendly         |
+| ----------------------- | ----------------------- | ----------------------- |
+| Server Hardware         | Maximum kw/hr per SU/CU | any INTEL or AMD server |
+| Ability to set pricing  | Yes                     | No                      |
+| Cloud Production Rate   | High                    | Normal                  |
+| Reputation/ Credibility | High                    | Normal                  |
+| Operational Cost        | Low                     | Normal                  |
+| Automatic Staking       | No                      | Yes                     |
+| TFGrid_Fee              | Yes                     | Yes                     |
+| Support **              | Priority                | Yes                     |
 
 
 > [More info see here](tftech:farming_types)

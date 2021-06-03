@@ -302,3 +302,6 @@ Together they take the required decisions for the ThreeFold Grid Related monthly
 
 > Each member of ThreeFold related councils (grid, tech & wisdom) acts out love for the ThreeFold concept (upgraded free internet) and cannot be held accountable for any personal decision taken. No claims can be made to ThreeFold or its guardians (councils).
 See [disclaimer](legal:disclaimer).
+
+
+!!!include:farming_toc

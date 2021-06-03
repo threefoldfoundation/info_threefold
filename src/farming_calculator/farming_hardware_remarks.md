@@ -29,7 +29,8 @@ After calculation we can see that this node would have a cost price of $2.7 per 
 
 The Set-up Cost includes the license cost of certifying the farming solution. Note that this can be chosen on the parameter sheet. 
 
-Learn more about:
+**Learn more about:**
+
 - Cloud prices and comparison with competitors on the market [here](cloud_pricing).
 - Information on Cloud units [here](cloud_units).
 - Information on Resource unit [here](resource_units).

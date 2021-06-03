@@ -49,10 +49,7 @@ The Internet represents the largest economy in the world and is growing at a rap
 
 The ThreeFold Grid offers the most scaleable, secure and sustainable infrastructure to supply the increasing Internet demand. Learn more about the ThreeFold Grid [here](grid_home).
 
-## More Info
 
-- [Different types of Farming](certified_farming)) - A guide towards the different types of farming.
-- [Farming Rewards](farming_logic3) - An introduction to the logics behind farming rewards.
-- [How to buy TFT](how_to_buy_and_sell) - Where and how to buy TFT.
+!!!include:farming_toc
 
-!!!include:farming_steps
+!!!alias become_a_farmer

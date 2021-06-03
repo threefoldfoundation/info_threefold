@@ -7,7 +7,7 @@ Threefold promotes 2 sales channels.
 
 ## Indirect
 
-Because of how farming is being structured (starging TFGrid 3), see [farming/minting logic](farming_logic3) there is 50-70% available of the cultivation fees to reward the sales channel. This means that the sales channel in multiple steps can be rewarded to create solutions on top of TFGrid and sell the capacity.
+Because of how farming is being structured (starting TFGrid 3), see [farming/minting logic](farming_logic3) there is 50-70% available of the cultivation fees to reward the sales channel. This means that the sales channel in multiple steps can be rewarded to create solutions on top of TFGrid and sell the capacity.
 
 ### Example with software vendor
 
@@ -22,4 +22,8 @@ A telco will sell the cloud capacity to its business customers, the telco gets h
 A system integrator wants to deploy IT cloud capacity close to their customers with more security.
 To reward this system integrator for the sales effort and promotion activities part of the Cultivation Fee can be used.
 
-!!!def alias:threefold_channel,tf_channel,tf_sales_channel,threefold_sales_channel
+## More info
+
+- [Cultivation TFT Flows](cultivation_flow3)
+
+!!!def alias:threefold_channel,tf_channel,tf_sales_channel,threefold_sales_channel,tf_channels
