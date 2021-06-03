@@ -2,8 +2,8 @@
 
 | Description          | CPR reward in TFT per month | Cultivation  |
 | -------------------- | --------------------------- | ------------ |
-| certified capacity   | 20.0 TFT                    | 10%          |
-| diy (do it yourself) | 14.0 TFT                    | 10%          |
+| Planet Positive      | 20.0 TFT                    | 10%          |
+| Planet Friendly      | 14.0 TFT                    | 10%          |
 
 ThreeFold Grid V3 CPR reward will start in June/July 2021.
 
