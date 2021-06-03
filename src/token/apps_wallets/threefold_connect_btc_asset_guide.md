@@ -9,7 +9,7 @@ The purpose of activating and having BTC Asset on your ThreeFold Connect Wallet 
 
 ### The Technology Behind BTC-TFT Asset Trades
 
-BTC Asset represents Bitcoin bridged to the Stellar Blockchain. For more information, please check [cryptoanchor.io](cryptoanchor.io). 
+BTC Asset represents Bitcoin bridged to the Stellar Blockchain. For more information, please check [cryptoanchor.io](https://cryptoanchor.io). 
 
 ### Withdrawing your BTC Asset
 
