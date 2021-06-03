@@ -2,8 +2,17 @@
 
 ## 2021
 
-### April
+### May
 
+- [May 4: ThreeFold Partners with Dragonchain](threefold_dragonchain)
+- [May 5: Binance Smart Chain Update](bsc_update)
+- [May 12: TFT Becomes More Accessible](tft_more_accessible)
+- [May 20: ThreeFold Two-Way Chat Update](how_to_use_chat_note)
+- [May 21: Products & Services Update](products_services_may_21)
+- [May 24: ThreeFold at AIBC Summit in Dubai](aibc_summit)
+- [May 28: The Grid IS Growing](grid_growth_28_may)
+
+### April
 - [April 1: ThreeFold Q1 2021 Recap](q12021recap)
 - [April 5: Grid 2.6 is Live on Testnet](grid26testnet)
 - [April 8: ThreeFold Partners With CasperLabs](threefoldcasperlabs)
@@ -13,6 +22,9 @@
 - [April 14: Join the ThreeFold Two-Way Chat](threefoldtwoway)
 - [April 16: ThreeFold x CasperLabs Community Call Recording](tfcasperrecording1)
 - [April 18: Be the Internet – Become a Farmer!](becomeafarmer1)
+- [April 20: Say Hello to Dispersed Storage](dispersed_storage_hello)
+- [April 23: Building a Better Solution](building_a_better_solution)
+- [April 29: ThreeFold Goes Multichain](threefold_goes_multichain)
 
 ### March
 
@@ -33,7 +45,7 @@
 
 ### January
 
-- **2020 Update:** [ThreeFold End 2020 Update](threefold_update_jan2021)
+<!-- - **2020 Update:** [ThreeFold End 2020 Update](threefold_update_jan2021) >> non existent update document -->
 - [January 12: 2020 Highlights & Grid 2.4 Live on Testnet!](grid24_and_2020)
 - [January 13: Discussion With the Global Impact Alliance](globalimpactalliance)
 - [January 28: The Cyber Pandemic is Here, But it's Not Too Late](cyberpandemicconvo)

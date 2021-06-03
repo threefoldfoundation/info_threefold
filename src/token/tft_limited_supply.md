@@ -4,11 +4,15 @@
 
 ## Circulation: There is a maximum of 4 Billion TFTs
 
-While the ThreeFold_Grid can expand infinitely, a maximum of 4 Billion TFTs can be in circulation. This should, with time, stabilize the value of TFT and incentivize its stakeholders.
-
-The future value of the TF Grid could extend to Billions – this should have impact on the value of the TFT.
+While the ThreeFold_Grid can expand infinitely, a maximum of 4 Billion TFTs can be in circulation. 
 
 Learn more about the Threefold Grid and TFT valuation [here](grid_valuation).
+
+## TFT Burning
+
+Starting from Farming 3.0 TFT's are burned when people buy capacity of the TFGrid.
+
+At start burning is 25% of the capacity bought, once the grid becomes bigger this could lead to decrease of TFT in the system.
 
 ## Sound Token Distribution
 
@@ -39,7 +43,7 @@ The ThreeFold_Grid will attract individuals and communities to build, host and u
 
 - 100% ownership of their data, no more intermediaries.
 - Superior reliability through peer-to-peer (decentralized) hosting
-- Guaranteed and transparent execution of software through the [Smart Contract for IT](tftech:smart_contract_for_it).
+- Guaranteed and transparent execution of software through the [Smart Contract for IT](tftech:smartcontract_it).
 
 Developers can rent capacity from the ThreeFold_Grid in exchange for TFT only – no other currencies are used. This creates a natural economic demand and we call this process [cultivation](cultivation).
 
@@ -63,10 +67,10 @@ Expectations are proven that when the price increases, valuation can enter a hyp
 
 > We do not believe in hype or speculation as mechanisms to drive ThreeFold or TFT value! While this can lead to big speculative gains for some, others loose from it. ThreeFold does not support speculative bubbles and the worsening in global inequalities that can occur as a consequence. We believe in a fair valuation of TFT derived from the natural economic demand of the TF Grid.
 
-## Vesting Pools
+## Vesting wallets
 
 In March/April 2021 existing token holders decided to vest their tokens according this this scheme. This was done as a sign of ongoing confidence in the project.
 
-See more about Vesting Pool [here](vesting_pool).
+See more about Vesting Pool [here](vesting_overview).
 
 !!!alias token_limited_supply,tft_limited_supply,token_supply

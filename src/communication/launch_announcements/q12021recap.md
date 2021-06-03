@@ -12,7 +12,7 @@ The team has put in tremendous work to get the technology to where it is today. 
 
 - [TF Grid version 2.4](https://threefold.io/info/cloud#/cloud__release_notes_2_4_0) and [2.5](https://threefold.io/info/cloud#/cloud__release_notes_2_5_0) were released, with 2.6 soon on its way.
 - The [Edge Virtual DataCenter (eVDC)](https://threefold.io/info/cloud#/cloud__evdc) launched with a 100% Kubernetes-compatible container orchestration framework; soon, a back-up feature will allow users to migrate workloads between eVDCs.
-- The easy-to-deploy, unlimited-scale [Quantum Safe Filesystem (QSFS)](https://threefold.io/info/cloud#/cloud__threefold_filesystem) was released as a standalone product – independent from eVDC and the 3Bot SDK. *We're incredibly excited about QSFS, and you'll be hearing more from us soon!*
+- The easy-to-deploy, unlimited-scale [zstor filesystem (zstor)](https://threefold.io/info/cloud#/cloud__threefold_filesystem) was released as a standalone product – independent from eVDC and the 3Bot SDK. *We're incredibly excited about zstor, and you'll be hearing more from us soon!*
 - We added new [ThreeFold Marketplace](https://threefold.io/info/cloud#/cloud__evdc_marketplace) solutions and improved the user experience there; also, all solutions now have ThreeFold Connect single sign on implemented.
 - You can now deploy DigiByte & Presearch nodes in just a few clicks on top of the peer-to-peer ThreeFold Grid via the Marketplace; soon we will be working with these partners to announce to their communities and bring adoption!
 

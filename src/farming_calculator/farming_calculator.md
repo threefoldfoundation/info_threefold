@@ -40,4 +40,4 @@ Thanks to our sales model you also do not have to sell the capacity of your serv
 
 !!!include:farming_rewards_disclaimer
 
-!!!alias tf_farming_simulator,farming_simulation,farming_simulator,farming_calculator,farming_calculator
+!!!alias tf_farming_simulator,farming_simulation,farming_simulator,farming_calculator

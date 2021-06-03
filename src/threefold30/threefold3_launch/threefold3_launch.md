@@ -51,7 +51,7 @@ Planned later this year.
 
 - TF Cloud 3.0 = Public Launch
 	- **Edge Virtual Datacenter**, run your Kubernetes workloads anywhere in the world on the ThreeFold_Grid, compatible with all tools and full Docker/Kubernetes/... ecosystem. Compatible with major frameworks like Ansible & Helm.
-	- **Quantum Safe Filesystem**: store petabytes of data at incredible cost & reliability, compatible with IPFS & HyperCore / Hyper Drive for P2P usecases. Any Storage app can be put on top. This is the most reliable and global scalable **filesystem** ever invented.
+	- **zstor filesystem**: store petabytes of data at incredible cost & reliability, compatible with IPFS & HyperCore / Hyper Drive for P2P usecases. Any Storage app can be put on top. This is the most reliable and global scalable **filesystem** ever invented.
 - TF Marketplace 3.0
 	- marketplace of 30+ existing solutions running on top of our grid
 - First set of experiences on top op Digital Twin will come alive

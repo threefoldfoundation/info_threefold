@@ -2,7 +2,7 @@
 
 A node in the TFChain.
 
-Is a parity based blockchain node.
+Is a substrate/parity based blockchain node.
 
 Used as backend for all TFGrid blockchain operations.
 

@@ -4,7 +4,7 @@ The TF_CHAIN allows us to create a distributed database as needed to let the TFG
 Its inmplemented using parity/substrate technology.
 
 - backend for Consensus_Engine.
-- backend for smart_contract_for_it layer
+- backend for smartcontract_it layer
 - backend for the TF_Grid to function.
 
 This ledger distributed database can be queried using Graphql as well as a Rest based api.

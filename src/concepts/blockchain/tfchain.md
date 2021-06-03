@@ -14,7 +14,7 @@ This blockchain is used for
   - Reputation information : how good is a farmer, uptime of a 3Node
   - Account_Metadata which is information about a digital currency wallet/account needed for vesting, locking, ...
 - backend for Consensus_Engine.
-- smart_contract_for_it layer
+- smartcontract_it layer
 - the backend for tfgriddb
 
 Is combination of tfchain_nodes

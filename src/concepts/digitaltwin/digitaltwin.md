@@ -19,4 +19,9 @@ First implementation of Digital Twin (march 2021 in working prototype) has follo
 
 Digital Twin will probably change name to FreeFlow.
 
+## More info
+
+- digitaltwin_server : your personal data server on the tfgrid
+- digitaltwin_experiences : first set of experiences as implemented
+
 !!!def alias:digital_twin, dtwin

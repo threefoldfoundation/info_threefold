@@ -2,7 +2,7 @@
 
 Today, we have a very big July update along with a second version of the ThreeFold Decentralization Manifesto.
 
-Both can be found here: [tf_updates](tf_updates)
+Both can be found here: [launch_announcements](launch_announcements)
 
 We will organize a Zoom call soon to also do this in video format and answer any questions the community might have.
 

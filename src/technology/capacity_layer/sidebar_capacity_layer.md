@@ -1,2 +1,0 @@
-- [Grid](grid_why)
-- [Grid Introduction](grid_intro)
