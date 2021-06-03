@@ -34,7 +34,7 @@
   - [Light Bulb vs Digital Twin](bulb_comparison_twin)
   - [Energy Savings Storage](energy_savings_storage)
   - [Energy Savings Twin](energy_savings_digital_twin)
-  - [Carbon Neutral](carbon_negative)
+  - carbon_double_win
 - [Technology](internet4:technology)
   - [TFGrid](internet4:zos_3node_tfgrid_intro)
   - [Smart Contract for IT](internet4:smartcontract_it)
