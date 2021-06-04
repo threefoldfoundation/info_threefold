@@ -1,23 +1,25 @@
+![](img/grid_compare.png)
+
 # Web2.0 vs Web3.0 vs ThreeFold Grid
 
-Web2.0 refers to the version of the internet most of us know today. An internet dominated by companies that provide services in exchange for your personal data. Web3.0 refers to a decentralized architecture that runs on a blockchain. While Web3.0 brought a step forward by allowing anyone to participate without monetizing their personal data, it comes with some complications still. Blockchains can be slower with too many users, are harder to scale due to their consensus methods, and are often inefficient in the way they operate. 
+Web2.0 refers to the version of the internet most of us know today. An internet dominated by companies that provide services in exchange for your personal data. 
+
+Web3.0 refers to a decentralized architecture that runs on a blockchain. Web3.0 is a very good step forward. It is still a client server model though and has certain issues. For internet and storage workloads Blockchains tend to be slow and are hard to scale due to their consensus methods. 
+
+> Web4.0 is a new approach which is 100% compatible with the blockchain (web3) and existing internet (web2) world.
 
 ## ThreeFold Grid Benefits
 
 Developers and users have many reasons for choosing the ThreeFold's peer-to-peer and autonomous grid:
 
-- Anyone who is on the network has permission to use the service – or in other words, permission isn't required.
 - No one can block you or deny you access to the service.
 - Payments are built-in via the native token, the ThreeFold Token (TFT).
 - ThreeFold integrated with the most widely used protocols and systems meaning you can pretty much program anything.
 - Transactions and workloads can scale limitlessly as it is truly decentralized. They do not have to be processed by any intermediaries as they get propagated end-to-end throughout the network directly to the intended recipients.
 - Building applications and infrastructures on the ThreeFold Grid is more affordable than on web 2.0 and web 3.0. 
 - The "zero people" approach to the ThreeFold Grid enables to bring incredible security features. With it's end-to-end model between users and servers, there are no back-doors, and by not using TCP/IP, there are no incoming connections from the web2.0 Internet.
-- By it's peer-to-peer nature, storing and exchanging information and value on the ThreeFold Grid requires 50% to 99% less energy than on web 2.0.  
+- By it's peer-to-peer nature, storing and exchanging information and value on the ThreeFold Grid requires a lot less energy than on web 2.0.  
 
-## ThreeFold Grid's only Limitation
-
-While beating web2.0 and web3.0 on almost all perspectives, moving to the ThreeFold Grid requires some adaptation. Interacting with ThreeFold's peer-to-peer infrastructure may require some extra steps as of today. The team is continuously working on integrating and automating more features to improve developer and user experiences. 
 
 ## Centralized vs Blockchain vs Peer-to-Peer
 
@@ -35,5 +37,6 @@ In the table below, we list some of the major advantages and disadvantages of ce
 
 Note that these are general patterns that may not hold true in every network. Furthermore, in reality the degree to which a network is centralized/decentralized lies on a spectrum; no network is entirely centralized or entirely decentralized. Peer-to-peer networks enable participants to become the central point of their digital life and to organize the environment around them as they wish. In other words, it provides the freedom to all actors to organize in the most suitable way across the centralization/decentralization spectrum. The infrastructure however remains truly decentralized. 
 
+> More info see [Internet 4 concept](internet4:internet4).
 
 !!!include:grid_toc

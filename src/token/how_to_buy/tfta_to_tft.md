@@ -10,3 +10,4 @@ If you would like migrate TFTA to TFT, it's super easy, just send your TFTA to a
 
 and it will return as TFT, we suggest you try with 1 TFTA (-:
 
+!!!include:token_toc

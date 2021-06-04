@@ -31,6 +31,4 @@ Many tokens are in vesting wallets see [Vesting](vesting_overview).
 
 See [Valuable TF Grid](grid_valuation)
 
-## Disclaimer
-
-!!!include:legal:tft_not_speculative_note
+!!!include:token_toc

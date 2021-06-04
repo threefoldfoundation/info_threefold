@@ -52,14 +52,11 @@ Calculated May 5 2021
 
 > WE ARE STILL IN PROCESS TO VEST TOKENS (MAY 2021)
 
-
 ## Remarks
 
 !!!include:stats_toc
 - [ThreeFold Token & Grid History](threefold_history)
 
-## Disclaimer
-
-!!!include:legal:tft_not_investment
+!!!include:token_toc
 
 !!!alias token_distribution,token_overview

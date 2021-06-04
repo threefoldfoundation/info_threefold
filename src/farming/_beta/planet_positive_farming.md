@@ -57,7 +57,6 @@ ThreeFold believes that such a system will ensure an network of trust that rewar
 - Eligible for Cloud Workloads.
 - Better reputation and visibility on the ThreeFold Grid.
 - Priority over ThreeFold support.
-- TFTs do not get staked.
 
 ## Planet Positive vs. Planet Friendly
 

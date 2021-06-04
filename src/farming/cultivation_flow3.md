@@ -8,8 +8,8 @@ We expect most of the business for next 6 months to come through our certified s
 
 - [ ] 25% of capacity bought through explorer 2.7 using TFT needs to be burned
 - [ ] 10% of fee to farmer
-- [ ] 10% of fee to TFFoundation (promotion_wallet_foundation)
-- [ ] the remainder goes to certified sales channel (can be multi level)
+- [ ] 10% of fee to TFFoundation
+- [ ] the remainder goes to certified sales channel (can be multi level, as organized by ThreeFold)
 
 ### When capacity bought by Farmer itself
 

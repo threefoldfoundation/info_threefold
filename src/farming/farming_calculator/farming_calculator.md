@@ -19,9 +19,6 @@ Thanks to our sales model you also do not have to sell the capacity of your serv
 
 ## Risks
 
-- If 30% utlization isn't reached, your farmed tokens remain staked.
-  - _Unlikely: cloud is a growing business, adoption and revenue will happen_
-  - _FACT: ThreeFold tech technology is real and already working today, taking a percentage of the makrket is inevitable_
 - ThreeFold Technology is not working
   - _FACT: The technology is already working today_
 - The ThreeFold token does not appreciate in value

@@ -45,3 +45,5 @@ It's quite simple to set up two-factor authentication (2FA) – and from a secur
 ### Liquid Quick Exchange
 
 Liquid also has a Quick Exchange, which allows you to buy TFT with a Visa card. Learn more [here](tft_liquid_quick_exchange).
+
+!!!include:token_toc

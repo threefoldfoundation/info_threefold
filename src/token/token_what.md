@@ -37,4 +37,4 @@ For token enthousiasts, you can check the analytics of TFT since it moved to the
 
 > Please note that the ThreeFold Foundation's sole purpose is to ensure the expansion of the ThreeFold_Grid and its ecosystem according to its vision and values. To fund these activities, part of each TFT transaction for cultivation goes to the ThreeFold Foundation to finance the ThreeFold_Grid's expansion and side projects that are believed to bring a positive human or planet impact.
 
-!!!include:legal:tft_not_speculative_note
+!!!include:token_toc

@@ -51,5 +51,4 @@ You can see the how to buy TFT in the ["How to Buy" section](how_to_buy_and_sell
 
 !!!include:tft_safe
 
-!!!include:legal:tft_not_investment
-!!!include:legal:tft_not_speculative_note
+!!!include:token_toc

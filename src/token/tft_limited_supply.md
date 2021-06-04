@@ -74,3 +74,6 @@ In March/April 2021 existing token holders decided to vest their tokens accordin
 See more about Vesting Pool [here](vesting_overview).
 
 !!!alias token_limited_supply,tft_limited_supply,token_supply
+
+
+!!!include:token_toc
