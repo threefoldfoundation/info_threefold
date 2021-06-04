@@ -1,18 +1,17 @@
-# CPR Reward v3:
+### ThreeFold Grid CPR Reward v3
 
-| description          | CPR reward in TFT per month | %cultivation |
-| -------------------- | --------------------------- | ------------ |
-| certified capacity   | 20.0 TFT                    | 10%          |
-| diy (do it yourself) | 14.0 TFT                    | 10%          |
+| Description     | CPR reward in TFT per month | Cultivation |
+| --------------- | --------------------------- | ----------- |
+| Planet Positive | 20.0 TFT                    | 10%         |
+| Planet Friendly | 14.0 TFT                    | 10%         |
 
-CPR Reward valid April 2021.
+ThreeFold Grid V3 CPR reward will start in June/July 2021.
 
-> The CPR_Reward level is store don TF_CHain per 3node and cannot change over time. <BR>
+> The CPR_Reward level of each 3Node is stored on the TF_Chain and cannot change over time. This permits the ThreeFold ecosystem to know how many tokens are rewarded to farmers over time. <BR>
 
-All modalities to do with farming for one specific server= 3node is registered in the tf_chain, so that the farmer and the ecosystem of threefold knows exactly how many tokens will be rewarded over time to which farmer.
-Every "certified" farmer can define a markup (extra margin) for each CU/SU
-e.g. to compensate for extra costs related to e.g. secure location, or strategic location
-Farmed TFT gets staked per 3Node (per server) and only unlock if +30% is used of capacity.
+Every "Planet Positive" Farmer can define a markup (extra margin) for each CU/SU, e.g. to compensate for extra costs related to a secure or strategic location. Minimal SLA's need to be achieved before the farming reward can be earned (uptime, bandwidth, latency, etc.)
+
+TFTs will go to a staking mechanism and only unlock if +30% of the 3Node's capacity is used.
 
 Minimal SLA's need to be achieved before the farming reward can be earned (uptime, bandwidth, latency, ...)
 
@@ -26,6 +25,9 @@ Minimal SLA's need to be achieved before the farming reward can be earned (uptim
 
 ### CPR Calculations
 
-Calculating your 3Node's CPR can be done through the [Farming Hardware Calculator](farming_hardware_calculator)
+#### Calculating your 3Node's CPR can be done through the [Farming Hardware Calculator](farming_hardware_calculator)
 
 !!!include:farming_logic_disclaimer
+
+
+!!!include:farming_toc

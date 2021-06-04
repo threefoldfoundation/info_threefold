@@ -1,14 +1,17 @@
 # The Cloud Production Rate (CPR)
 
-The Cloud Production Rate (CPR) indicates how ‘productive’ a compute or server hardware platform is. The higher the CPR, the more capacity in form of compute and storage is added.
-This makes it simple for a non-tech farmer to select the best farming hardware for the budget available. It is similar to the hashrate of a Bitcoin miner for example.
+The performance/productivity of a 3Node is calculated by the amount of [Cloud Units](cloud_units) (capacity) made available. This is summarized by a [Cloud Production Rate (CPR)](cloud_production_rate). 
 
-To calculate the CPR are very simple and straightforward formula is used:
+CPR defines the output capability just like a Solar Panel's output would be measured in kilowatt-hour (kWh). 
 
-**CPR = 1.5 \* the amount of Compute Units (CU) of the hardware + the amount of Storage Units (SU) of the hardware**
+The more capacity is added, the higher the CPR. and the more TFT is earned. It enables any Farmer to select the best 3Node option according to their available budget. 
 
-How CU and SU are composed and calculated can be found [here](cloud_units)
+To calculate the CPR, a very simple and straight-forward formula is used:
 
-Current CPR prices see farming_logic 
+```
+CPR = 1.5 x the amount of Compute Units (CU) of the hardware + the amount of Storage Units (SU) of the hardware
+```
 
-!!!def name:CPR alias:Cloud_Production_Rate,CPR
+How CU and SU are composed and calculated by [cloud units](cloud_units).
+
+!!!def name: Cloud_Production_Rate, CPR

@@ -98,20 +98,5 @@ Learn more about Threefold Grid Blockchain [here](internet4:consensus3).
 
 *Note: This was last updated March 2021.*
 
-## More Info:
 
-- [What is the ThreeFold Token](token_what) - An introduction to ThreeFold Tokens, the medium of exchange on the new Internet.
-- [What is Farming](farming_intro) - An introduction to Farming and how anyone can participate in expanding the ThreeFold Grid.
-- [Zero-OS primitive workloads](internet4:zos) - An overview of ThreeFold's unique operating system Zero-OS.
-- [How do 3Nodes work](internet4:part1_the_3node) - An overview of 3Node and the different softwares it runs.
-- [Technology](internet4:technology)
-- [Dive deeper in the Smart Contract for IT](tftech:smartcontract_it) - The smart contract that powers the autonomous Internet. 
-- [How 3Bot enables anyone to become the center of their digital life](internet4:part3_smart_it_circles_3bot) - An overview of some basic concepts and principles around 3Bot.
-- [The Threefold Grid Blockchain](internet4:consensus3) - Learn more about the consensus engine of ThreeFold that uses Polkadot's technology substrate.
-- [Use the Threefold Grid](use_tfgrid) - An introduction to the ThreeFold products and services: The ThreeFold SDK, P2P Cloud, P2P Marketplace, and Digital Twin.
-
-
-
-
-
-
+!!!include:grid_toc

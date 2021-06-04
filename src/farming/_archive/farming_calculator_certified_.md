@@ -22,6 +22,6 @@
 
 Note: we took as starting price 0.1 USD for the TFT, your situation can be different.
 
-!!!include:farming_rewards_howto
+!!!include:farming_calculator_howto
 
 !!!include:farming_rewards_disclaimer

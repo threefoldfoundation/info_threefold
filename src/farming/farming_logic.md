@@ -18,3 +18,5 @@ This is done by TFT_Farming, ThreeFolds more sustainable equivalent of cryptocur
 
 
 !!!def name:'Farming Logic' alias:farming_logic,farming_logic_2,farming_logic_3,minting_logic,minting_logic_2
+
+!!!include:farming_toc

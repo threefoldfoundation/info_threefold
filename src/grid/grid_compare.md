@@ -35,10 +35,5 @@ In the table below, we list some of the major advantages and disadvantages of ce
 
 Note that these are general patterns that may not hold true in every network. Furthermore, in reality the degree to which a network is centralized/decentralized lies on a spectrum; no network is entirely centralized or entirely decentralized. Peer-to-peer networks enable participants to become the central point of their digital life and to organize the environment around them as they wish. In other words, it provides the freedom to all actors to organize in the most suitable way across the centralization/decentralization spectrum. The infrastructure however remains truly decentralized. 
 
-## More Info: 
 
-- [How ThreeFold is growing a decentralization movement](decentralization) - Discover the decentralization status and manifesto of ThreeFold.
-- [An introduction to ThreeFold's architecture](grid_architecture) - An overview of the main technological components of the ThreeFold Grid.
-- [Technology](internet4:technology)
-- [Intro to Cloud Capacity](cloud_units) - What is the cloud capacity offering on the ThreeFold Grid.
-- [Use the Threefold Grid](use_tfgrid) - An introduction to the ThreeFold products and services: The ThreeFold SDK, P2P Cloud, P2P Marketplace, and Digital Twin.
+!!!include:grid_toc
