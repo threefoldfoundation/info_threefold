@@ -8,7 +8,7 @@ This document outlines how many of these types of nodes we plan to sell through 
 Types of nodes
 Small Nodes		Roel has the lead here
 HPE Nodes		Chris/Andreas
-DIY Nodes		will be 50% estimated of mesh community
+DIY Nodes
 Channels for Node Sales
 ### Small Nodes
 Mazraa: Middle East & Africa
@@ -37,8 +37,10 @@ Partner Z (Istanbul): Turkey
 * CSPs
 * Hosters
 * Enterprises
-….
+
+
 ### Estimated Quantities by Node Type 
+
 * Small Nodes:		1000 by eoy (2)
 * HPE Nodes:		5000 by eoy (3)
 * DIY Nodes:		4000 by eoy (1)

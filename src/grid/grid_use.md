@@ -38,3 +38,5 @@ A Digital Twin is a primary use case on top of the ThreeFold Grid. A private and
 - Visit Digital Twin wiki [here](https://info.mydigitaltwin.io)
 
 > Note: Digital Twin is currently in development. 
+
+!!!include:grid_toc

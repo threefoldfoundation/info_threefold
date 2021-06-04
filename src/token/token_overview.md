@@ -11,7 +11,7 @@
     - Better than required SLA (Service Level Agreement).
   - Rewarded by means of code and verified by TF_Chain (\*)
   - Rules as defined by Threefold Foundation but approved by Wisdom_Council
-  - Rules are different for certified or DIY capacity
+  - Rules are different for certified or DIY capacity. For now we only deliver DIY capacity.
 - 3% for the funding of community driven contribution projects (max 160 million of TFT)
   - Sponsor projects to the benefit of the ThreeFold Companies
   - Education, Digital twin, ...

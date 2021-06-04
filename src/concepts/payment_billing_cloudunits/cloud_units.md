@@ -77,5 +77,5 @@ Resource Units are how we measure capacity as produced by the hardware (compute 
 ### More Info:
 
 - [More information around Cloud Pricing](cloud:tfgrid_pricing) - An overview of ThreeFold Cloud pricing and how it compares with the market.
-- [Use the Threefold Grid](use_tfgrid) - An introduction to the ThreeFold products and services: The ThreeFold SDK, P2P Cloud, P2P Marketplace, and Digital Twin.
+- [Use the Threefold Grid](grid_use) - An introduction to the ThreeFold products and services: The ThreeFold SDK, P2P Cloud, P2P Marketplace, and Digital Twin.
 - [Connect capacity to the ThreeFold Grid](farming_home) - Discover Farming and how you can connect capacity and earn passive income.

@@ -39,7 +39,6 @@ Do your own calculation:
 
 ## Remarks
 
-- We have selected a [good representative server for the simulation, details see here](farming_hardware_remarks).
 - The calculation is only valid for TFGrid_3.
 - Please read [how to use our Farming Calculator](farming_calculator_howto).
 

@@ -34,7 +34,7 @@ If you want to purchase an HPE node for delivery in European countries visit **[
 
 For any other countries please contact vlaho.jemin@hpe.com.
 
-### Do It Yourself (DIY) Nodes
+### Do It Yourself
 
 Create your own 3Node by installing Zero-OS on your own standard server/hardware. This option does not provide any contractual relationship with anyone in the ThreeFold_Grid Ecosystem, but enables anyone to become a farmer. You can purchase a server/hardware from any supplier or use your existing server/hardware. It must have an Intel or AMD CPU and can have any kind of hard drives (HDD/SSD). Over time, a DIY farmer can build reputation, measured by the Grid Reputation_Engine.
 
