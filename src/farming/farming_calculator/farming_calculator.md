@@ -1,4 +1,4 @@
-![](img/becomefarmer.png)
+![](img/becomefarmer.png )
 
 # Farming Reward Calculator
 
@@ -7,6 +7,15 @@ We have created a calculator to allow you to simulate your potential return on i
 The [Farming Logic v3 document](farming_logic3) describes how many TFT your node will receive as CPR_reward. 
 
 Thanks to our sales model you also do not have to sell the capacity of your server(s), the threefold_approach takes care of this.
+
+## Example Hardware
+
+![](img/example_hardware.png ':size=350x')
+
+## Example Simulation
+
+![](img/farming_simulation.png)
+
 
 ## Risks
 
@@ -24,7 +33,9 @@ Thanks to our sales model you also do not have to sell the capacity of your serv
 
 ## Calculator
 
-- [Reward Simulator for Farming Spreadsheet](https://secure.threefold.me/sheet/#/2/sheet/edit/tUsnJA7ujmtp3VUa-Q6XRj5g/)
+Do your own calculation:
+
+- [Reward Simulator for Farming Spreadsheet](https://secure.threefold.me/sheet/#/2/sheet/view/Tq5BGUea1Gin8RbjkVU9TuFjmetEMFMwmsGTvEu0UI0/)
 
 ## Remarks
 
@@ -35,3 +46,5 @@ Thanks to our sales model you also do not have to sell the capacity of your serv
 !!!include:farming_toc
 
 !!!alias tf_farming_simulator,farming_simulation,farming_simulator,farming_calculator
+
+!!!include:farming_rewards_disclaimer

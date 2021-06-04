@@ -14,3 +14,7 @@ Best to install onlyoffice, this has been used to create this calculator.
  When you've filled all of these fields you will be presented with an simulated number according to your input. 
  
 
+!!!include:farming_toc
+
+!!!include:farming_rewards_disclaimer
+

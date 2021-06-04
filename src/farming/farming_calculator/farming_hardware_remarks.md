@@ -34,3 +34,5 @@ The Set-up Cost includes the license cost of certifying the farming solution. No
 - Cloud prices and comparison with competitors on the market [here](cloud_pricing).
 - Information on Cloud units [here](cloud_units).
 - Information on Resource unit [here](resource_units).
+
+!!!include:farming_toc

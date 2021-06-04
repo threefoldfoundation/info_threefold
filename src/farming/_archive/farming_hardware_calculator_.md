@@ -36,4 +36,4 @@ With your CU and SU totals you can now also calculate how much tokens your machi
 This can be done with the CPR Reward calculator found at the bottom of the [Farming Calculator Page](farming_calculator)
 
 
-!!!include:more_info_rewards
+!!!include:farming_toc

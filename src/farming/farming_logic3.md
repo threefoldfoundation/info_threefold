@@ -44,51 +44,23 @@ See [Cloud Production Rate](cpr) for more info.
 
 ### 3. Uptime
 
-The Consensus_Engine measures uptime and other SLA parameters. If the required minimal levels are not reached no farming rewards will be rewarded to the farmer.
+The consensus_engine measures uptime and other SLA parameters. If the required minimal levels are not reached no farming rewards will be rewarded to the farmer.
 
-> Note: The consensus driven token reward engine hasn't been implemented yet. It will be live with ThreeFold Grid 3.0 in H2 2021.
+!!!include:farming_3_remuneration
 
-## Farming Reward Calculation
 
-This is a very simple calculation.
+## Learn More
 
-```
-TFT farmed per month = CPR * CPR_REWARD
-```
-
-> - The TFT farmed = result of compute,storage capacity connected to internet and having good enough uptime
-> - The TFT are staked per 3Node as arranged by TF_CHAIN. DIY Farmers can take tokens out of the staking pool once the 3node has 30% (\*) of its capacity used. Certified farmers can at free will take tokens out of the staking pool (starting Sept 2021).
-> - The Farmer gets 100% of farming (minting of TFT), in case of certified farming can be less.
-> - The Farmer gets 10% from TF_Cultivation (people buying IT capacity from TFGrid which is network of 3Nodes).
-
-For Certfied farming a contract is made between the farmer and Threefold (or TFTech). This can result in a certain part of the Farming Reward to be given to Threefold or TFTech as a license and/or support fee.
-
-To simulate yourself how farming is rewarded see **[farming calculator](farming_calculator)**
-
-## Cultivation Fee and Burning of TFT
-
-10% of Cultivation fee goes to farmer.
-
-20-40% of the cultivation fee is being burned by means of the ThreeFold Chain in ThreeFold Grid 3.0. This means these tokens are destroyed. This makes sure that the amount of tokens being created are low in relation to the value increase of the grid.
-
-If a box is used for +80% then there will be more tokens burned than farmed, which means the amount of TFT goes down leading to more scarcity.
-
-The rest of the cultivation fee is used to reward the capacity sales channel, see threefold_channel.
-
-Details see [TFT cultivation flows 3.0](cultivation_flow3).
-
-> Note: The idea is to have more tokens burnt then farmed but this will depend on the global level of utilization of the ThreeFold Grid.
+- [TFT cultivation flows 3.0](cultivation_flow3).
+- Compute and storage units on the [Cloud Units](cloud_units) page.
+- How to calculate your [ROI on a 3Node investment](farming_calculator).
 
 ## Remarks
 
-> A small amount of Farmers are still on v2.0 farming reward which is based on a difficulty level in relation to max amount of TFT. (4 Billion) see [Farming Logic 2.0](farming_logic2). 2.0 Farmers can choose to upgrade to the 3.0 Farming Model, contact ThreeFold please.
+> A small amount of Farmers are still on v2.0 farming reward which is based on a difficulty level in relation to max amount of TFT. (4 Billion) see [Farming Logic 2.0](farming_logic2). 2.0 Farmers can choose to upgrade to the 3.0 Farming Model.
+> These 2.0 farmers will have to sign an agreement with ThreeFold to agree on terms of the future farming. <BR>If you are a 2.0 farmer and you want to upgrade contact TFTech please.
 
-Learn more:
-- How to Calculate your CPR with [3Node Production Calculator](farming_hardware_calculator).
-- Compute and storage units on the [Cloud Units](cloud_units) page.
-- How to calculate your [ROI on a 3Node investment](farming_calculator).
-- Calculating your 3Node's CPR can be done through the [Farming Hardware Calculator](farming_hardware_calculator)
+> Note: The consensus driven token reward engine hasn't been implemented yet. It will be live with ThreeFold Grid 3.0 in H2 2021.
 
 
 !!!include:farming_toc
-
