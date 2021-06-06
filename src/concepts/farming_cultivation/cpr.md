@@ -1,15 +1,18 @@
-### CPR
+# CPR
 
-!!!include:cloud_production_rate
+Cloud Production Rate.
 
-!!!include:cpr_reward_current
+The capability of a 3node to produce compute/storage capacity.
 
-To calculate the farming rewards, the following equation is used:
+CPR is calculated as follows
 
 ```
-TFT farmed per month = CPR x CPR_REWARD
+CPR = CU x 1.5 + SU
 ```
 
-> Note: Once you start farming, the CPR Reward will remain the same for 60 months.
+See cloudunits for more information (CU/SU).
 
-> Note: ThreeFold believes in the power of the 'human blockchain' to define the right rewards for new farmers. The CPR Reward can change for new farmers and nodes over time. The current CPR price is set according to current TFT price. If TFT price changes, so will the CPR price. The CPR reward is set by the wisdom_council - that oversees TFT price and market conditions to define the most fair reward structure. 
+CPR is the basis for a farmer [to calculate his return on investment on becoming a farmer](farming_calculator).
+
+
+!!!def

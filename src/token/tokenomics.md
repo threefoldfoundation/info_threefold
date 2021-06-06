@@ -11,6 +11,7 @@ TFTs are rewarded when new capacity (storage & compute) is added to the ThreeFol
 [Farmers](become_a_farmer) farm (mine) capacity for the ThreeFold Grid. A TF Farmer is ThreeFolds more sustainable equivalent of cryptocurrency miners.
 
 The amount of TFTs that are created by farmers depends on three variables:
+
 1. Compute Capacity (CPU)
 2. Memory Capacity (RAM)
 3. Storage Capacity (SSD/HDD)
