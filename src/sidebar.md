@@ -19,6 +19,7 @@
     - [BTC to TFT in wallet](threefold_connect_btc)
     - [Binance DEFI Exchange](tft_bsc_bridge)
   - [Tokenomics](tokenomics)
+  - [Token Overview](token_overview)
 - [Use ThreeFold](grid_use)
 - [Carbon Double Win](energy_savings)
     - [Light Bulb vs Digital Twin](bulb_comparison_twin)

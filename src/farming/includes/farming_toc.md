@@ -8,3 +8,5 @@
 - [Planet Positive Farming](planet_positive_farming) - our TFGrid offsets carbon 3x more than it uses.
 
 !!!include:farming_steps
+
+!!!include:farming_logic_disclaimer

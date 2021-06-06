@@ -46,10 +46,6 @@ It is recommended to have the following hardware configuration:
 
 You will be required to provide your own hosting as well as setup and administer your own farm.
 
-!!!include:farming_logic_disclaimer
-
-<!-- > Note: Both the 'Pre-configured Nodes' and the 'DIY Nodes' require technical expertise to create your own farm and add your servers/ nodes to the ThreeFold_Grid. Learn more about it [here](https://sdk.threefold.io/#/farm_setup_management). -->
-
 
 
 !!!include:farming_toc

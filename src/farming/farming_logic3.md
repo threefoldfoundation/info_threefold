@@ -62,4 +62,3 @@ The consensus_engine measures uptime and other SLA parameters. If the required m
 
 !!!include:farming_toc
 
-!!!include:farming_logic_disclaimer

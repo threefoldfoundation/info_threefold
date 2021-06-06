@@ -6,7 +6,7 @@ We have created a calculator to allow you to simulate your potential return on i
 
 The [Farming Logic v3 document](farming_logic3) describes how many TFT your node will receive as CPR_reward. 
 
-Thanks to our sales model you also do not have to sell the capacity of your server(s), the threefold_approach takes care of this.
+Thanks to our sales model you also do not have to sell the capacity of your server(s), the threefold_channel takes care of this.
 
 ## Example Hardware
 
@@ -22,10 +22,10 @@ Thanks to our sales model you also do not have to sell the capacity of your serv
 - ThreeFold Technology is not working
   - _FACT: The technology is already working today_
 - The ThreeFold token does not appreciate in value
-  - _Unlikely The cloud business by itself is growing and with increasing updat of the TF Grid as an alternative to the oligolopies there will be token scarsity._
-  - _The ThreeFold_Council can make changes the business model to create more scarsity (burn a higher percentage of the tokens)._
+  - _Unlikely: The cloud business by itself is growing and with increasing update of the TF Grid as an alternative to the large cloud vendors there will be token scarsity._
+  - _The ThreeFold_Council can make changes the business model to create more scarsity (e.g. burn a higher percentage of the tokens)._
 - Digital Currencies become illegal
-  - _Unlikely: This is not really possible because TFT has a utility - TFT represents  unit of compute and storage capacity._
+  - _Unlikely: TFT has a utility - TFT represents  unit of compute and storage capacity._
   - _Even if this would happen despite all logic, then normal FIAT currencies can be used.  The token is only a effective means of value exchange._
 
 ## Calculator
