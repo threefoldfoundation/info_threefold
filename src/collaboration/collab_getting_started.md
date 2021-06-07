@@ -6,6 +6,7 @@
 - get github account
 - install 3bot-connect on your phone
 - login into circles.threefold.me & forum.threefold.io
+- use github where relevant
 
 ## Tools to get comfortable with
 
