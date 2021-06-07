@@ -30,7 +30,7 @@ Adnan Fatayerji is the managing director.
 
 ## Structure: Summer 2020
 
-![](img/labs_it_license.jpg) ':size=800x900')
+![](img/labs_it_license.jpg)':size=800x900')
 
 ThreeFold_Dubai, a free zone establishment with License No: 17194 with its principal place of business at Q1-07-038/B SAIF Zone, United Arab Emirates, PO Box 514608.
 
