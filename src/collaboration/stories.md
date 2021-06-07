@@ -70,3 +70,5 @@ Describe what the story is about.
 ## REMARKS:
 
 - List all remarks
+
+!!!def alias:Stories

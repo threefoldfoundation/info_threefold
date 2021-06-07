@@ -1,6 +1,8 @@
 ## Active user involvement.
 
-It’s not always possible to have users (community) directly involved in collaboration projects, particularly if the agile collaboration project is to build a product where the real end users will be external customers or consumers.
+It’s not always possible to have users (community) directly involved in collaboration projects, 
+particularly if the agile collaboration project is to build a product where the real users do not understand the disruptive nature yet.
+e.g. Ford trying to get feedback from people when he was trying to introduce the car when people where used to horses.
 
 In this event it is imperative to have a senior and experienced user representative involved throughout.
 
@@ -26,3 +28,4 @@ Not convinced? Here’s 16 reasons why!
 When the going gets tough, the whole team – business and technical – work together!
 
 
+!!!include:agileprinciples_toc

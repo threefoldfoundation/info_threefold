@@ -19,3 +19,5 @@ So what does the business expect from its collaboration teams? Deliver the agree
 Although the scope of an Agile collaboration project is variable, it is acknowledged that only a fraction of any product/project is really used by its users and therefore that not all features of a product are really essential. For this philosophy to work, it’s imperative to start collaboration (dependencies permitting) with the core, highest priority features, making sure they are delivered in the earliest iterations.
 
 Unlike most collaboration projects, the result is that the business has a fixed budget, based on the resources it can afford to invest in the project, and can make plans based on a launch date that is certain.
+
+!!!include:agileprinciples_toc

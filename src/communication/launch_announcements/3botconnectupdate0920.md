@@ -9,6 +9,6 @@ In order to create a 3Bot ID, and access your 3Bot or other TF Grid solutions, y
 Learn more about Threefold Connect [here](sdk:threefold_connect)!
 
 - [Install | Google Play](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=en)
-- [Install | Apple](https://apps.apple.com/us/app/3bot-connect/id1459845885)
+- [Install | Apple](https://apps.apple.com/us/app/threefold_connect/id1459845885)
 
 There's been a recent update to 3Bot Connect. Make sure to update your app or install it via one of the links above.

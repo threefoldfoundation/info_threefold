@@ -68,7 +68,7 @@
 - [November 12: November AMA Recording](novamarecording)
 - [November 12: ThreeFold Tech Recognized by Deloitte Belgium](tftechfinalist)
 - [November 13: ThreeFold @ Odyssey Momentum 2020](tfodyssey2020)
-- [November 17/18: 3Bot Connect Now ThreeFold Connect](3botconnect2tfconnect)
+- [November 17/18: 3Bot Connect Now ThreeFold Connect](threefold_connect)
 - [November 18: Liquid Breach, Actions Suggested](liquidbreach)
 - [November 20: ThreeFold_Grid 2.3 is Live!](tfgrid23)
 - [November 27: ThreeFold Partners With Presearch](threefoldpresearch)
@@ -98,7 +98,7 @@
 - [September 16: P2P Solutions](p2psolutions)
 - [September 17: TF Grid 2.2 Upgrade Announcement](tfgrid22_announcement)
 - [September 22: TF Grid 2.2 is Live!](tfgrid22_live)
-- [September 23: 3Bot Connect App Update](3botconnectupdate0920)
+- [September 23: 3Bot Connect App Update](threefold_connectupdate0920)
 - [September 25: Conversation About The Social Dilemma](socialdilemmaconvo)
 - [September 29: Kristof on Block Speak](kristofblockspeak)
 

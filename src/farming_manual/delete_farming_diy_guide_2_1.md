@@ -9,7 +9,7 @@ Note: This is for people who are more technical.
 As a first step, you need to get yourself a ThreeFold Connect identity.
 This can be done by downloading the app on your smartphone and creating yourself an identity. Please be aware that this is to be your digital identity on the grid, and holds the keys to access it. The app provides you with access to ThreeFold social media platforms, has a wallet for managing TFT’s and provides support access.
 
-The app can be found on the [Google Play store](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=en) and [Apple Appstore](https://apps.apple.com/us/app/3bot-connect/id1459845885).
+The app can be found on the [Google Play store](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=en) and [Apple Appstore](https://apps.apple.com/us/app/threefold_connect/id1459845885).
 
 ## Step 2: Create a Network on the ThreeFold Marketplace
 

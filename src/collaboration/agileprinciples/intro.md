@@ -9,3 +9,4 @@ We believe that using some smart tools which have proven to work can make a big 
 
 The information in this repo tries to give you inspiration how this can be done.
 
+!!!include:agileprinciples_toc

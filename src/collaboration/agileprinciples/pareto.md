@@ -22,3 +22,5 @@ Apart from reduced cost, reduced risk and higher benefits by being quicker to ma
 So all of this is really common sense I suppose. But it’s amazing how often collaboration teams, with all the right intentions, over-engineer their solution. Either technically, or functionally, or both.
 
 The really tough question, however, is can you see up-front *which* 20% is the important 20%? – the 20% that will deliver 80% of the results. In very many cases, the answer sadly is no.
+
+!!!include:agileprinciples_toc

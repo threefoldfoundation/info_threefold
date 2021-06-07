@@ -18,3 +18,5 @@ It’s also important to really complete each feature before moving on to the ne
 Of course multiple features can be developed in parallel in a team situation. But within the work of each contributor, do not move on to a new feature until the last one is verified. This is important to ensure the overall product is in a ready state at the end of the Sprint, not in a state where multiple features are 90% complete or untested, as is more usual in traditional collaboration projects.
 
 In agile collaboration, “done” really should mean “DONE!“.
+
+!!!include:agileprinciples_toc

@@ -1,7 +1,7 @@
 ## Getting TFTs on the Stellar network
 
 <!--
-TODO Generic description to get yourself / your 3bot.connect on the stellar network and get (free) TFTs
+TODO Generic description to get yourself / your threefold_connect on the stellar network and get (free) TFTs
 -->
 
 - - Getting Free TFT is currently only available on testnet, the website for production is coming soon. \*
