@@ -1,4 +1,5 @@
 # Build A Better World Through Aware Collaboration (2017)
+
 ### By Kristof De Spiegeleer
 
 ![](https://images.unsplash.com/photo-1473082538761-d4c7cd3f5e91?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2d087a804b7c1766a8afffd2b49b5118&auto=format&fit=crop&w=1512&q=80)
@@ -87,11 +88,11 @@ some examples what was thought to us (wrongly)
 - "the russians" will kill us, oh no, now it is, "the muslim terrorists" will destroy us
 - we are thought don't trust others, they can hurt you, it's better to distrust
 
-in a business context
+in a business context, all below we believe to be wrong
 
 - we are thought to create complex contracts to protect us, out of fear really
 - we aren't ready with our product yet, let's not tell because otherwise they won't buy
-- we something thing a small lie is ok, because it serves our bigger purpose, e.g. because otherwise we won't get the required funding
+- we something think a small lie is ok, because it serves our bigger purpose, e.g. because otherwise we won't get the required funding.
 - we need to do a lot of marketing, to pretend we are bigger than we are
 - the usage of hollow words, to let us sound big (we are leading, world bla bla company...)
 - trying to get known to people not out of business need but rather for our own "ego", see what we can do, see how successful we are.
