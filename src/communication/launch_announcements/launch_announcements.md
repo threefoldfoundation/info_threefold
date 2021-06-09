@@ -2,6 +2,12 @@
 
 ## 2021
 
+### June
+
+- [June 2: Q2 3Node Batch is Closing Soon](q2_closing_soon)
+- [June 4: Q2 3Node Batch is Sold Out! Q3 Pre-Registration is Open!](q2_sold_out)
+- [June 8: 3,000+ 3Node Orders Over the Weekend!](3k3nodes)
+
 ### May
 
 - [May 4: ThreeFold Partners with Dragonchain](threefold_dragonchain)
@@ -10,7 +16,7 @@
 - [May 20: ThreeFold Two-Way Chat Update](how_to_use_chat_note)
 - [May 21: Products & Services Update](products_services_may_21)
 - [May 24: ThreeFold at AIBC Summit in Dubai](aibc_summit)
-- [May 28: The Grid IS Growing](grid_growth_28_may)
+- [May 28: The Grid is Growing](grid_growth_28_may)
 
 ### April
 - [April 1: ThreeFold Q1 2021 Recap](q12021recap)
