@@ -1,5 +1,7 @@
 ![](img/titanv21soon.png)
 
-"The ThreeFold Grid ... can add tangible value to Dfinity or Solid and other similar projects if they want to benefit from a truly decentralized and sovereign infrastructure instead of relying on current data center models."
+📣 **For those who pre-registered, here's a 24 hour heads up: the Titan v2.1 3Node is just about ready to pre-order!**
 
-🗞 Full Article: **[Is a new decentralized internet, or Web 3.0, possible?](https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/is-a-new-decentralized-internet-or-web-3-0-possible/amp)** via CoinTelegraph.
+Keep an eye on your inbox (with the email you used to pre-register) tomorrow at this time for a link to the node shop where you'll be able to pre-order your 3Node with priority before we open to the wider public.
+
+*For everyone else, you'll have your chance 24 hours after that.*
