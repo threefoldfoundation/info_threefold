@@ -1,3 +1,5 @@
+# April 20: Say Hello to the Dispersed Storage Algorithm
+
 ![](img/dispersed_storage_hello.png)
 
 In most distributed systems, data is stored multiple times to guarantee redundancy. This leads to a lot of unnecessary overhead and is also not the most secure mechanism.
