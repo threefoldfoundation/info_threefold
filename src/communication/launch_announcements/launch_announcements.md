@@ -7,6 +7,8 @@
 - [June 2: Q2 3Node Batch is Closing Soon](q2_closing_soon)
 - [June 4: Q2 3Node Batch is Sold Out! Q3 Pre-Registration is Open!](q2_sold_out)
 - [June 8: 3,000+ 3Node Orders Over the Weekend!](3k3nodes)
+- [June 9: Titan V2.1 is Almost Ready for Pre-Order](titanv21soon)
+- [June 10: ThreeFold Coverage in CoinTelegraph!](tfcointelegraph0621)
 
 ### May
 
