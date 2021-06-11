@@ -3,7 +3,7 @@
 
 # How to Buy and Sell TFT
 
-Find below a table that shows all buying options for TFT. Note that exchanges and wallets have restrictions on where they can sell crypto If you are new to buying and selling digital currencies, we invite you to visit the [New to Tokens](newtotokens) section. 
+Find below a table that shows all buying options for TFT. Note that exchanges and wallets have restrictions on where they can sell crypto. If you are new to buying and selling digital currencies, we invite you to visit the [New to Tokens](newtotokens) section. 
 
 !!!include:tft_ways_to_buy_include
 
