@@ -11,8 +11,6 @@ We are in a position to become the standard of lossless data compression for the
 
 ### Status Today
 
-
-
 Learn more about this project on [the Alliance for a Conscious Internet](https://www.consciousinternet.org/index.html#/projects/zetako).
 
 ### Team
@@ -25,6 +23,6 @@ Learn more about this project on [the Alliance for a Conscious Internet](https:/
 
 ### Milestones
 
-| Name         | Date   | Funding needed (TFT) | Description
-|:-------------|--------|-------------|-----------------|
-| Integration on the TF Grid |  2020 |  500,000 | Integration of new data lossless compression technology in TF Grid |
+| Name                       | Date | Funding needed (TFT) | Description                                                        |
+| :------------------------- | ---- | -------------------- | ------------------------------------------------------------------ |
+| Integration on the TF Grid | 2020 | 500,000              | Integration of new data lossless compression technology in TF Grid |

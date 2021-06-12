@@ -20,3 +20,6 @@ Currently I am mainly involved in the token and blockchain related projects:
 - [TFT on Stellar](https://github.com/threefoldfoundation/tft-stellar)
 - [TFTA trading bot](https://github.com/threefoldfoundation/tfta-trader)
 - [ blockchain functionality in js-sdk](https://github.com/threefoldtech/js-sdk)
+
+
+!!!def alias:vanmiegr,rob_van_mieghem

@@ -33,3 +33,5 @@ They collaborate with one another to improve their solutions, efficiency, reach,
 At this stage 20+ do-good for the planet projects have joined the Alliance for a Conscious Internet and pledged to migrate their solutions on the ThreeFold_Grid, supporting the movement of a new peer-to-peer Internet by allowing their solutions to become first use cases and experiences of Conscious Internet - the new decentralized digital world.
 
 Learn more about ACI projects and people on [Alliance for a Conscious Internet website](https://www.consciousinternet.org/).
+
+!!!def alias:aci

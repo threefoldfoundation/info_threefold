@@ -26,6 +26,7 @@
     - [Carbon Savings](carbon_double_win)
     - [Energy Savings Storage](energy_savings_storage)
     - [Energy Savings Twin](energy_savings_digital_twin)
+- [Team Expansion](team_expansion)
 - [Technology](internet4:technology)
   - [TFGrid](internet4:zos_3node_tfgrid_intro)
   - [Smart Contract for IT](internet4:smartcontract_it)

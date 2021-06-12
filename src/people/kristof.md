@@ -39,3 +39,6 @@ please bare with me, I am completely overloaded and telegram nor email I can pro
 
 
 ![](img/kristof_hearts.png)
+
+!!!def alias:despiegk
+
