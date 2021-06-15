@@ -11,7 +11,7 @@ We are looking for a technical community manager and team lead for helping our c
 ## Job Description
 
 - be a team lead for X nr of other community managers, help them to be effective and grow in their human and technical skills.
-- motivate your gloval team of contributors to spread the word and achieve our goals
+- motivate your global team of contributors to spread the word and achieve our goals
 - create training & technical material (video, wiki based, ...) to allow people to experience how our TFGrid 3.0 will work and learn about it
 - work with community (will be 100+ people soon) to show them how to develop solutions on top of TFGrid
 - organize video conference meetings as well as Virtual Reality meetings (we have our own tools running on the grid)
