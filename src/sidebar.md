@@ -31,7 +31,7 @@
   - [TFGrid](internet4:zos_3node_tfgrid_intro)
   - [Smart Contract for IT](internet4:smartcontract_it)
   - [CU/SU/NU primitives](internet4:tfgrid_primitives)
-  - [Digital Twin Server](internet4:digitaltwin_server)
+  - [Digital Twin Hub](internet4:digitaltwin_hub)
   - [Digital Twin Experiences](internet4:digitaltwin_experiences)
   - [Compare = Competitive](funding:tf_compare)
   - [Consensus Mechanism](internet4:consensus3)

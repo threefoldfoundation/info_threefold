@@ -1,4 +1,4 @@
-# Digital Twin Server
+# Digital Twin Hub
 
 Is the backend for our digital life.
 

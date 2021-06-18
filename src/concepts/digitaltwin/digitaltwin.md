@@ -23,7 +23,7 @@ More info see [Digital Twin Product Info](digital_twin_prod).
 
 ## More info
 
-- digitaltwin_server : your personal data server on the tfgrid
+- digitaltwin_hub : your personal data server on the tfgrid
 - digitaltwin_experiences : first set of experiences as implemented
 
 !!!def alias:digital_twin, dtwin
