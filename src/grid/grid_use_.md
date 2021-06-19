@@ -5,7 +5,9 @@ There are many use-cases being built on top of the ThreeFold Grid to use the cap
 
 ## Cloud
 
-Use the ThreeFold grid as alternative on Google or Amazon Cloud.
+![](img/cloud22.png)
+
+Use the ThreeFold grid as your cloud platform. Any workload which is Linux compatible can run on our Peer2Peer grid.
 
 Benefits
 
