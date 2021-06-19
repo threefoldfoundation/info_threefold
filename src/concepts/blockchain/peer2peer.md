@@ -1,4 +1,4 @@
-# Peer2Peer
+# Peer To Peer
 
 Peer-to-peer (P2P) computing or networking is a distributed application architecture that partitions tasks or workloads between peers. Peers are equally privileged, equipotent participants in the application. They are said to form a peer-to-peer network of nodes.
 
@@ -22,4 +22,4 @@ Its a very overlooked concept in the IT industry.
 
 ![](img/peer2peer.png)
 
-!!!def alias:P2P,peer_to_peer
+!!!def alias:peer2peer

@@ -5,7 +5,16 @@ There are many use-cases being built on top of the ThreeFold Grid to use the cap
 
 ## Cloud
 
-### ThreeFold Kubernetes Cloud (test phase)
+Use the ThreeFold grid as alternative on Google or Amazon Cloud.
+
+Benefits
+
+- more local
+- decentralized, data sovereign
+- green: carbon double win
+- powerful
+
+### TFGrid Kubernetes Cloud (test phase)
 
 A scalable private cloud that comes with a virtual data center solution, a zstor filesystem and a planetary network. TF P2P Cloud represents the next evolution of cloud and brings the most powerful architecture for IT workloads to scale. 
 
@@ -14,18 +23,48 @@ A scalable private cloud that comes with a virtual data center solution, a zstor
 
 > Note: TF P2P Cloud  is currently in Beta version. 
 
-### ThreeFold Kubernetes Marketplace (test phase)
+### TFGrid Solutions Marketplace (test phase)
  
 A marketplace of peer-to-peer solutions for communities to scale privately in a truly decentralized way. From web publishing to communication platforms and deploying blockchain nodes, find all the peer-to-peer applications your community may need. 
 
-- Visit TF P2P Cloud website [here](https://threefold.io/marketplace/).
-- Visit TF P2P Cloud wiki [here](https://threefold.io/info/cloud#/cloud__evdc_marketplace_overview).
+- Visit TF Marketplace website [here](https://threefold.io/marketplace/).
+- Visit TF Marketplace wiki [here](https://threefold.io/info/cloud#/cloud__evdc_marketplace_overview).
 
 > Note: TF P2P Marketplace is currently in Beta version. 
 
 ## Internet Apps
 
-###
+![](img/internet_pain.png)
+
+### Filemanager / Office Editor
+
+![](img/office2.png)
+
+see [AYDO](twin:aydo)
+
+### Zoom Alternative
+
+![](img/internet_flow_transp.png)
+
+see [Kutana](twin:kutana)
+
+### Web publishing system
+
+![](img/publishing_system.png)
+
+see [Publishing System](publisher)
+
+### Sovereign Chat System
+
+![](img/chat.png)
+
+See [Twin Chat](twin:twin_chat)
+
+### Cloud Browser Engine
+
+![](img/browsers.png)
+
+See [Browser](accelerator:hercules_browser)
 
 ## Developers
 
@@ -46,4 +85,3 @@ A Digital Twin is a primary use case on top of the ThreeFold Grid. A private and
 - Visit Digital Twin wiki [here](https://info.mydigitaltwin.io)
 
 > Note: Digital Twin is currently in final stages of development. 
-

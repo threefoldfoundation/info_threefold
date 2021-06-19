@@ -21,11 +21,7 @@
   - [Tokenomics](tokenomics)
   - [Token Overview](token_overview)
 - [Use ThreeFold](grid_use)
-- [Carbon Double Win](energy_savings)
-    - [Light Bulb vs Digital Twin](bulb_comparison_twin)
-    - [Carbon Savings](carbon_double_win)
-    - [Energy Savings Storage](energy_savings_storage)
-    - [Energy Savings Twin](energy_savings_digital_twin)
+!!!include:carbonwin_sidebar
 - [Team Expansion](team_expansion)
 - [Technology](internet4:technology)
   - [TFGrid](internet4:zos_3node_tfgrid_intro)
