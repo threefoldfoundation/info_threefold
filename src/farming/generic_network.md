@@ -1,8 +1,8 @@
 ## Networking setup for the TF Grid
 
-So you have become a farmer. And you have bought some shiny new nodes to host the Threefold Grid and provide for services on that grid. Grid means network. The network is the computer. There are a few ways to connnect a node to a grid, one of them consisting in merely connecting a node to your house network, and more than that. This document surmises you will connect several nodes on a network, separate from other networks in your location, solely for the purpose to add nodes to the grid in a more professional setup, where multiple nodes live on the same setup
+Grid means network. There are a few ways to connnect a node to a grid, one of them consisting in merely connecting a node to your house network, and more than that. This document surmises you will connect several nodes on a network, separate from other networks in your location, solely for the purpose to add nodes to the grid in a more professional setup, where multiple nodes live on the same setup
 
-Making the grid requires running ZOS on a node (making it a 3node). It is just a matter of booting it with a USB stick, or with a dhcp/bootp/tftp server with the right configuration so that the node can start the OS. Once it starts booting, the OS detects the NICs, and starts the network configuration. A Node can only continue it's boot process till the end when it effectively has received an IP address and a route to the Internet. Without that, the Node will retry indefinitely to obtain Internet access and not finish it's startup.
+Making the grid requires running ZOS on a node (making it a 3node). It is just a matter of booting it with a USB stick, or with a dhcp/bootp/tftp server with the right configuration so that the node can start the OS. Once it starts booting, the OS detects the NICs, and starts the network configuration. A Node can only continue it's boot process till the end when it effectively has received an IP address and a route to the Internet. Without that, the node will retry indefinitely to obtain Internet access and not finish it's startup.
 
 So a Node needs to be connected to a wired network, providing a dhcp server and a default gateway to the Internet, be it NATed or plainly on the public network, where any route to the Internet, be it IPv4 or IPv6 or both is sufficient.
 
@@ -17,7 +17,7 @@ What you'll need.
   - a link to the Internet with appropriate bandwith for the services you want to provide.
   - a router that connects your internal network with the Internet Uplink.  This can be a simple Set-Top box provided by the network provider or a more professional dedicated router. 
   - one or more switches in function of the number of nodes you need to connect
-  - medim knowledge about how to configure your switch and router with regards to:
+  - medium knowledge about how to configure your switch and router with regards to:
     - managing public IP addresses on the public router
     - managing the switch capabilities of the router or managing a seperate switch
     - managing the DHCP capabilities of the router or mantain a seprate DHCP server on  your home or corporate network.
