@@ -92,6 +92,7 @@
     - [User Involvement](user_involvement)
   - [How to Use Chat](how_to_use_chat)
 - [Definitions & Concepts](definitions_concepts)
+- [Release Notes](release_notes)
 - [Glossary](defs)
 - [Legal](legal:legal)
   - [Definitions](legal:definitions_legal)
