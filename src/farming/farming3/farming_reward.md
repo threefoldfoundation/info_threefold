@@ -48,9 +48,9 @@ Farmers receive rewards as follows:
 
 ## Learn More
 
+- **[Farming Reward Calculator](farming_calculator).**
 - Compute and storage units on the [Cloud Units](cloudunits) page.
 - [Price list for CU/SU/NU](cloudunits_pricing)
-- How to calculate your [ROI on a 3Node investment](farming_calculator).
 
 ## Remarks
 
