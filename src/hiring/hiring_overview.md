@@ -9,6 +9,7 @@
 | [Senior Developer Digital Twin](tech_protocolme_engineer)                 | Senior developer protocol.me / digital_twin, help us build the future           |
 | [Senior Developer Zero-OS](tech_zos_engineer)                             | Senior developer zero-os, help us build the future                              |
 | [Senior Developer Blockchain](tech_blockchain_engineer)                   | Senior developer for our TFgrid Blockchain, help us build the future            |
+| [QA Engineer](tech_qa_engineer)                                           | Bring quality of our development to a high level                                |
 
 ## soon
 
