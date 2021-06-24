@@ -4,7 +4,7 @@
 
 We have created a calculator to allow you to simulate your potential return on investment of becoming a Farmer. Different nodes will produce a different CPR. 
 
-The [Farming Logic v3 document](farming_reward) describes how many TFT your node will receive as CPR_reward. 
+The [Farming Logic v3 document](farming_reward) describes how many TFT your node will receive. 
 
 Thanks to our sales model you also do not have to sell the capacity of your server(s), the threefold_channel takes care of this.
 
@@ -15,19 +15,7 @@ Thanks to our sales model you also do not have to sell the capacity of your serv
 ## Example Simulation
 
 
-![](img/farming_simulation_1.png)
-
-![](img/farming_simulation_2.png)
-
-remarks
-- Once a node is registered the CPR reward, and cultivation % are registered on the blockchain, your farming will be in line with those parameters till end of life.
-- Farmed TFT gets staked (pooled) per 3Node (per server) and only unlock if +30% is used of capacity or max of 24 months.
-- Minimal SLA's need to be achieved before the farming reward can be earned (uptime, bandwidth, latency, ...)
-- If you delete your 3Node, the staked tokens will remain on your name and come available after 24 months since start.
-- you can sell your own capacity, this will give you additional 40% cultivation rewards (so 50% total), the rest is for marketing and burning.
-- These are farming logic terms for 3.0, which will be activated summer 2021
-- The CPR reward is regularly revisited by the Wisdom Council to reflect price changes of the TFT, your CPR reward does not change !
-- Starting Q4 2021, you can also become a network farmer, which means you can get income to allow people to use your IPV4 addresses and internet network capacity for public services
+> TODO
 
 
 ## Calculator
@@ -51,7 +39,7 @@ Do your own calculation:
 ## Remarks
 
 - The calculation is only valid for Farming Version 3.
-- Please read [how to use our Farming Calculator](farming_calculator_howto).
+<!-- - Please read [how to use our Farming Calculator](farming_calculator_howto). -->
 
 !!!include:farming_toc
 

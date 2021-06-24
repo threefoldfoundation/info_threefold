@@ -2,9 +2,9 @@
 
 ## For The Farmer
 
-### Higher CPR reward = more income
+### Higher Cloud Unit Reward reward = more income
 
-A certified farmer gets more CPR_reward because a certified farmer need to adhere to higher service level agreements and buy certified farming solutions or certifiy their existing 3nodes.
+A certified farmer gets more Cloud Unit Reward_reward because a certified farmer need to adhere to higher service level agreements and buy certified farming solutions or certifiy their existing 3nodes.
 
 ### TF Tech Support
 

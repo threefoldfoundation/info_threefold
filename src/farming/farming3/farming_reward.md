@@ -54,7 +54,7 @@ Farmers receive rewards as follows:
 
 ## Remarks
 
-*A small amount of Farmers are still on v2.0 farming reward which is based on a difficulty level in relation to max amount of TFT. (4 Billion) see [Farming Logic 2.0](farming_logic2). 2.0 Farmers can choose to upgrade to the 3.0 Farming Model. These 2.0 farmers will have to sign an agreement with ThreeFold to agree on terms of the future farming, these could be different compared to the default above descrived v3.0 terms in relation to CPR Reward and Staking modalities. If you are a 2.0 farmer and you want to upgrade contact TFTech please.*
+*A small amount of Farmers are still on v2.0 farming reward which is based on a difficulty level in relation to max amount of TFT. (4 Billion) see [Farming Logic 2.0](farming_logic2). 2.0 Farmers can choose to upgrade to the 3.0 Farming Model. These 2.0 farmers will have to sign an agreement with ThreeFold to agree on terms of the future farming, these could be different compared to the default above descrived v3.0 terms in relation to Cloud Unit Reward Reward and Staking modalities. If you are a 2.0 farmer and you want to upgrade contact TFTech please.*
 
 *Note: The consensus driven token reward engine hasn't been implemented yet. It will be live with ThreeFold Grid 3.0 in H2 2021.*
 

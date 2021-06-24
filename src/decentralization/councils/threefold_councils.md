@@ -12,7 +12,7 @@ A group of 10 people who protect the interests of the ThreeFold Foundation and s
 
 - Allocate and distribute financial support for consciously aligned do-good projects and organizations
 - Protect the interests of the ThreeFold vision and mission
-- Agree on changes in protocol e.g. value of [CPR](cloud_production_rate) Reward
+- Agree on changes in protocol e.g. value of cloud unit rewards Reward
 - And more
 
 Read about the [**Wisdom Council**](wisdom_council).

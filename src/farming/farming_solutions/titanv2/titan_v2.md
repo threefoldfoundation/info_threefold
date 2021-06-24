@@ -14,19 +14,7 @@ The Titan Node V2 is a medium sized node that already packs quite a punch and wi
 | Storage | SSD Capacity     | 480 | GB            |
 | Chassis | Mini-PC Barebone |     |               |
 
-## CPR 
-
-####  The cloud production rate (CPR) of the Titan v2 is 14
-
-- cloud production rate = 1.5 x CU + SU
-- CPR of Titan V2 = 14
-
-
-#### Farming Tokens at this CPR Number. (Tokens received for adding capacity to the grid) 
-
-A farmer receives 15 TFT per CPR for the duration of 60 months.
-
-- 14 * 15 * 60 = 12.413 TFT for farming over 5 year.
+>TODO: we have updated calculator, see [farming_calculator](farming_calculator)
 
 #### Carbon Double Win
 
@@ -38,9 +26,9 @@ A farmer receives 15 TFT per CPR for the duration of 60 months.
 As Cultivation is harder to predict we can't put any numbers against it.
 Of all cultivated tokens on a 3Node the farmer receives 10%.
 
-#### Titan v2 Farming Calculator
+<!-- #### Titan v2 Farming Calculator
 
-- see [titan v2 calculator](titan_v2_calculator) for calculator info
+- see [titan v2 calculator](titan_v2_calculator) for calculator info -->
 
 ## Dimensions
 

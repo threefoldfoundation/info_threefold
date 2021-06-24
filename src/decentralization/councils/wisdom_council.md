@@ -14,7 +14,7 @@ To financially support consciously aligned do-good projects and organizations, a
 
 - Protect the interests of the ThreeFold Foundation
 - Approve TFT donations to doing good projects
-- Agree on changes in protocol e.g. value of [CPR](cloud_production_rate) Reward
+- Agree on changes in protocol e.g. value of [Cloud Unit Reward](cloud_production_rate) Reward
 
 ## Process
 
