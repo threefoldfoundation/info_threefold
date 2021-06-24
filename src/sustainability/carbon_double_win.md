@@ -2,7 +2,7 @@
 
 ThreeFold has as aim to take 2x more carbon out of the air than we put in.
 
-This makes us 2x Carbon negative (see [here](cloud_units_carbon_double_win)).
+This makes us 2x Carbon negative (see [here](cloudunits_carbon_double_win)).
 
 ![](img/carbon_neutral_logo2.png)
 
@@ -18,7 +18,7 @@ We work together with Take Action Global to let students farm carbon credits. Th
 
 ![](img/carbon_neutral4.png)
 
-> [CALCULATIONS ABOUT HOW WE GO 2X Carbon Double Win](cloud_units_carbon_double_win)
+> [CALCULATIONS ABOUT HOW WE GO 2X Carbon Double Win](cloudunits_carbon_double_win)
 
 !!!include:energy_savings_toc
 

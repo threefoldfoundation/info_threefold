@@ -43,7 +43,7 @@ The ThreeFold_Grid will attract individuals and communities to build, host and u
 
 - 100% ownership of their data, no more intermediaries.
 - Superior reliability through peer-to-peer (decentralized) hosting
-- Guaranteed and transparent execution of software through the [Smart Contract for IT](tftech:smartcontract_it).
+- Guaranteed and transparent execution of software through the [Smart Contract for IT](internet4:smartcontract_it).
 
 Developers can rent capacity from the ThreeFold_Grid in exchange for TFT only – no other currencies are used. This creates a natural economic demand and we call this process [cultivation](cultivation).
 

@@ -8,7 +8,7 @@ Once registered in the TF Directory, people and organizations that connect 3Node
 
 Users can then access the ThreeFold_Grid with 3Bot, a virtual system administrator that executes the commands and functions (reservation of capacity, editing workloads, etc.) directly on the operating system level via a smart contract for IT.  
 
-This permits users to see the available capacity on the TF Grid Explorer and reserve cloud_units on the 3Nodes of their choice. All reservation of capacity is done in the means of TFT.
+This permits users to see the available capacity on the TF Grid Explorer and reserve cloudunits on the 3Nodes of their choice. All reservation of capacity is done in the means of TFT.
 
 All the architecture from the operating system level to the user level is fully automated which enables a ultra-secure peer-to-peer infrastructure and economy. 
 
@@ -67,7 +67,7 @@ The purpose of the smart contract for IT is to create and enable autonomous IT. 
 
 While sticking to these principles, it provides the basis to consider and describe everything in a contract type format and to deploy any self-driving and self-healing application on the ThreeFold_Grid.
 
-Learn more about smart contract for IT [here](tftech:smartcontract_it).
+Learn more about smart contract for IT [here](internet4:smartcontract_it).
 
 ### 3Bot
 

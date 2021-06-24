@@ -72,7 +72,7 @@ ThreeFold believes that such a system will ensure an network of trust that rewar
 | Support **              | Priority                | Yes                     |
 
 
-> [More info see here](tftech:farming_types)
+> [More info see here](farming_types)
 
 !!!include:farming_logic_disclaimer
 

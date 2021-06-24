@@ -37,6 +37,6 @@ ThreeFold capacity provides the following 3 basic services:
 
 These basic services are ordered through the TF Chain only. SLA's (service level agreements) cannot be guaranteed on Unmanaged Capacity and as such not registered in the TF Chain.
 
-See [cloud_units](cloud_units) for more info.
+See [cloudunits](cloudunits) for more info.
 
 !!!def alias:IC,internet_capacity,threefold_capacity,it_capacity,ict_capacity,cloud_capacity
