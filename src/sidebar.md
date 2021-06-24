@@ -8,7 +8,7 @@
   - [Pricing](grid_pricing)
 - [Farming](farming_home)
   - [What Is Farming](farming_intro)
-  - [Farming Logic v3](farming_logic3)
+  - [Farming Logic v3](farming_reward)
 - [Tokens](token_home)
   - [What is TFT](token_what)
   - [Features](token_features)

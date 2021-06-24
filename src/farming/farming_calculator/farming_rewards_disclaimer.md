@@ -2,4 +2,4 @@
 
 !!!include:tft_not_investment
 
-To learn more about the farming logic for TFGrid 3.0 see [farming logic](farming_logic3).
+To learn more about the farming logic for TFGrid 3.0 see [farming logic](farming_reward).

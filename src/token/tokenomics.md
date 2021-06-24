@@ -16,7 +16,7 @@ The amount of TFTs that are created by farmers depends on three variables:
 2. Memory Capacity (RAM)
 3. Storage Capacity (SSD/HDD)
 
-Learn more about the variables [here](farming_logic3).
+Learn more about the variables [here](farming_reward).
 
 Tokens are burned as result of cultivation which leads to nr of tokens to be limited.
 

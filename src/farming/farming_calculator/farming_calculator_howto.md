@@ -16,5 +16,5 @@ Best to install onlyoffice, this has been used to create this calculator.
 
 !!!include:farming_toc
 
-!!!include:farming_rewards_disclaimer
+!!!include:farming_reward_disclaimer
 

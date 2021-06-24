@@ -31,7 +31,7 @@ The following calculator allows you to configure your own hardware and do a simu
 - Line 38: Your Machine's CPR Total
 
 
-With your CU and SU totals you can now also calculate how much tokens your machine would farm according to [Farming Logic 3](farming_logic3).
+With your CU and SU totals you can now also calculate how much tokens your machine would farm according to [Farming Logic 3](farming_reward).
 
 This can be done with the CPR Reward calculator found at the bottom of the [Farming Calculator Page](farming_calculator)
 

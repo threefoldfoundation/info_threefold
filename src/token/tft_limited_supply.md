@@ -31,7 +31,7 @@ Dive deeper into how the Threefold Tokens are distributed [see here](token_overv
 
 ## Scarcity to limit TFTs in circulation
 
-Like every item, service, or currency, TFT derives part of its value from scarcity. The way [minting/farming](farming_logic3) was designed enables to limit the amount of TFT available on the market.
+Like every item, service, or currency, TFT derives part of its value from scarcity. The way [minting/farming](farming_reward) was designed enables to limit the amount of TFT available on the market.
 
 The commercial capability of a 3Node is at least 6 times superior than the total amount of TFT that can be created over 4 years. This leads to a shortage of TFT.
 

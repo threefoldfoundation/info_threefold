@@ -1,7 +1,7 @@
 
 # Farming Reward Calculator Certified
 
-![](img/farming_rewards_certified.png)
+![](img/farming_reward_certified.png)
 
 - Operational cost estimate includes power, rackspace, maintenance
 - The token price is the big unknown, do your own simulation
@@ -24,4 +24,4 @@ Note: we took as starting price 0.1 USD for the TFT, your situation can be diffe
 
 !!!include:farming_calculator_howto
 
-!!!include:farming_rewards_disclaimer
+!!!include:farming_reward_disclaimer
