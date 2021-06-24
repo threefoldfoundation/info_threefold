@@ -39,8 +39,6 @@ Tokens for cultivation (usage of the 3Nodes capacity) are not included in this t
 As Cultivation is harder to predict we can't put any numbers against it.
 Of all cultivated tokens on a 3Node the farmer receives 10%.
 
-<!-- TODO : Add link to show how Cultivation is built up -->
-
 ## Dimensions
 
 * Width 203 mm
@@ -51,8 +49,8 @@ Of all cultivated tokens on a 3Node the farmer receives 10%.
 
 ## Buy A Venus V2
 
-Venus V2 Will be available in our pre-register shop soon.
+Venus V2 Will be available in our shop soon.
 
-Visit [pre-register.threefold.io](https://pre-register.threefold.io)
+Visit [shop.threefold.tech](https://shop.threefold.tech)
 
 !!!include:farming_toc

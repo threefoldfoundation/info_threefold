@@ -2,27 +2,39 @@
 
 # Farming Reward Calculator
 
-We have created a calculator to allow you to simulate your potential return on investment of becoming a Farmer. Different nodes will produce a different CPR. 
+We have created a calculator to allow you to simulate your potential return on investment of becoming a Farmer. Different nodes will produce a different Storage Units (SU), Compute Units (CU), and Network Units (NU)
 
 The [Farming Logic v3 document](farming_reward) describes how many TFT your node will receive. 
 
-Thanks to our sales model you also do not have to sell the capacity of your server(s), the threefold_channel takes care of this.
+Thanks to our sales model you also do not have to sell the capacity of your server(s), as we leave incentive for our threefold_channel 's to run a business on top of it. However, farmers can do their own sales to increase their gains.
 
-## Example Hardware
+## Example Hardware CU / SU Calculation
+
+In the first tab of our calculator you will find a quick and easy way to calculate your SU and CU numbers.
 
 ![](img/example_hardware.png ':size=350x')
 
 ## Example Simulation
 
+With these numbers you can now simulate the scenario's think think are possible in both a DIY and a Certified setup.
+Please note the difference in farming rewards to distinguish the two.
 
-> TODO
+### Certified 
+![](simulator_certified_example.png ':size=600x')
 
+### DIY
+![](simulator_diy_example.png ':size=600x')
+
+[Check out our small guide on how to use the Calculator/Simulator](farming_calculator_howto.md)
+Calculations & Certification only valid for Farming Version 3.
 
 ## Calculator
 
+!!!include:farming_reward_disclaimer
+
 Do your own calculation:
 
-- [Reward Simulator for Farming Spreadsheet](https://secure.threefold.me/sheet/#/2/sheet/view/bn9RY8qkB2QSvhNGnk+RNTqiz2YwVoZeGN+UrntDYhU/)
+- [SU/CU Calculator & Reward Simulator for Farming 3.0](https://secure.threefold.me/sheet/#/2/sheet/view/bn9RY8qkB2QSvhNGnk+RNTqiz2YwVoZeGN+UrntDYhU/)
 
 ## Risks
 
@@ -38,11 +50,6 @@ Do your own calculation:
 
 ## Remarks
 
-- The calculation is only valid for Farming Version 3.
-<!-- - Please read [how to use our Farming Calculator](farming_calculator_howto). -->
-
 !!!include:farming_toc
-
 !!!alias tf_farming_simulator,farming_simulation,farming_simulator,farming_calculator
 
-!!!include:farming_reward_disclaimer
