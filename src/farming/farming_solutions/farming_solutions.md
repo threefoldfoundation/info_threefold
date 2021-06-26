@@ -6,8 +6,8 @@
 
 | Certified Farming Nodes            | Cost      | Cloud Units    |
 | ---------------------------------- | --------- | -------------- |
-| [Titan v2](titan_v2)               | 999 EUR   | 8 CU, 2 SU     |
-| [Venus v2](venus_v2)               | TBD EUR   | 24 CU, 28 SU   |
+| [Titan v2.1](titan_v2_1)               | 885 EUR (ex vat)   | 8 CU, 3 SU     |
+| [Saturn v1.0](saturn_v1)               | Coming Soon   | 16 CU, 6 SU   |
 | [scale out node v1](scale_node_v1) | 3000 EUR  | 24 CU, 28 SU   |
 | HP Enterprise 3Node                | 30000 EUR | 128 CU, 112 SU |
 

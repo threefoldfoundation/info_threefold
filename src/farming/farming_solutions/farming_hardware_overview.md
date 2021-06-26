@@ -10,13 +10,13 @@ You'll find below different options to start farming according to how technical 
 
 ![BT-Mazraa_3nodes](img/three3nodes.png)
 
-**Titan V2:** The Titan v2 3Node is a medium sized 3Node that already comes with great hardware specifications.
+**Titan V2.1:** The Titan v2 3Node is a medium sized 3Node that already comes with great hardware specifications.
 
 Plug & farm nodes have already been installed and configured to farm for the customer upon delivery. They require little to no technical knowledge to set-up. All you need is an electricity outlet, internet connection and the TF Connect app on your smartphone to start farming and receive your tokens! All 3Nodes can be hosted using normal DSL connectivity.
 
 You would be required to provide your own hosting but farming cooperatives provide administrative services for your farm.
 
-#### [You can pre-register for the next batch of Titan Nodes here](https://threefold.io/farming/pre-register).
+#### [You can buy the Titan v2.1 in the ThreeFold Node Shop](https://shop.threefold.tech).
 
 !!!include:farming_logic_disclaimer
 
