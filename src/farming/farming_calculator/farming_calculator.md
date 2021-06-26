@@ -20,12 +20,12 @@ With these numbers you can now simulate the scenario's think think are possible 
 Please note the difference in farming rewards to distinguish the two.
 
 ### Certified 
-![](simulator_certified_example.png ':size=600x')
+![](img/simulator_certified_example.png ':size=600x')
 
 ### DIY
-![](simulator_diy_example.png ':size=600x')
+![](img/simulator_diy_example.png ':size=600x')
 
-[Check out our small guide on how to use the Calculator/Simulator](farming_calculator_howto.md)
+[Check out our small guide on how to use the Calculator/Simulator](farming_calculator_howto)
 Calculations & Certification only valid for Farming Version 3.
 
 ## Calculator
@@ -52,4 +52,3 @@ Do your own calculation:
 
 !!!include:farming_toc
 !!!alias tf_farming_simulator,farming_simulation,farming_simulator,farming_calculator
-
