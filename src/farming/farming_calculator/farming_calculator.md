@@ -34,7 +34,8 @@ Calculations & Certification only valid for Farming Version 3. -->
 
 ## Do your own calculation:
 
-> [SU/CU Calculator & Reward Simulator for Farming 3.0](https://secure.threefold.me/sheet/#/2/sheet/view/bn9RY8qkB2QSvhNGnk+RNTqiz2YwVoZeGN+UrntDYhU/)
+> [Farming Reward Simulator for Farming 3.0](https://secure.threefold.me/sheet/#/2/sheet/view/fHBNDO5eW4ZrwJnLNTAlj2VsuQDCbJE7qeyuwjC-FWM/) <BR>
+> This link opens an online spreadsheet which can be downloaded.
 
 !!!include:farming_calculator_howto
 
