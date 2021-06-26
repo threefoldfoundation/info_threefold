@@ -6,13 +6,13 @@ The Titan Node's stronger twin brother, the Saturn V1 is an incredibly powerful 
 
 ## Specifications
 
-|         |                  |     |               |
-| ------- | ---------------- | --- | ------------- |
-| CPU     | AMD              | 12  | logical cores |
-| Memory  |                  | 64  | GB            |
-| Storage | HD Capacity      | 0  | TB            |
-| Storage | SSD Capacity (Nvme)     | 2 | TB            |
-| Chassis | Mini-PC Barebone |     |               |
+|         |                     |     |               |
+| ------- | ------------------- | --- | ------------- |
+| CPU     | AMD                 | 12  | logical cores |
+| Memory  |                     | 64  | GB            |
+| Storage | HD Capacity         | 0   | TB            |
+| Storage | SSD Capacity (Nvme) | 2   | TB            |
+| Chassis | Mini-PC Barebone    |     |               |
 
 
 <!---
@@ -40,7 +40,7 @@ You can download the sheet and change the red numbers in the sheet to see how th
 
 [Try the Calculator](https://secure.threefold.me/sheet/#/2/sheet/view/bn9RY8qkB2QSvhNGnk+RNTqiz2YwVoZeGN+UrntDYhU/)
 
-*To download the sheet click file > export. we recommend editing it in Open Office. Google Sheets and Excel should work as well but some formulas might break*
+*To download the sheet click file > export. we recommend editing it in [onlyoffice](https://www.onlyoffice.com/) . Google Sheets and Excel should work as well but some formulas might break*
 
 ## Dimensions
 

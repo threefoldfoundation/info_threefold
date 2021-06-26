@@ -8,7 +8,7 @@ The [Farming Logic v3 document](farming_reward) describes how many TFT your node
 
 Thanks to our sales model you also do not have to sell the capacity of your server(s), as we leave incentive for our threefold_channel 's to run a business on top of it. However, farmers can do their own sales to increase their gains.
 
-## Example Hardware CU / SU Calculation
+<!-- ## Example Hardware CU / SU Calculation
 
 In the first tab of our calculator you will find a quick and easy way to calculate your SU and CU numbers.
 
@@ -26,15 +26,17 @@ Please note the difference in farming rewards to distinguish the two.
 ![](img/simulator_diy_example.png ':size=600x')
 
 [Check out our small guide on how to use the Calculator/Simulator](farming_calculator_howto)
-Calculations & Certification only valid for Farming Version 3.
+Calculations & Certification only valid for Farming Version 3. -->
 
-## Calculator
+<!-- ## Calculator -->
 
-!!!include:farming_reward_disclaimer
+<!-- !!!include:farming_reward_disclaimer -->
 
-Do your own calculation:
+## Do your own calculation:
 
-- [SU/CU Calculator & Reward Simulator for Farming 3.0](https://secure.threefold.me/sheet/#/2/sheet/view/bn9RY8qkB2QSvhNGnk+RNTqiz2YwVoZeGN+UrntDYhU/)
+> [SU/CU Calculator & Reward Simulator for Farming 3.0](https://secure.threefold.me/sheet/#/2/sheet/view/bn9RY8qkB2QSvhNGnk+RNTqiz2YwVoZeGN+UrntDYhU/)
+
+!!!include:farming_calculator_howto
 
 ## Risks
 
@@ -47,8 +49,6 @@ Do your own calculation:
   - _Unlikely: TFT has a utility - TFT represents  unit of compute and storage capacity._
   - _Even if this would happen despite all logic, then normal FIAT currencies can be used.  The token is only a effective means of value exchange._
 
-
-## Remarks
 
 !!!include:farming_toc
 !!!alias tf_farming_simulator,farming_simulation,farming_simulator,farming_calculator

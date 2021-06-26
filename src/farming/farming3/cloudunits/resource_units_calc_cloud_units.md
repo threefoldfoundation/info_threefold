@@ -22,6 +22,6 @@ For farming, 1 SU equals to:
 - 300 GB of SSD capacity with a buffer of 20%
 
 ```python
-su = hru / 1200 + sru / 300 * 0.8
+su = (hru / 1200 + (sru/300)*0.8)
 ```
 

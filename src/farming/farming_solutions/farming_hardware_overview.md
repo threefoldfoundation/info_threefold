@@ -1,6 +1,8 @@
 ## TF Farming Hardware Overview
 
-The form factor, size, and hardware specs can vary from very large (data center type) nodes to very small (no bigger than a modern modem) ones. The hardware specifications (compute & storage) of a 3Node determines the amount of ThreeFold Tokens that the device will farm.  
+The form factor, size, and hardware specs can vary from very large (data center type) nodes to very small (no bigger than a modern modem) ones. 
+
+The hardware specifications (compute & storage) of a 3Node determines the amount of ThreeFold Tokens that the device will farm.  
 
 You'll find below different options to start farming according to how technical you are.
 
@@ -8,15 +10,19 @@ You'll find below different options to start farming according to how technical 
 
 ### Plug & Farm 3Nodes 
 
-![BT-Mazraa_3nodes](img/three3nodes.png)
+To help our community, ThreeFold is organizing a sale of 3Nodes. Please note we are not a hardware vendor, we do this to help our community to get started.
+
+![](img/three3nodes.png)
 
 **Titan V2.1:** The Titan v2 3Node is a medium sized 3Node that already comes with great hardware specifications.
 
-Plug & farm nodes have already been installed and configured to farm for the customer upon delivery. They require little to no technical knowledge to set-up. All you need is an electricity outlet, internet connection and the TF Connect app on your smartphone to start farming and receive your tokens! All 3Nodes can be hosted using normal DSL connectivity.
+Plug & farm nodes have already been installed and configured to farm for the customer upon delivery. 
 
-You would be required to provide your own hosting but farming cooperatives provide administrative services for your farm.
+They require little to no technical knowledge to set-up. All you need is an electricity outlet, internet connection and the TF Connect app on your smartphone to start farming and receive your tokens! All 3Nodes can be hosted using normal DSL connectivity.
 
 #### [You can buy the Titan v2.1 in the ThreeFold Node Shop](https://shop.threefold.tech).
+
+[More info about Titan v2.1 Farming](titan_v2_1)
 
 !!!include:farming_logic_disclaimer
 
