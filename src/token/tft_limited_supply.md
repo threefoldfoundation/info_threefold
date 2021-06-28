@@ -31,7 +31,7 @@ Dive deeper into how the Threefold Tokens are distributed [see here](token_overv
 
 ## Scarcity to limit TFTs in circulation
 
-Like every item, service, or currency, TFT derives part of its value from scarcity. The way [minting/farming](farming_logic3) was designed enables to limit the amount of TFT available on the market.
+Like every item, service, or currency, TFT derives part of its value from scarcity. The way [minting/farming](farming_reward) was designed enables to limit the amount of TFT available on the market.
 
 The commercial capability of a 3Node is at least 6 times superior than the total amount of TFT that can be created over 4 years. This leads to a shortage of TFT.
 
@@ -43,7 +43,7 @@ The ThreeFold_Grid will attract individuals and communities to build, host and u
 
 - 100% ownership of their data, no more intermediaries.
 - Superior reliability through peer-to-peer (decentralized) hosting
-- Guaranteed and transparent execution of software through the [Smart Contract for IT](tftech:smartcontract_it).
+- Guaranteed and transparent execution of software through the [Smart Contract for IT](internet4:smartcontract_it).
 
 Developers can rent capacity from the ThreeFold_Grid in exchange for TFT only – no other currencies are used. This creates a natural economic demand and we call this process [cultivation](cultivation).
 
@@ -74,3 +74,6 @@ In March/April 2021 existing token holders decided to vest their tokens accordin
 See more about Vesting Pool [here](vesting_overview).
 
 !!!alias token_limited_supply,tft_limited_supply,token_supply
+
+
+!!!include:token_toc

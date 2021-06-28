@@ -25,3 +25,5 @@ Mazraa will through replying directly to your email (always double check this) w
 When Mazraa has received the BTC in their wallet, they on their turn will wire the TFT to the address you provided.
 
 !!!include:legal:tft_not_speculative_note
+
+!!!include:token_toc

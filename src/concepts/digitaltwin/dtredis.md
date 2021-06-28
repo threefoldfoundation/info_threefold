@@ -1,7 +1,7 @@
 # Digital Twin Redis Server
 
 - redis server as hosted as part of Digital Twin deployment.
-- only usable by digital twin server
+- only usable by Digital Twin Hub
 
 used amongs others for
 

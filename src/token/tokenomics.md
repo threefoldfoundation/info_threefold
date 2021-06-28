@@ -8,14 +8,15 @@
 
 TFTs are rewarded when new capacity (storage & compute) is added to the ThreeFold_Grid in the form of hardware. 
 
-[Farmers](become_a_farmer) farm (mine) capacity for the ThreeFold Grid. A TF Farmer is ThreeFolds more sustainable equivalent of cryptocurrency miners.
+[Farmers](farming_intro) farm (mine) capacity for the ThreeFold Grid. A TF Farmer is ThreeFolds more sustainable equivalent of cryptocurrency miners.
 
 The amount of TFTs that are created by farmers depends on three variables:
+
 1. Compute Capacity (CPU)
 2. Memory Capacity (RAM)
 3. Storage Capacity (SSD/HDD)
 
-Learn more about the variables [here](farming_logic3).
+Learn more about the variables [here](farming_reward).
 
 Tokens are burned as result of cultivation which leads to nr of tokens to be limited.
 
@@ -31,6 +32,4 @@ Many tokens are in vesting wallets see [Vesting](vesting_overview).
 
 See [Valuable TF Grid](grid_valuation)
 
-## Disclaimer
-
-!!!include:legal:tft_not_speculative_note
+!!!include:token_toc

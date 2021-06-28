@@ -21,3 +21,4 @@ Because TFT is on the Stellar network
 
 - #TODO: this page is prob not used
 
+!!!include:token_toc

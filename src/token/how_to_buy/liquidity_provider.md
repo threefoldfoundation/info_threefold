@@ -54,3 +54,5 @@
 ## Why provide Liquidity and become a ThreeFold LP 
 
 Anyone interested in providing Liquidity to the ThreeFold pools on PancakeSwap will be incentivized and rewarded with trading fees. 0.17% of all trading fees of all transactions go to Liquidity providers. 
+
+!!!include:token_toc

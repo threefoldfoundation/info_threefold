@@ -10,7 +10,7 @@ ThreeFold is the result of more than 20 years of work in the Internet space, ove
 
 The technology used at start in March 2018 has been developed mainly out of three companies: [ThreeFold_Dubai](threefold_fzc), [BetterToken](bettertoken) and GreenIT Globe. Later in 2018, TF Tech was spun off from our incubator.
 
-[TF Tech](tftech) is a company born out of our Incubator called [Incubaid](http://www.incubaid.com/) in Belgium.
+[TF Tech](strategy:tftech) is a company born out of our Incubator called [Incubaid](http://www.incubaid.com/) in Belgium.
 
 TF Tech has a purpose to further develop the software and commercialize the capabilities on a global basis, mainly by working together with tech partners.
 

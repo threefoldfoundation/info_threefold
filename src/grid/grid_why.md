@@ -35,3 +35,5 @@ Features of the ThreeFold_Grid:
 > And you can become a part of this solution by [becoming a farmer](become_a_farmer) and adding more decentralized capacity to the ThreeFold_Grid.
 
 
+
+!!!include:grid_toc

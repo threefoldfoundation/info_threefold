@@ -16,7 +16,7 @@ With TFT, you can use the following products and services that live on the Three
 
 ## Where do TFTs come from?
 
-When farmers connect 3Nodes to the [ThreeFold Grid](grid_intro), they farm (mine) and get rewarded with TFTs. Learn more about the farming/minting logic [here](farming_logic3). While farmers keep on expanding the ThreeFold_Grid, the token economy is limited to 4 Billion tokens. This limit ensures stability of value and incentivization for all stakeholders.
+When farmers connect 3Nodes to the [ThreeFold Grid](grid_intro), they farm (mine) and get rewarded with TFTs. Learn more about the farming/minting logic [here](farming_reward). While farmers keep on expanding the ThreeFold_Grid, the token economy is limited to 4 Billion tokens. This limit ensures stability of value and incentivization for all stakeholders.
 
 > TFTs are created (minted) by the TF open-source minting software as a result of capacity being connected to the ThreeFold_Grid. 
 
@@ -37,4 +37,4 @@ For token enthousiasts, you can check the analytics of TFT since it moved to the
 
 > Please note that the ThreeFold Foundation's sole purpose is to ensure the expansion of the ThreeFold_Grid and its ecosystem according to its vision and values. To fund these activities, part of each TFT transaction for cultivation goes to the ThreeFold Foundation to finance the ThreeFold_Grid's expansion and side projects that are believed to bring a positive human or planet impact.
 
-!!!include:legal:tft_not_speculative_note
+!!!include:token_toc

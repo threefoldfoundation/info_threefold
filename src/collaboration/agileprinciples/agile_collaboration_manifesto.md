@@ -63,3 +63,5 @@ Because we have great control over our own destiny, we are more committed to suc
 ### Respect
 
 As we work together, sharing successes and failures, we come to respect each other and to help each other become worthy of respect.
+
+!!!include:agileprinciples_toc

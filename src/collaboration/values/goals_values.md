@@ -24,7 +24,6 @@ This needs to be a well defined mission and needs to be easily understood by all
 
 - Code, bugs, feature requests (to world)
 - Product information & roadmap (to world)
-- Financials (P&L, budget vs costs) (\*)
 - Strategic information (\*)
 - Internal company planning (story cards) (\*)
 - Detailed sales funnel & project information (\*)
@@ -97,7 +96,7 @@ It's not an easy job to be constantly in line with above values.
 It's our job to help our friends & colleagues to honor these values and if not at least tell them.
 This takes courage and is not easy.
 
-
+<!-- 
 ## How do we try to achieve our values/goals (ThreeFold)?
 
 ### Neutral
@@ -128,4 +127,4 @@ Local means better performance, no need for your traffic to go over expansive fi
 ### Open cultures (teal organizations)
 
 - [Open cultures](https://danieltenner.com/open-cultures/): lots of info about how new style organizations can be built. This is really a must read and something we actively try to work towards.
-- [Reinventing organization](http://www.reinventingorganizations.com/uploads/2/1/9/8/21988088/140305_laloux_reinventing_organizations.pdf)
+- [Reinventing organization](http://www.reinventingorganizations.com/uploads/2/1/9/8/21988088/140305_laloux_reinventing_organizations.pdf) -->

@@ -11,7 +11,7 @@
 | VISA          | ***   | [Liquid Quick Exchange](tft_liquid_quick_exchange) | Buy TFT easily with a VISA card                                     | NOW          |
 | WALLET        | ***   | [Solar Wallet](solar_wallet)                       | Buy TFT using the Solar Wallet                                      | NOW          |
 | WALLET        | ***   | [Lobstr Wallet](lobstr_wallet)                     | Buy TFT using the Lobstr Wallet                                     | NOW          |
-| DEX           | **    | [Huobi DEFI](tft_huobi_defi)                       | automatic price determination in line with available liquidity      | Q2/3         |
+| DEX           | **    | [Huobi DEFI](tft_huobi_defi)                       | automatic price determination in line with available liquidity      | Q3         |
 
 
-Note: (****) is easiest.
+Note: (*****) is easiest.

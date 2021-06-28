@@ -66,3 +66,5 @@ BTCs can be withdrawn however to another wallet using interstellar (the tool own
 Click `BTC` and select `Withdraw`.
 - Fill in the amount and Bitcoin address you want to withdraw it to. Keep in mind there is a transaction fee, the site might adjust the amount if you don’t have enough in your account to cover both the amount + fee.
 - Confirm the transaction.
+
+!!!include:token_toc

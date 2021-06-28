@@ -17,11 +17,13 @@ First implementation of Digital Twin (march 2021 in working prototype) has follo
 - web and wiki publishing tool
 - peer2peer secure networking layer
 
-Digital Twin will probably change name to FreeFlow.
+
+More info see [Digital Twin Product Info](digital_twin_prod).
+
 
 ## More info
 
-- digitaltwin_server : your personal data server on the tfgrid
+- digitaltwin_hub : your personal data server on the tfgrid
 - digitaltwin_experiences : first set of experiences as implemented
 
 !!!def alias:digital_twin, dtwin

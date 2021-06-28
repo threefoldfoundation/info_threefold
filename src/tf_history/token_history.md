@@ -33,7 +33,7 @@ We have sold initial IT capacity in the form of TFT from ThreeFold_Dubai and fro
 
 In Q2 2020 we were launching TF Grid 2.0 and the mining rules (tf_farming) have been changed. As part of these farming rules the max number of tokens became 4 billion, which changes the optics of the original size of the genesis token pool. See [farming logic 2](farming_logic2).
 
-In Q3 2021 we will/were launching TF Grid 3.0 which has again improvement to the farming model. Its up to the farmers to choose if they want to change to the new farming model or not. See [farming logic 3](farming_logic3).
+In Q3 2021 we will/were launching TF Grid 3.0 which has again improvement to the farming model. Its up to the farmers to choose if they want to change to the new farming model or not. See [farming logic 3](farming_reward).
 
 ### TFT Versions
 

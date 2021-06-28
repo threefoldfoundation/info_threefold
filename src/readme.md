@@ -41,4 +41,4 @@ We're also active **on social media**:
 - **[Facebook](https://facebook.com/threefold.io)**
 - **[YouTube](https://youtube.com/c/ThreeFoldFoundation)**
 
-*We're planning to move away from social media platforms in the future, once we have our own decentralized alternatives on our grid, in order to align with our [manifesto](https://wiki2.threefold.io/ThreeFold%20Decentralization%20Manifesto%20v_2_0_1.pdf). Be sure to join our [ThreeFold News Channel](https://t.me/threefoldnews) for important updates.*
+*We're planning to move away from social media platforms in the future, once we have our own decentralized alternatives on our grid, in order to align with our [manifesto](https://wiki.threefold.io/threefold_decentralization_manifesto_v_2_0_1.pdf). Be sure to join our [ThreeFold News Channel](https://t.me/threefoldnews) for important updates.*

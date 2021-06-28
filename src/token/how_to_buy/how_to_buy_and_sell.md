@@ -3,7 +3,7 @@
 
 # How to Buy and Sell TFT
 
-Find below a table that shows all buying options for TFT. Note that exchanges and wallets have restrictions on where they can sell crypto If you are new to buying and selling digital currencies, we invite you to visit the [New to Tokens](newtotokens) section. 
+Find below a table that shows all buying options for TFT. Note that exchanges and wallets have restrictions on where they can sell crypto. If you are new to buying and selling digital currencies, we invite you to visit the [New to Tokens](newtotokens) section. 
 
 !!!include:tft_ways_to_buy_include
 
@@ -38,5 +38,7 @@ If you have TFTA that you would like to exchange, you can easily [convert them t
 ## Get Support
 
 - If you have any questions, please feel free to use the support chat (blue icon on the bottom of this page) or use [our forum](https://forum.threefold.io).
+
+!!!include:token_toc
 
 !!!include:legal:tft_not_speculative_note

@@ -11,7 +11,7 @@
     - Better than required SLA (Service Level Agreement).
   - Rewarded by means of code and verified by TF_Chain (\*)
   - Rules as defined by Threefold Foundation but approved by Wisdom_Council
-  - Rules are different for certified or DIY capacity
+  - Rules are different for certified or DIY capacity. For now we only deliver DIY capacity.
 - 3% for the funding of community driven contribution projects (max 160 million of TFT)
   - Sponsor projects to the benefit of the ThreeFold Companies
   - Education, Digital twin, ...
@@ -52,14 +52,11 @@ Calculated May 5 2021
 
 > WE ARE STILL IN PROCESS TO VEST TOKENS (MAY 2021)
 
-
 ## Remarks
 
 !!!include:stats_toc
 - [ThreeFold Token & Grid History](threefold_history)
 
-## Disclaimer
-
-!!!include:legal:tft_not_investment
+!!!include:token_toc
 
 !!!alias token_distribution,token_overview

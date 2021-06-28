@@ -12,13 +12,4 @@ Agile principles include keeping requirements and documentation lightweight, and
 
 This makes close collaboration particularly important to clarify requirements just-in-time and to keep all team members (including the story owner) ‘on the same page’ throughout the collaboration.
 
-- [Agile Requirements](agile_requirements)
-- [Change Is Not Bad](change_is_not_bad)
-- [Done Is Done](done_is_done)
-- [Fast But Not Furious](fast_but_not_furious)
-- [How To Eat An Elephant](how_to_eat_an_elephant)
-- [Pareto](pareto)
-- [Team Empowerment](team_empowerment)
-- [User Involvement](user_involvement)
-
-
+!!!include:agileprinciples_toc

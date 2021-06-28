@@ -28,7 +28,7 @@ We believe we are well under way to being a decentralized movement. ThreeFold ha
 - As part of our TF Grid 3.0, we have new exciting blockchain capabilities
   - Multiple blockchain: Stellar, Parity, and now looking into Polkadot parachain.
   - Money & consensus separated blockchain
-  - See [TFGrid 3.0 Consensus Mechanism Specifications](tftech:consensus3) (technical).
+  - See [TFGrid 3.0 Consensus Mechanism Specifications](internet4:consensus3) (technical).
   - TF Grid data objects are stored on Parity-based decentralized blockchain database (phonebook, tfdirectory)
 - Again, ThreeFold has been designed to be decentralized – many farmers together provide the infrastructure for the new Internet built by everyone for everyone. We are now preparing for the next phase:
   - We want to create 2-3 legal global structures in which we can accept funding and get approval from the government for the structure and token

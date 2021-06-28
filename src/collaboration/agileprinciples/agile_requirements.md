@@ -10,9 +10,9 @@ We believe Agile collaboration teams can build better products/services if they 
 
 However any requirements captured at the outset should be captured at a high level. At this stage, requirements should be understood enough to determine the outline scope of the product and produce high level budgetary estimates and no more.
 
-Big spec up-front is not the way to go, its not in line with the 20-80% rule.
-Also big up-front specs are never up to date when work is being done.
-There is no lengthy requirements document or specification unless there is an area of complexity that really needs it. 
+- Big spec up-front is not the way to go, its not in line with the 20-80% rule.
+- Also big up-front specs are never up to date when work is being done.
+- There is no lengthy requirements document or specification unless there is an area of complexity that really needs it. 
 
 This is a big contrast to a common situation where the business owner sends numerous new and changed requirements by email and/or verbally, somehow expecting the new and existing features to still be delivered in the original timeframes. Traditional project teams that don’t control changes can end up with the dreaded scope creep, one of the most common reasons for software collaboration projects to fail.
 
@@ -25,3 +25,4 @@ Using the Scrum agile management practice, requirements (or features or stories,
 Make sure all items (requirements) are deliverables rather than activities or tasks. You can see a deliverable and “kick the tyres”, in order to judge its quality and completeness. A task you cannot.
 
 
+!!!include:agileprinciples_toc

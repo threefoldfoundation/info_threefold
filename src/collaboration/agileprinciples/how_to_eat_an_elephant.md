@@ -17,3 +17,6 @@ For this approach to be practical, each feature must be fully developed, to the 
 Another practicality is to make sure features are developed in *priority* order, not necessarily in a logical order by function. Otherwise you could run out of time, having built some of the less important features – as in agile software collaboration, the timescales are fixed.
 
 Building the features of the project ”broad but shallow” is also advisable for the same reason. Only when you’ve completed all your must-have features, move on to the should-haves, and only then move on to the could-haves. 
+
+!!!include:agileprinciples_toc
+

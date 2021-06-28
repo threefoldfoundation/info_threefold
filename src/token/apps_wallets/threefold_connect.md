@@ -103,3 +103,5 @@ Here you can receive support on any questions related to ThreeFold.
 ## Settings
 
 You can check your Secret Phrase here, change your pin code or remove your account in Advanced Settings tab.
+
+

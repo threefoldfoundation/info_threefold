@@ -14,3 +14,5 @@ It could be that on secondary markets or on some public exchanges the price is b
 
 
 !!!def alias:tft_min,tft_min_price,TFT_Minimal_Price,minimal_price name:TFT_Minimal_Price
+
+!!!include:token_toc

@@ -82,3 +82,6 @@ see [Token Limited Supply](tft_limited_supply)
 !!!include:legal:tft_not_speculative_note
 
 !!!alias tft_valuation,token_valuation
+
+
+!!!include:grid_toc

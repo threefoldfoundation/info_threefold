@@ -8,7 +8,7 @@ Once registered in the TF Directory, people and organizations that connect 3Node
 
 Users can then access the ThreeFold_Grid with 3Bot, a virtual system administrator that executes the commands and functions (reservation of capacity, editing workloads, etc.) directly on the operating system level via a smart contract for IT.  
 
-This permits users to see the available capacity on the TF Grid Explorer and reserve cloud_units on the 3Nodes of their choice. All reservation of capacity is done in the means of TFT.
+This permits users to see the available capacity on the TF Grid Explorer and reserve cloudunits on the 3Nodes of their choice. All reservation of capacity is done in the means of TFT.
 
 All the architecture from the operating system level to the user level is fully automated which enables a ultra-secure peer-to-peer infrastructure and economy. 
 
@@ -67,7 +67,7 @@ The purpose of the smart contract for IT is to create and enable autonomous IT. 
 
 While sticking to these principles, it provides the basis to consider and describe everything in a contract type format and to deploy any self-driving and self-healing application on the ThreeFold_Grid.
 
-Learn more about smart contract for IT [here](tftech:smartcontract_it).
+Learn more about smart contract for IT [here](internet4:smartcontract_it).
 
 ### 3Bot
 
@@ -98,20 +98,5 @@ Learn more about Threefold Grid Blockchain [here](internet4:consensus3).
 
 *Note: This was last updated March 2021.*
 
-## More Info:
 
-- [What is the ThreeFold Token](token_what) - An introduction to ThreeFold Tokens, the medium of exchange on the new Internet.
-- [What is Farming](farming_intro) - An introduction to Farming and how anyone can participate in expanding the ThreeFold Grid.
-- [Zero-OS primitive workloads](internet4:zos) - An overview of ThreeFold's unique operating system Zero-OS.
-- [How do 3Nodes work](internet4:part1_the_3node) - An overview of 3Node and the different softwares it runs.
-- [Technology](internet4:technology)
-- [Dive deeper in the Smart Contract for IT](tftech:smartcontract_it) - The smart contract that powers the autonomous Internet. 
-- [How 3Bot enables anyone to become the center of their digital life](internet4:part3_smart_it_circles_3bot) - An overview of some basic concepts and principles around 3Bot.
-- [The Threefold Grid Blockchain](internet4:consensus3) - Learn more about the consensus engine of ThreeFold that uses Polkadot's technology substrate.
-- [Use the Threefold Grid](use_tfgrid) - An introduction to the ThreeFold products and services: The ThreeFold SDK, P2P Cloud, P2P Marketplace, and Digital Twin.
-
-
-
-
-
-
+!!!include:grid_toc
