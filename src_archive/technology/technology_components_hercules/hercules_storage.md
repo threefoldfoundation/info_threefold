@@ -48,7 +48,7 @@ This system can be used to create a S3 storage cloud:
 
 ![](img/storage3.png)
 
-The grid uses own private overlay [network](hercules_network) which makes the storage solution a single tenant solution by design.  On top of that, each S3 deployment has 1 master and (optional) 1 slave S3 front end server which can be operated in a private setting when there is no Web Gateway used to connect it to the public internet, or the S3 interface can be exposed on the public internet by using the [Web Gateway](hercules_network).
+The grid uses own private overlay [network](hercules_network) which makes the storage solution a single tenant solution by design.  On top of that, each S3 deployment has 1 master and (optional) 1 seconday S3 front end server which can be operated in a private setting when there is no Web Gateway used to connect it to the public internet, or the S3 interface can be exposed on the public internet by using the [Web Gateway](hercules_network).
 
 For good reliability and performance of the S3 instance we recommend to use a storage policy that includes at least 20 3nodes (disks) per S3 cluster.  A well defined storage policy leads to good performance, excellent reliability and low overhead.  A much used policy is 16+4 where the original object is represented by 16 equations derived from the original data object and then 4 more equtions are created for redundancy purposes.  This creates 20% overhead (4 out of 20) but delivers a solution that can sustain failure of 4 simultaneous disks (or in the case that 20 3nodes are used a failure or 4 simultaneous 3nodes) without loosing access to the original data.
 
@@ -59,7 +59,7 @@ This design leads to ultimate security, privacy, performance, scale and flexibil
 
 ### 100% Self Healing Possibility (v2.1)
 
-In v2.8 we have added 100% self healing capability which means that any automation software can interact and e.g. failover when required between master & slave front ends. 
+In v2.8 we have added 100% self healing capability which means that any automation software can interact and e.g. failover when required between primary & secondary front ends. 
 
 ## Storage Efficiency
 

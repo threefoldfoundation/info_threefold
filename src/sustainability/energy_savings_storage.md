@@ -76,7 +76,7 @@ Our estimate is that we can save about 3x in energy usage because of using these
 
 On the storage front end nodes we do aggressive caching of read and writes on SSD. SSDuse minimal energy and provide a fast layer for caching.
 
-For redundancy reasons we can put a transactionlog (WAL = write ahead log) on nearby slave front end nodes. These nodes will replay the WAL when the master front end node would be lost or experience downtime.
+For redundancy reasons we can put a transactionlog (WAL = write ahead log) on nearby secondary front end nodes. These nodes will replay the WAL when the master front end node would be lost or experience downtime.
 
 Because of this caching layer large blocks of data are created (thanks to ZDB technology on the front layer), these large blocks are encoded using our qs_algo . This results in large chunks being sent to the backend ZDB's once required. Each ZDB will write single writer to the HDD and only when required.
 
