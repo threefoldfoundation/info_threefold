@@ -9,6 +9,14 @@
 - [June 8: 3,000+ 3Node Orders Over the Weekend!](3k3nodes)
 - [June 9: Titan V2.1 is Almost Ready for Pre-Order](titanv21soon)
 - [June 10: ThreeFold Coverage in CoinTelegraph!](tfcointelegraph0621)
+- [June 11: ThreeFold and Dfinity News Coverage](tfdfinity0621)
+- [June 11: Pre-Order a Titan v2.1](preordertitan)
+- [June 14: Satoshi Street Bets AMA Recording](satoshirecording)
+- [June 15: Zetako and ThreeFold Join Forces](zetakothreefold)
+- [June 16: ThreeFold Coverage in BanklessTimes](tfbanklesstimes)
+- [June 24: How to Decentralize the DigiByte Network](digibytenodedeploy)
+- [June 26: ThreeFold Coverage in Yahoo! News](tfyahoonews)
+- [June 30: ThreeFold Coverage in Smartereum](tfsmartereum)
 
 ### May
 
