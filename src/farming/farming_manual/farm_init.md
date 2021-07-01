@@ -3,13 +3,12 @@
 This page explains how to register a farm on the TF Grid.
 
 ## Install the Farm Management Application
-
-Install the farm management application. To do so, click the `Farm Management` tab on the left side menu.
-Then click the `Install now` button
+Install the farm management application. To do so, click `Packages` tab on the left side menu. Then got to `Farm Management` package 
+Then click on  the `Install` button.
 
 ![install_package](img/install_packages.png)
 
-Once the package is installed, the page will reload and the `Farm Management` UI will appear.
+Once the package is installed, the page will reload and the `Farm Management` UI will appear on the left side menu click on it and you will see your farm configuration page.
 
 ## Create a Farm
 
