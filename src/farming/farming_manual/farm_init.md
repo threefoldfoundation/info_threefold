@@ -3,7 +3,7 @@
 This page explains how to register a farm on the TF Grid.
 
 ## Install the Farm Management Application
-Install the farm management application. To do so, click `Packages` tab on the left side menu. Then got to `Farm Management` package 
+Install the farm management application. To do so, click `Packages` tab on the left side menu in your 3bot instance. Then go to `Farm Management` package 
 Then click on  the `Install` button.
 
 ![install_package](img/install_packages.png)
