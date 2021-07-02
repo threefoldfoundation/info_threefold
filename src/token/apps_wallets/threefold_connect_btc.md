@@ -1,6 +1,6 @@
 # Exchange BTC into TFT using ThreeFold Connect App
 
-As from this release, ThreeFold Tokens can be directly bought using Bitcoin (BTC).
+ThreeFold Tokens can be directly bought in [ThreeFold Connect](threefold_connect) mobile wallet using Bitcoin (BTC).
 
 ## Steps
 

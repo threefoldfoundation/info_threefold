@@ -4,7 +4,7 @@
 - [Features](token_features)
 - [Valuation](grid_valuation)
 - [New to Tokens](newtotokens)
-- [ThreeFold Wallets](tf_wallets)
+- [ThreeFold Wallets](threefold_wallets)
   - [ThreeFold Connect App](threefold_connect)
 - [Buy and Sell TFT](how_to_buy_and_sell)
   - [BTC to TFT in wallet](threefold_connect_btc)
