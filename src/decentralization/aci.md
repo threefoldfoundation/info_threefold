@@ -1,6 +1,6 @@
 ![alt](img/earth.png)
 
-# Conscious Internet
+# Alliance Conscious Internet
 
 > "Today the Internet seems to be a reliable source but don’t be mistaken. The Internet is very fragile. It's so centralized we can lose it at any time and there will be serious consequences e.g. blackouts.
 > I can mention 100 reasons why, but please believe me for now, the Internet is a mess and will not stay intact under pressure."
@@ -34,4 +34,3 @@ At this stage 20+ do-good for the planet projects have joined the Alliance for a
 
 Learn more about ACI projects and people on [Alliance for a Conscious Internet website](https://www.consciousinternet.org/).
 
-!!!def alias:aci
