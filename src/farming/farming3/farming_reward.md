@@ -16,8 +16,8 @@ revenue =  CU sold * CU price + SU sold * SU price
 
 ```
 
-- CU/SU/NU farmed  = amount CU,SU,NU available to TFGrid with enough uptime = **Proof-of-Capacity**
-- CU/SU/NU farming reward = is the reward as specified in [reward table](reward_table)
+- [CU/SU/NU](cloudunits) farmed  = amount CU,SU,NU available to TFGrid with enough uptime = **Proof-of-Capacity**
+- [CU/SU/NU](cloudunits) farming reward = is the reward as specified in [reward table](reward_table)
 - Channel Reward = 50% if you found a buyer for your CU/SU/NU capacity, otherwise defaults to 10%
 - CU/SU sold = the amount of CU,SU as sold per month = **Proof-of-Utilization**
 - [CU/SU price](cloudunits_pricing) = the price as defined for each CU,SU by wisdom_council
