@@ -3,7 +3,7 @@
 # Loyalty Program
 
 
-!!!include:cloudunits_staking_discount_levels
+!!!include:staking_discount_levels
 
 
 
