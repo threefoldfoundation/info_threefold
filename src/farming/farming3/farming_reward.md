@@ -9,7 +9,7 @@ Farmers are rewarded TFT based on **Proof-of-Capacity** and **Proof-of-Utilizati
 TFT earned per month per node = 
     #proof of capacity
     CU farmed * CU farming reward + SU farmed * SU farming reward + NU farmed * NU farming reward
-    #proof ot utilization
+    #proof of utilization
     + channel reward * revenue
 
 revenue =  CU sold * CU price + SU sold * SU price
