@@ -1,4 +1,4 @@
-# Large Scale Datacenter Setup
+# Large Scale Setup
 
 ## Switched
 

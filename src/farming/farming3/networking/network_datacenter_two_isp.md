@@ -1,5 +1,5 @@
 
-## REDUNDANT NETWORK 2 ISP
+## Certified/Commercial Setup 2 ISP feed 
 
 We are working on support for this layout, as a farmer it can be handy to already prepare for this layout.
 

@@ -1,4 +1,6 @@
-# Datacenter Networking Setup
+# Certified/Commercial Setup 
+
+This can be in datacenter or any larger scale setup.
 
 !!!include:net_boot_process
 
