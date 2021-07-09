@@ -2,6 +2,10 @@
 
 ## 2021
 
+### July
+
+- [July 7: Introducing New Farming Rewards](new_farming_rewards)
+
 ### June
 
 - [June 2: Q2 3Node Batch is Closing Soon](q2_closing_soon)
