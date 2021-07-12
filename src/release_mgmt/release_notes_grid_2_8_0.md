@@ -64,8 +64,8 @@ Since the launch of Farming v3.0: [Farming Reward Logic](farming_reward) 3.0 and
 
 ## History
 
-- [TF Grid 2.7.1](threefold__release_notes_grid_2_7_1)
-- [TF Grid 2.5.0](threefold__release_notes_grid_2_5_0)
-- [TF Grid 2.4.0](threefold__release_notes_grid_2_4_0)
-- [TF Grid 2.3.0](threefold__release_notes_grid_2_3_0)
+- [TF Grid 2.7.1](release_notes_grid_2_7_1)
+- [TF Grid 2.5.0](release_notes_grid_2_5_0)
+- [TF Grid 2.4.0](release_notes_grid_2_4_0)
+- [TF Grid 2.3.0](release_notes_grid_2_3_0)
 
