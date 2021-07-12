@@ -64,10 +64,8 @@ Since the launch of Farming v3.0: [Farming Reward Logic](https://wiki.threefold.
 
 ## History
 
-- [TF Grid 2.7.1](https://github.com/threefoldtech/home/blob/master/products/tfgrid2.7.1.md)
-- [TF Grid 2.7.0](https://github.com/threefoldtech/home/blob/master/products/tfgrid2.5.md)
-- [TF Grid 2.6.0](https://github.com/threefoldtech/home/blob/master/products/tfgrid2.5.md)
-- [TF Grid 2.5.0](https://github.com/threefoldtech/home/blob/master/products/tfgrid2.5.md)
-- [TF Grid 2.4.0](https://github.com/threefoldtech/home/blob/master/products/tfgrid2.4.md)
-- [TF Grid 2.3.0](https://github.com/threefoldtech/home/blob/master/products/tfgrid2.3.md)
+- [TF Grid 2.7.1](https://wiki.threefold.io/#/threefold__release_notes_grid_2_7_1)
+- [TF Grid 2.5.0](https://wiki.threefold.io/#/threefold__release_notes_grid_2_5_0)
+- [TF Grid 2.4.0](https://wiki.threefold.io/#/threefold__release_notes_grid_2_4_0)
+- [TF Grid 2.3.0](https://wiki.threefold.io/#/threefold__release_notes_grid_2_3_0)
 
