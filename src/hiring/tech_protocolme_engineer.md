@@ -3,7 +3,7 @@
 ![](img/development_manager.png)
 
 
-# Senior Developer protocol.me / digital twin
+# Senior Developer protocol.me / Digital Twin
 
 !!!include:tf_hr_intro
 
@@ -15,35 +15,35 @@ The digital_twin can set us free, create our digital future without boundaries w
 
 ## Job Description
 
-- design & document our future of our digital life
-- develop the backend for our digital_me.
-- we believe in specs through code, will be using vlang for that.
-- provide training & technical tips to the development community
-- train new developers
-- improve our manuals and knowledge base
+- Design & document our future of our digital life.
+- Develop the backend for our digital_me.
+- We believe in specs through code, will be using vlang for that.
+- Provide training & technical tips to the development community.
+- Train new developers.
+- Improve our Manuals and Knowledge Base.
 
 ## Requirements
 
-- personal skills
-  - able to question the status quo
-  - understand the world need a new operating system
-  - be smart & agile
-  - fast learner 
-- technical
-  - able to think conceptual about data models, IT architecture, business requirements
-  - fluent in at least 2 development languages
-  - fluent with github, agile processes
-  - can work with docker or alike
-- professional skills 
-  - fluent in English
-  - good communicator
-  - understand 20-80 procent rule: pareto
-  - not afraid to be like a teacher for others
-  - flexible out of the box thinker, +- everything you will be working on is not following existing paradigms.
-  - don't be afraid of changes
-  - fluent in multiple development languages (experience with C or Rust would be ideal)
-  - understand quality is important
-  - be at least level 'wolf' in [the skill levels we use, we look at them in a different way](p2p_awareness_level)
+- Personal skills:
+  - Able to question the status quo
+  - Understand the world need a new operating system
+  - Be smart & agile
+  - Fast learner 
+- Technical skills:
+  - Able to think conceptual about data models, IT architecture, business requirements
+  - Fluent in multiple development languages (experience with C or Rust would be ideal)
+  - Fluent with github, agile processes
+  - Can work with docker or alike
+- Professional skills 
+  - Fluent in English
+  - Good communicator
+  - Understand and follow Pareto 20/80 rule
+  - Not afraid to be a teacher for others
+  - Flexible out-of-the-box thinker, +/- everything you will be working on is not following existing paradigms.
+  - Don't be afraid of changes
+  - Understand that quality is important
+  - Be at least level 'wolf' in [the skill levels we use, we look at them in a different way](p2p_awareness_level)
+  
 !!!include:hr_tech_values
 
 !!!include:remuneration_belgium

@@ -1,19 +1,14 @@
-## looking for contributors to our cause right now
+## We are looking for contributors to our cause
 
-| function                                                                  | description                                                                     |
+| Function                                                                  | Description                                                                     |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [Technical Community Manager Teamlead](tech_community_manager_teamlead)   | expand community of developers, who want to create solutions on top of TFGrid 3 |
-| [Grid Operations Manager](tfgrid_ops_manager)                             | keep our grid operational on global basis, work with all farmers                |
-| [Development Manager](tfgrid_development_manager)                         | oversee development & release management of our TFGrid code components          |
-| [Master architect for our Digital Twin techno](tech_protocolme_architect) | Technical protocol.me / digital_twin master architect                           |
-| [Senior Developer Digital Twin](tech_protocolme_engineer)                 | Senior developer protocol.me / digital_twin, help us build the future           |
-| [Senior Developer Zero-OS](tech_zos_engineer)                             | Senior developer zero-os, help us build the future                              |
-| [Senior Developer Blockchain](tech_blockchain_engineer)                   | Senior developer for our TFgrid Blockchain, help us build the future            |
-| [QA Engineer](tech_qa_engineer)                                           | Bring quality of our development to a high level                                |
-
-## soon
-
-| function                                              | description                                                                |
-| ----------------------------------------------------- | -------------------------------------------------------------------------- |
-| [Technical Community Manager](tech_community_manager) | help our community to develop on top of our TFGrid                         |
-| [Grid Security Manager](tfgrid_security_manager)      | work on global basis to improve and keep our security measurements intact. |
+| [Technical Community Manager, Teamlead](tech_community_manager_teamlead)   | Expand community of developers who wants to create solutions on top of TFGrid 3.0. |
+| [Grid Operations Manager](tfgrid_ops_manager)                             | Keep TFGrid operational globally, work with all the farmers.                |
+| [Development Manager](tfgrid_development_manager)                         | Oversee development & release management of TFGrid code components.          |
+| [Master Architect, Digital Twin](tech_protocolme_architect) | Technical protocol.me / Digital Twin master architect.                           |
+| [Senior Developer, Digital Twin](tech_protocolme_engineer)                 | Senior developer protocol.me / Digital Twin, help us build the future.           |
+| [Senior Developer, ZeroOS](tech_zos_engineer)                             | Senior developer Zero-OS, help us build the future.                             |
+| [Senior Developer, Blockchain](tech_blockchain_engineer)                   | Senior developer for our TFGrid Blockchain, help us build the future.            |
+| [QA Engineer](tech_qa_engineer)                                           | Bring quality of our development to a highest level.                               |
+| [Technical Community Manager](tech_community_manager) | Help our community to develop on top of our TFGrid.                        |
+| [Grid Security Manager](tfgrid_security_manager)      | Work globally to improve and keep our security measurements intact. |
