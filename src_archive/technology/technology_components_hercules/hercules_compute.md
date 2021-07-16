@@ -5,7 +5,7 @@
 
 ## What is Hercules Compute?
 
-Hercules Compute is a container management & deployment platform. It presents a 1 click deployment solution for a full decentralized Kubernetes environment.  *Every* 3node on the TF Grid is able to run these containers and/or master and worker nodes.  This presents the advantage that edge based 3nodes and  core data based 3nodes centers create a distributed platform of nodes providing full scale-out capabilities to solutions. 
+Hercules Compute is a container management & deployment platform. It presents a 1 click deployment solution for a full decentralized Kubernetes environment.  *Every* 3node on the TF Grid is able to run these containers and/or manager and worker nodes.  This presents the advantage that edge based 3nodes and  core data based 3nodes centers create a distributed platform of nodes providing full scale-out capabilities to solutions. 
 
 Hercules compute uses the ThreeFold capacity layer build by hardware and Zero-OS and is orchestrated by your virtual system administrator called 3bot.
 
