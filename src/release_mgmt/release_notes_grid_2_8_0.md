@@ -46,11 +46,11 @@ Improvements on this release would revolve user's public IP management on TF Exp
 - Created a TF Explorer UI feature to display of whether a node or farm is on Grid V.3.0 farming 
 
 ### Farming and Minting Operational Improvements
-Since the launch of Farming v3.0: [Farming Reward Logic](https://wiki.threefold.io/#/threefold__farming_reward?id=farming-rewards-logic-v3) 3.0 and the new v3.0 [pricing policy](https://wiki.threefold.io/#/farming_reward_tftflow) for Grid 2.x releases, a certain set of features need to be implemented on Grid components to support the farming and minting operations to make sure that every operation aligns on farming v3.0 requirements.
+Since the launch of Farming v3.0: [Farming Reward Logic](farming_reward) 3.0 and the new v3.0 [Pricing Policy](grid_pricing) for Grid 2.x releases, a certain set of features need to be implemented on Grid components to support the farming and minting operations to make sure that every operation aligns on farming v3.0 requirements.
 
 #### Specification
-- Farming v3.0: [Farming Reward Logic](https://wiki.threefold.io/#/threefold__farming_reward?id=farming-rewards-logic-v3)
-- New v3.0 [pricing policy](https://wiki.threefold.io/#/farming_reward_tftflow)
+- Farming v3.0: [Farming Reward Logic](farming_reward)
+- New v3.0 [Pricing Policy](grid_pricing)
 
 #### Changelogs
 - Farming v3.0 pricing policies and flows implemented on TF Explorer
@@ -64,10 +64,8 @@ Since the launch of Farming v3.0: [Farming Reward Logic](https://wiki.threefold.
 
 ## History
 
-- [TF Grid 2.7.1](https://github.com/threefoldtech/home/blob/master/products/tfgrid2.7.1.md)
-- [TF Grid 2.7.0](https://github.com/threefoldtech/home/blob/master/products/tfgrid2.5.md)
-- [TF Grid 2.6.0](https://github.com/threefoldtech/home/blob/master/products/tfgrid2.5.md)
-- [TF Grid 2.5.0](https://github.com/threefoldtech/home/blob/master/products/tfgrid2.5.md)
-- [TF Grid 2.4.0](https://github.com/threefoldtech/home/blob/master/products/tfgrid2.4.md)
-- [TF Grid 2.3.0](https://github.com/threefoldtech/home/blob/master/products/tfgrid2.3.md)
+- [TF Grid 2.7.1](release_notes_grid_2_7_1)
+- [TF Grid 2.5.0](release_notes_grid_2_5_0)
+- [TF Grid 2.4.0](release_notes_grid_2_4_0)
+- [TF Grid 2.3.0](release_notes_grid_2_3_0)
 

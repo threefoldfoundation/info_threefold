@@ -11,6 +11,7 @@
   - [What Is Farming](farming_intro)
   - [Farming Reward](farming_reward)
   - [Start Farming](start_farming)
+  - [Network Setup](tfgrid_networking)
 - [Tokens](token_home)
   - [What is TFT](token_what)
   - [Features](token_features)
