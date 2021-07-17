@@ -18,12 +18,12 @@ First implementation of Digital Twin (march 2021 in working prototype) has follo
 - peer2peer secure networking layer
 
 
-More info see [Digital Twin Product Info](digital_twin_prod).
+More info see [Digital Twin Experiences](twin:digitaltwin_experiences).
 
 
-## More info
+<!-- ## More info
 
 - digitaltwin_hub : your personal data server on the tfgrid
-- digitaltwin_experiences : first set of experiences as implemented
+- digitaltwin_experiences : first set of experiences as implemented -->
 
 !!!def alias:digital_twin, dtwin

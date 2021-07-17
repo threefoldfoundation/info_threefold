@@ -5,7 +5,7 @@
 | bronze     | - 20%         | 6 months          |
 | silver     | - 30%         | 12 months         |
 | gold       | - 40%         | 24 months         |
-| platinum   | - 60%         | 36 months         |
+| platinum   | - 50%         | 36 months         |
 
 
 The discount is expressed in relation to nr of months of avg monthly usage
