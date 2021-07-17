@@ -64,6 +64,7 @@ Zero-DB technology is characterized by the following aspects:
 - Works with reservations
 - Always append store
 - Can keep unlimited history
+
 - Primary/secondary replication
 
 ### CORE-0 and CORE-X
