@@ -47,7 +47,7 @@ Farmers download the Zero-OS operating system and boot their servers themselves.
 
 Users can directly access 3Nodes computing, storage and network services via their 3Bot. This enables a complete peer-to-peer environment for people to reserve their cloud capacity directly from the hardware.
 
-Learn more about [3Node](3node).
+Learn more about [3Node](internet4:3node).
 Learn more about [Farming](farming_intro).
 
 ### Peer-to-Peer Network

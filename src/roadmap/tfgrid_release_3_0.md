@@ -6,11 +6,11 @@ We are planning to release TFGrid 3.0 over summer 2021, first as beta.
 
 ## Highlights
 
-### integration with Parity / Polkadot
+### integration with Parity Substrate
 
-- smart contract for IT layer on Parity
+- smart contract for IT layer on Substrate
 - colored coins of TFT (have TFT on other blockchains as well)
-- billing/pricing engine integration on Parity
+- billing/pricing engine integration on Substrate
 
 ### planetary network integration
 

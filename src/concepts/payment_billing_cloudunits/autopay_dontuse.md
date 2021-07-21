@@ -2,7 +2,7 @@
 
 # Autopay
 
-Allow [DT Owners](dtowner) as a consumer of a merchant, to specify which merchant they want to allow to ask for a payment.
+Allow [DT Owners](internet4:dtowner) as a consumer of a merchant, to specify which merchant they want to allow to ask for a payment.
 
 Specify per period (can be more than 1) how much money can be spend towards one or more merchants (can be for any service or product).
 
@@ -16,9 +16,9 @@ In a first version this will be used to allow a Farmer on the TFGrid to ask for 
 
 In version 0.9 this will be done as data files which need to be editted, an use remote interface like ftp.
 
-- specified in [dtml](dtml) or json
-- accessible on [dtfs](dtfs)
-- interface = [dtftp](dtftp)
+- specified in [dtml](internet4:dtml) or json
+- accessible on [dtfs](internet4:dtfs)
+- interface = [dtftp](internet4:dtftp)
 
 each autopay entry has following info
 

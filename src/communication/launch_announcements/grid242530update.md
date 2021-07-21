@@ -27,6 +27,6 @@ In parallel, we are working on our next major release (3.0) which doesn't have 
 
 - New billing flows, no more need to make reservations. All becomes pay as you go, is much easier. Unique in the blockchain space!
 - Integration of the payment flows with the first version of our Digital Twin
-- We introduce a new decentralized TF Grid database layer based on the Parity blockchain technology
+- We introduce a new decentralized TF Grid database layer based on the Parity Substrate blockchain technology
 
 We encourage anyone looking to experience the power of the TF Grid – and to help shape its future – to join [our growing testing community](https://t.me/joinchat/BwOvOxxgK59GmRoZ2_sM0w)!

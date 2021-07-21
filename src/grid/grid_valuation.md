@@ -35,7 +35,7 @@ Despite the fast-growing global cloud market, the distribution of data centers i
 
 This unequal distribution of capacity can be explained by the high requirements in infrastructure, electricity, and security to operate large scale data centers that often require an investment of USD 1bn+ for setup.
 
-With the [TF Grid](tfgrid) and TF Ecosystem, ThreeFold can also tap into the areas of our world where big cloud providers can't, thanks to its decentralized and autonomous nature. Also, this represents an opportunity for locals to boost their digital economies.
+With the [TF Grid](internet4:tfgrid) and TF Ecosystem, ThreeFold can also tap into the areas of our world where big cloud providers can't, thanks to its decentralized and autonomous nature. Also, this represents an opportunity for locals to boost their digital economies.
 
 ## The potential of the ThreeFold Grid
 

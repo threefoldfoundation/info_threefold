@@ -76,7 +76,7 @@ Everything starting with ThreeFold ... is not put under T, but under name behind
 # I
 
 - **Itsyou.online:** Former sytem used for authentification
-- **ThreeFold ID** = TID = unique id (name and integer) on the ThreeFold_Grid, there are multiple types see [identities](identities)
+- **ThreeFold ID** = TID = unique id (name and integer) on the ThreeFold_Grid, there are multiple types see [identities](internet4:identities)
 - IAC = Infrastructure As Code ...
 
 # J

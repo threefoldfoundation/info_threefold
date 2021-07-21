@@ -12,6 +12,6 @@ This certification program has many benefits for the TFGrid user, for the world 
 |                                                        | Continuation Protection                              | Strategic Benefits e.g. link to sales channels         |
 | **[more info](farming_certification_benefits_planet)** | **[more info](farming_certification_benefits_user)** | **[more info](farming_certification_benefits_farmer)** |
 
-(*) in collaboration with TFTech
+(*) in collaboration with TFTech, and planned for earliest Q4 2021.
 
-- [certification requirements](farming_certified_requirements_)
+- [certification requirements](farming_certified_requirements)

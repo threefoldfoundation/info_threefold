@@ -7,6 +7,13 @@ A **VZW** has no shareholders, only members.
 <!-- [filename](structure/images_threefold_vzw.html ':include :type=iframe width=100% height=550px frameBorder="0" scrolling="no" align="center"')
  -->
 
+## Functions
+
+- owner of the wisdom_council
+- eventuallly ThreeFold VZW will own some decentralized organizations as operating in the ThreeFold world e.g. tf_dubai
+
+## Some History
+
 We all started in Belgium from Korenlei 22, a super old building in the middle of the town. It dates back to 1731.
 
 ![](img/korenlei_22.jpg)

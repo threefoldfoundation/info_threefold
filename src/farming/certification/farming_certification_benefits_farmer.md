@@ -4,13 +4,11 @@
 
 ### Higher Cloud Unit Reward reward = more income
 
-A certified farmer gets more Cloud Unit Reward_reward because a certified farmer need to adhere to higher service level agreements and buy certified farming solutions or certifiy their existing 3nodes.
+A certified farmer gets more farming_rewards because a certified farmer need to adhere to higher service level agreements and buy certified farming solutions or certifiy their existing 3nodes.
 
 ### TF Tech Support
 
-Direct support from the software creators on farming and grid usage related topics.
-
-TFTech gives defect support to the farmer which will provide for better uptime for the customers on the TFGrid Farm.
+Direct defect and certified build support for Zero-OS from the software creators for the tfgrid_primitives on TFGrid.
 
 ### Lower Operational Cost
 
@@ -28,7 +26,7 @@ ThreeFold & ThreeFold Tech will do a lot of promotion and find channel_partners 
 
 Its up to ThreeFold to make sure that certified capacity gets deployed where it is needed first.
 
-All of this leads to much faster utilization of the TF_Farm IT capacity which results in the TF_Farmer getting access to their farmed tokens much faster.
+All of this leads to much faster utilization of the TF_Farm IT capacity which results in the TF_Farmer getting access to their farmed tokens faster.
 
 ### Higher Credibility Because Of Certification
 
@@ -61,6 +59,6 @@ These reputation scores will be visible on the TF_Chain
 
 This allows a farmer to see that the TFGrid users on the TF_Farm can be trusted.
 
-> (\*): planned H2 2021
+> (\*): planned easliest Q4 2021
 
 !!!include:farming_toc

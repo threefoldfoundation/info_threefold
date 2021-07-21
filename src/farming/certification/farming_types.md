@@ -14,6 +14,7 @@
 - Comes plug and play
 - Highest Uptime Requirements
 - Certification report given by TFTech or partners to describe farming situation (H2 2021).
+- see [farming certified requirements](farming_certified_requirements)
 
 !!!include:farming_certification_benefits
 

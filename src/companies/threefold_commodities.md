@@ -1,10 +1,12 @@
 # ThreeFold Commodities
 
+> NOT USED FOR NOW
+
 Based in DMCC commodities freezone in Dubai:
 
 ![](img/threefold_commodities_1.png)
 
-## Purpose
+## Planned Purpose
 
 - Help anyone to structure a Commodity_Token, also called Utility Token.
 - TFT is a Commodity Token, it's used to sell and buy a commodity – in our case, ThreeFold Grid IT Capacity.
@@ -16,12 +18,12 @@ Please see below the ThreeFold DMCC license:
 
 ![](img/threefold_dmcc_license_certificate.png)
 
-### License Primary Address
+<!-- ### License Primary Address
 
 Unit No: 3O-01-BA1120 Jewellery & Gemplex 3 <br/>
 Plot No: DMCC-PH2-J&GPlexS Jewellery & Gemplex <br/>
 Dubai <br/>
-United Arab Emirates
+United Arab Emirates -->
 
 <!-- 
 

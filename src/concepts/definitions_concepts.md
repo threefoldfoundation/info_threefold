@@ -15,10 +15,10 @@ About the community:
 
 About the products / services:
 
-- [ThreeFold 3Node](3node)
-- [ThreeFold Capacity](ic_internet_capacity)
+- [ThreeFold 3Node](internet4:3node)
+- [ThreeFold Capacity](internet4:ic_internet_capacity)
 - 3Bot
-- [Digital Twin](digitaltwin)
+- [Digital Twin](internet4:digitaltwin)
 - [ThreeFold Token](threefold_token)
 
 About the technology:
