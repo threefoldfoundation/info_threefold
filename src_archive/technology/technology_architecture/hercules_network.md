@@ -21,7 +21,7 @@ No connection is made with the internet. Everything stays 100% private.
 
 ### Web Gateway
 
-![](./img/image3.png)
+![](img/image3.png)
 
 
 Each container has a secure connection to the web GW (socket only), this is not a network.
@@ -33,7 +33,7 @@ On the web gateways DNS interface is provided and HTTP(s) or TCP gets answered o
 
 ### Ultra Redundancy
 
-![](./img/image4.png)
+![](img/image4.png)
 
 
 Any app can get connected to any chosen IP address of ThreeFold network farmers.
@@ -47,7 +47,7 @@ When containers are moved or re-created the same end user connection can be reus
 
 ### Enterprise Connectivity (OEM)
 
-![](./img/image5.png)
+![](img/image5.png)
 
 
 For enterprise use cases we allow zero-os’es to be connected to any locally deployed networks.
@@ -69,13 +69,13 @@ The network configuration is defined using our smart contract for IT layer and a
 
 ### 100% redundancy
 
-![](./img/image6.png)
+![](img/image6.png)
 
 
 ### Unlimited Scalability
 
 
-![](hercules_scale_wg.png)
+![](img/hercules_scale_wg.png)
 
 
 The system is a pure scale-out network system, it can scale to unlimited size, there is simply no bottleneck inside this system. There can be unlimited network farmers providing the web gateways on their own 3nodes & unlimited compute farmers providing 3nodes for computing, of course the combination can be done as well which means 3nodes deliver compute & network & storage services altogether

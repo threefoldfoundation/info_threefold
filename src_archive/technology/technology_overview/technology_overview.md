@@ -30,8 +30,7 @@ Please do not hesitate to give us feedback. For us, the technology is now so nat
 
 ### More ThreeFold Whitepapers
 
-* [White Paper: The Blockchain Dilemma Problem](blockchain_dilemma_whitepaper)
-* [White Paper: Bringing Trust is a Human Mission, Not a Blockchain One](bringing_trust_is_a_human_task)
-* [White Paper: Grid or Edge](edge_cloud_not_grid_cloud)
-* [White Paper: IT Systems Without People Involved Are the Future](zero_people_it_is_the_future)
-
+* [White Paper: The Blockchain Dilemma Problem](internet4:blockchain_dilemma_whitepaper)
+* [White Paper: Bringing Trust is a Human Mission, Not a Blockchain One](internet4:bringing_trust_is_a_human_task)
+* [White Paper: Grid or Edge](internet4:edge_cloud_not_grid_cloud)
+* [White Paper: IT Systems Without People Involved Are the Future](internet4:zero_people_it_is_the_future)
