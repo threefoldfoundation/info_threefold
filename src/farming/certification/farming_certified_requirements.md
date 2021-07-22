@@ -16,11 +16,11 @@ Requirements:
 - Measurement of SLA (see below) done by consensus3 engine.
 - Agreement about vesting already farmed TFT for farmers of TFGrid 2.0 see [vesting_overview](vesting_overview).
 
-## Certified Farm
+### Certified Farm
 
 Certified Farms are made up of Certified nodes, but will have to comply with more requirements than just have deploying Certified Nodes. Certified Farmers will only be rewarded as certified if following requirements are met.
 
-### Requirements Generic
+#### Requirements Generic
 
 - sign terms and conditions document with threefold_dubai
 - terms & conditions contract: farmer agrees that 
@@ -33,7 +33,7 @@ Certified Farms are made up of Certified nodes, but will have to comply with mor
   - Measurement of SLA (see below) done by consensus3 engine.
   - Agreement about vesting already farmed TFT for farmers of TFGrid 2.0 see [vesting_overview](vesting_overview).
 
-### Requirements Network
+#### Requirements Network
 
 - 99.5% uptime
 - 2 IP feeds (*)
@@ -44,7 +44,7 @@ Certified Farms are made up of Certified nodes, but will have to comply with mor
 
 (*) = in case of datacenter or commercial deployment
 
-### Requirements Service Level
+#### Requirements Service Level
 
 The TF_Farmer needs to agree to a set of minimal service level agreements to do with
 
@@ -58,7 +58,7 @@ The TF_Farmer needs to agree to a set of minimal service level agreements to do 
 
 (*) = in case of datacenter or commercial deployment
 
-### Bandwidth Requirement for archive/storage usecase.
+#### Bandwidth Requirement for archive/storage usecase.
 
 A storage usecase needs a lot of bandwidth to allow the storage nodes to be fillend and also to allow its customers to download the information.
 
@@ -66,7 +66,7 @@ Its the obligation of the farmer to make sure that enough bandwidth is available
 
 It should always be possible to have at least 1 mbit/sec per Zero_DB (which is a storage container running on 1 harddisk or ssd).
 
-### Reputation & Monitoring Engine
+#### Reputation & Monitoring Engine
 
 The TFGrid has a reputation engine and a monitoring engine to measure uptime & other SLA requirements, see consensus3.
 
@@ -76,5 +76,3 @@ Factors the TFGrid Reputation_engine will look at (Q4 2021, latest Q1 2022)
 - Latency
 - Utilization
 - Uptime (nodes & network)
-
- 
