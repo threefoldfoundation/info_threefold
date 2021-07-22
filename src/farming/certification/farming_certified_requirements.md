@@ -1,8 +1,24 @@
 ![](img/grid_banner.jpg)
 
-## Certified Farmer Requirements 
+## Certified Farming Requirements 
 
-- Farmers will only be rewarded as certified if following requirements are met.
+### Certified Node
+
+A Certified Node is a node which comes locked and does not allow the owner to make fundamental changes to the node.  It will comes with a locked down BIOS which makes it impossible to make changes to the operating system and secure that the node will run the right version os Zero-OS.  The TitanV2 node is a certfified node (the only certified node at this point in time).  Cerrtified nodes are eligeble for certified rewards
+
+Requirements:
+- node created and distributed by a ThreeFold certified cooperations (BetterToken), with a locked BIOS
+- For 2021. H1 2022, [Grid pricing](cloudunits_pricing) is defined by wisdom_council but this will probably change and become part of the DAO.
+- TFTech as subcontractor for threefold_dubai delivers software support for the tfgrid_primitives (only defect support and certified builds).
+- All information required to be a farmer can be found on our knowledgebase: https://info.threefold.io/
+- TFT rewards (farming) is the result of the blockchain as operated by consensus3 concept. If SLA is not achieved TFT will NOT be rewarded that month.
+- TFT rewards are done in line with [farming reward document](farming_reward).
+- Measurement of SLA (see below) done by consensus3 engine.
+- Agreement about vesting already farmed TFT for farmers of TFGrid 2.0 see [vesting_overview](vesting_overview).
+
+## Certified Farm
+
+Certified Farms are made up of Certified nodes, but will have to comply with more requirements than just have deploying Certified Nodes. Certified Farmers will only be rewarded as certified if following requirements are met.
 
 ### Requirements Generic
 
@@ -50,10 +66,7 @@ Its the obligation of the farmer to make sure that enough bandwidth is available
 
 It should always be possible to have at least 1 mbit/sec per Zero_DB (which is a storage container running on 1 harddisk or ssd).
 
-
-### Remarks Farming Requirements
-
-#### Reputation & Monitoring Engine
+### Reputation & Monitoring Engine
 
 The TFGrid has a reputation engine and a monitoring engine to measure uptime & other SLA requirements, see consensus3.
 
