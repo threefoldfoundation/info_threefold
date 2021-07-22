@@ -2,6 +2,7 @@
 
 ## Certified Farming Requirements 
 
+
 Certfified farmng exists in two forms:
 - a certfied node
 - a certifed farm with multiple certified nodes
