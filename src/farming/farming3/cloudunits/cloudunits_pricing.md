@@ -14,7 +14,7 @@
 | IPv4 Address            | Public Ip Address as used by a TFGrid user       | 5             | 100           |
 
 
-- (*) Pricing in micro TFT = TFT/1000 and is pegged to USD, discounts see below.
+- (*) Pricing in milli TFT = TFT/1000 and is pegged to USD, discounts see below.
 - pricing is calculated per hour for the TFGrid 3.0 using our consensus3 concept.
 - pricing of certified capacity is 25% more (x 1.25)
 - [calculator link here](https://secure.threefold.me/sheet/#/2/sheet/view/fKtztayZuHQ--qqU2Jg0xGpELaYcKnyKzGkxPir+Nho/embed/)
