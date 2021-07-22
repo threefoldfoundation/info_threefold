@@ -13,7 +13,7 @@ This page explains the differences between certified nodes and certified farms
 
 A Certified Node is a node which comes locked and does not allow the owner to make fundamental changes to the node.  It will comes with a locked down BIOS which makes it impossible to make changes to the operating system and secure that the node will run the right version os Zero-OS.  The TitanV2 node is a certfified node (the only certified node at this point in time).  Cerrtified nodes are eligeble for certified rewards
 
-#### Generic Requirements
+#### Requirements Generic
 - node created and distributed by a ThreeFold certified cooperations (BetterToken), with a locked BIOS
 - For 2021. H1 2022, [Grid pricing](cloudunits_pricing) is defined by wisdom_council but this will probably change and become part of the DAO.
 - TFTech as subcontractor for threefold_dubai delivers software support for the tfgrid_primitives (only defect support and certified builds).
@@ -23,7 +23,7 @@ A Certified Node is a node which comes locked and does not allow the owner to ma
 - Measurement of SLA (see below) done by consensus3 engine.
 - Agreement about vesting already farmed TFT for farmers of TFGrid 2.0 see [vesting_overview](vesting_overview).
 
-#### Requirements Network
+#### Requirements Uptime and Network
 
 - 97% uptime is accepted in home farming situations
 - 1 IP feed (consumer provider)
