@@ -18,7 +18,7 @@ Requirements:
 
 ### Certified Farm
 
-Certified Farms are made up of Certified nodes, but will have to comply with more requirements than just have deploying Certified Nodes. Certified Farmers will only be rewarded as certified if following requirements are met.
+Certified Farms are made up of Certified nodes, and to qualify as a cerrified farm you have to have more than 2 certified nodes). Certified farms have to comply with more requirements than just deploying Certified Nodes. Certified Farmers will only be rewarded as certified if following requirements are met.
 
 #### Requirements Generic
 
