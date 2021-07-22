@@ -2,6 +2,12 @@
 
 ## Certified Farming Requirements 
 
+Certfified farmng exists in two forms:
+- a certfied node
+- a certifed farm with multiple certified nodes
+
+This page explains the differences between certified nodes and certified farms
+
 ### Certified Node
 
 A Certified Node is a node which comes locked and does not allow the owner to make fundamental changes to the node.  It will comes with a locked down BIOS which makes it impossible to make changes to the operating system and secure that the node will run the right version os Zero-OS.  The TitanV2 node is a certfified node (the only certified node at this point in time).  Cerrtified nodes are eligeble for certified rewards
